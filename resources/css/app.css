@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    #home-event_name {
+        -webkit-text-stroke: 1px #E17F57;
+        text-shadow: 1px 1px 20px #060004;
+    }
+}
