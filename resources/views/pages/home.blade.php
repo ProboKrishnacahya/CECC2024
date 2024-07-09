@@ -29,7 +29,7 @@
     class="h-full space-y-8 bg-gradient-to-b from-custom-rich_black to-custom-dark_raspberry font-magical_neverland text-white antialiased">
     <main>
         <section class="bg-home-hero bg-cover bg-center bg-no-repeat">
-            <div class="space-y-8 py-16 text-center md:px-32 lg:px-72">
+            <div class="space-y-8 py-16 text-center md:px-8 lg:px-48">
                 <div class="flex justify-center gap-3">
                     <img src="{{ url('/images/brand/Logo UKWMS.svg') }}" alt=""
                         class="w-16 transition-all hover:scale-110">
@@ -40,8 +40,9 @@
                 </div>
 
                 <div class="text-custom-sunny" id="home-event_name">
-                    <h1 class="text-4xl uppercase md:text-6xl">Chemical Engineering Challenge & Competition</h1>
-                    <h1 class="text-4xl md:text-6xl">2024</h1>
+                    <h1 class="text-4xl uppercase md:text-6xl lg:text-7xl">Chemical Engineering Challenge & Competition
+                    </h1>
+                    <h1 class="text-4xl md:text-6xl lg:text-7xl">2024</h1>
                 </div>
 
                 <img src="{{ url('/images/home/Tema.svg') }}" alt="" class="mx-auto w-3/4 md:w-2/3">
@@ -49,27 +50,28 @@
         </section>
 
         <section class="relative p-4 sm:p-6 lg:p-8">
-            <img src="{{ url('/images/home/Apa itu CECC.svg') }}" alt="" class="mx-auto w-5/6 md:w-3/4">
-            <img src="{{ url('/images/home/Visi & Misi.svg') }}" alt="" class="z-50 mx-auto w-5/6 md:w-3/4">
+            <img src="{{ url('/images/home/Apa itu CECC.svg') }}" alt="" class="z-50 mx-auto w-5/6 md:w-3/4">
+            <img src="{{ url('/images/home/Visi & Misi.svg') }}" alt="" class="z-50 mx-auto w-11/12">
 
-            <img src="{{ url('/images/home/Cairan.svg') }}" alt="" class="absolute left-0 top-28 w-20 md:w-32 lg:w-96">
+            <img src="{{ url('/images/home/Cairan.svg') }}" alt=""
+                class="absolute left-0 top-36 w-20 md:w-32 lg:top-56 lg:w-80">
             <img src="{{ url('/images/home/Botol Kiri.svg') }}" alt=""
-                class="absolute -bottom-10 left-0 -z-50 w-20 md:-bottom-32 lg:-bottom-64 md:w-48 lg:w-80">
+                class="absolute -bottom-10 left-0 -z-50 w-20 md:-bottom-32 md:w-48 lg:-bottom-64 lg:w-80">
             <img src="{{ url('/images/home/Blink Oranye Tengah.svg') }}" alt=""
                 class="absolute bottom-0 left-1/2 -z-50 w-16 -translate-x-1/2 -translate-y-1/2 transform md:w-56 lg:w-80">
             <img src="{{ url('/images/home/Blink Oranye Kanan.svg') }}" alt=""
-                class="absolute right-0 top-24 w-16 md:w-32 lg:w-80">
+                class="absolute right-0 top-24 -z-50 w-16 md:w-32 lg:w-80">
         </section>
 
         <section class="relative">
             <img src="{{ url('/images/home/Timeline.svg') }}" alt="" class="mx-auto w-1/4">
 
             <img src="{{ url('/images/home/Botol Tongkat.svg') }}" alt=""
-                class="absolute -top-32 right-0 w-20 md:-top-36 lg:-top-80 md:w-36 lg:w-80">
+                class="absolute -top-32 right-0 w-20 md:-top-36 md:w-36 lg:-top-80 lg:w-80">
 
             <div class="grid gap-3 md:grid-cols-2 lg:gap-0">
                 <img src="{{ url('/images/home/Penyihir.svg') }}" alt="" class="hidden md:block">
-                <div class="flex items-center justify-start gap-3 p-4 font-magic lg:p-0">
+                <div class="flex items-center justify-start gap-3 p-4 font-magic text-lg lg:p-0">
                     <img src="{{ url('/images/home/September.svg') }}" alt="" class="w-1/4">
                     <div>
                         <p>Master in Chemistry, Experiment with Us & Lab Tour</p>
@@ -78,7 +80,7 @@
                 </div>
             </div>
             <div class="grid gap-3 md:grid-cols-2 lg:gap-0">
-                <div class="flex items-center justify-start gap-3 p-4 font-magic lg:justify-center lg:p-0">
+                <div class="flex items-center justify-start gap-3 p-4 font-magic text-lg lg:justify-center lg:p-0">
                     <img src="{{ url('/images/home/Oktober.svg') }}" alt="" class="w-1/4">
                     <div>
                         <p>Technical Meeting & Try Out</p>
@@ -90,8 +92,8 @@
                 </div>
                 <img src="{{ url('/images/home/Kalung.svg') }}" alt="" class="mx-auto hidden w-1/2 md:block">
             </div>
-            <div class="flex items-center justify-center gap-3 font-magic md:ms-24">
-                <img src="{{ url('/images/home/November.svg') }}" alt="" class="mt-8 w-24 lg:w-40">
+            <div class="mt-8 flex items-center justify-center gap-3 font-magic text-lg md:ms-24">
+                <img src="{{ url('/images/home/November.svg') }}" alt="" class="w-24 lg:w-40">
                 <div>
                     <p>Babak Semifinal dan Final</p>
                     <p>Sabtu, 9 November 2024 (Offline)</p>
@@ -99,20 +101,20 @@
                 </div>
             </div>
 
-            <img src="{{ url('/images/home/Pembaca.svg') }}" alt="" class="z-50 mt-16 hidden w-2/5 md:block">
+            <img src="{{ url('/images/home/Pembaca.svg') }}" alt="" class="z-50 mt-24 hidden w-5/12 md:block">
 
             <img src="{{ url('/images/home/Blink Pink Atas.svg') }}" alt=""
                 class="absolute left-1/2 top-96 -z-50 mt-36 hidden w-1/3 -translate-x-3/4 -translate-y-1/2 transform md:block">
             <img src="{{ url('/images/home/Blink Pink Tengah.svg') }}" alt=""
                 class="absolute left-48 top-96 -z-50 mt-96 hidden w-1/4 md:block">
             <img src="{{ url('/images/home/Blink Pink Bawah.svg') }}" alt=""
-                class="absolute left-80 top-96 -z-50 mt-96 hidden w-1/3 pt-64 md:block">
+                class="absolute left-96 top-96 -z-50 mt-96 hidden w-1/3 pt-64 md:block">
             <img src="{{ url('/images/home/Berlian Hijau.svg') }}" alt=""
-                class="absolute bottom-96 right-8 hidden w-20 md:block">
+                class="absolute bottom-96 right-36 hidden w-16 md:block">
             <img src="{{ url('/images/home/Tangan Bola Api.svg') }}" alt=""
                 class="absolute -bottom-32 right-0 hidden w-72 md:block">
             <img src="{{ url('/images/home/Blink Oranye Kiri.svg') }}" alt=""
-                class="absolute bottom-96 left-0 mb-48 hidden md:w-32 lg:w-48 md:block">
+                class="absolute bottom-96 left-0 mb-48 hidden md:block md:w-32 lg:w-48">
         </section>
 
         <section class="p-4 sm:p-6 lg:p-8">
