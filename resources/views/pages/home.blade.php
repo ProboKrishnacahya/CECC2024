@@ -26,7 +26,7 @@
 </head>
 
 <body
-    class="h-full space-y-8 bg-gradient-to-b from-custom-rich_black to-custom-dark_raspberry font-magical_neverland text-white antialiased">
+    class="h-full space-y-8 font-magical_neverland text-white antialiased bg-background">
     <main>
         <section class="bg-home-hero bg-cover bg-center bg-no-repeat">
             <div class="space-y-8 py-16 text-center md:px-8 lg:px-48">
@@ -160,7 +160,7 @@
             </div>
         </section>
 
-        <img src="{{ url('/images/home/Background.svg') }}" alt="">
+        <img src="{{ url('/images/home/Gunung.svg') }}" alt="">
     </main>
 </body>
 
