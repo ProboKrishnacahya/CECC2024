@@ -25,18 +25,17 @@
     <link rel="icon" href="{{ url('images/brand/Logo CECC.svg?v=2') }}" type="image/svg" />
 </head>
 
-<body
-    class="h-full space-y-8 font-magical_neverland text-white antialiased bg-background">
+<body class="h-full space-y-8 bg-background font-magical_neverland text-white antialiased">
     <main>
         <section class="bg-home-hero bg-cover bg-center bg-no-repeat">
             <div class="space-y-8 py-16 text-center md:px-8 lg:px-48">
-                <div class="flex justify-center gap-3">
+                <div class="mx-auto flex w-fit gap-3 rounded-full bg-custom-ube bg-opacity-30 px-4 py-2">
                     <img src="{{ url('/images/brand/Logo UKWMS.svg') }}" alt=""
-                        class="w-16 transition-all hover:scale-110">
+                        class="w-16 transition-all hover:scale-105">
                     <img src="{{ url('/images/brand/Logo DoCE.svg') }}" alt=""
-                        class="w-16 transition-all hover:scale-110">
+                        class="w-16 transition-all hover:scale-105">
                     <img src="{{ url('/images/brand/Logo CECC.svg') }}" alt=""
-                        class="w-16 transition-all hover:scale-110">
+                        class="w-16 transition-all hover:scale-105">
                 </div>
 
                 <div class="text-custom-sunny" id="home-event_name">

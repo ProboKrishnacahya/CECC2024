@@ -1,10 +1,17 @@
 <svg width="1920" height="11392" viewBox="0 0 1920 11392" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g filter="url(#filter0_f_6258_3161)">
 <rect width="1920" height="3380.16" fill="url(#pattern0_6258_3161)"/>
 <rect width="1920" height="3380.16" transform="matrix(1 0 0 -1 0 6759.16)" fill="url(#pattern1_6258_3161)"/>
 <rect y="6756" width="1920" height="3380.16" fill="url(#pattern2_6258_3161)"/>
 <rect width="1920" height="3380.16" transform="matrix(1 0 0 -1 0 13516.2)" fill="url(#pattern3_6258_3161)"/>
 <rect width="1920" height="11392" fill="black" fill-opacity="0.3"/>
+</g>
 <defs>
+<filter id="filter0_f_6258_3161" x="-2" y="-2" width="1924" height="13520.2" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="1" result="effect1_foregroundBlur_6258_3161"/>
+</filter>
 <pattern id="pattern0_6258_3161" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_6258_3161" transform="scale(0.0005 0.00028401)"/>
 </pattern>

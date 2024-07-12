@@ -19,6 +19,7 @@ export default {
                 custom: {
                     dark_raspberry: '#892C55',
                     rich_black: '#060004',
+                    ube: '#8C79C9',
                     sunny: '#F8F27C',
                     terra_cotta: '#E17F57',
                 }
