@@ -25,10 +25,10 @@
     <link rel="icon" href="{{ url('images/brand/Logo CECC.svg?v=2') }}" type="image/svg" />
 </head>
 
-<body class="h-full space-y-8 bg-background font-magical_neverland text-white antialiased">
+<body class="h-full space-y-8 bg-background bg-cover font-magical_neverland text-white antialiased">
     <main>
         <section class="bg-home-hero bg-cover bg-center bg-no-repeat">
-            <div class="space-y-8 py-16 text-center md:px-8 lg:px-48">
+            <div class="space-y-8 px-4 py-16 text-center md:px-8 lg:px-48">
                 <div class="mx-auto flex w-fit gap-3 rounded-full bg-custom-ube bg-opacity-30 px-4 py-2">
                     <img src="{{ url('/images/brand/Logo UKWMS.svg') }}" alt=""
                         class="w-16 transition-all hover:scale-105">
@@ -45,22 +45,24 @@
                     <h1 class="text-4xl/tight md:text-6xl/tight lg:text-7xl/tight">2024</h1>
                 </div>
 
-                <img src="{{ url('/images/home/Tema.svg') }}" alt="" class="mx-auto w-3/4 md:w-2/3">
+                <img src="{{ url('/images/home/Tema.png') }}" alt="" class="mx-auto w-3/4 md:w-2/3">
             </div>
         </section>
 
         <section class="relative p-4 sm:p-6 lg:p-8">
-            <img src="{{ url('/images/home/Apa itu CECC.svg') }}" alt="" class="z-50 mx-auto w-5/6 md:w-3/4">
-            <img src="{{ url('/images/home/Visi & Misi.svg') }}" alt="" class="z-50 mx-auto w-11/12">
+            <img src="{{ url('/images/home/Apa itu CECC.png') }}" alt="" class="z-50 mx-auto w-5/6 md:w-3/4">
+            <img src="{{ url('/images/home/Visi & Misi.png') }}" alt="" class="z-50 mx-auto w-11/12">
 
             <img src="{{ url('/images/home/Cairan.svg') }}" alt=""
-                class="absolute left-0 top-36 w-20 md:top-56 md:w-32 lg:w-80">
+                class="absolute left-0 top-32 w-20 md:top-56 md:w-32 lg:w-80">
             <img src="{{ url('/images/home/Botol Kiri.svg') }}" alt=""
-                class="absolute -bottom-10 left-0 -z-50 w-20 md:-bottom-32 md:w-48 lg:-bottom-64 lg:w-80">
+                class="absolute -bottom-16 left-0 -z-50 w-20 md:-bottom-56 md:w-40 lg:-bottom-96 lg:w-72">
+            <img src="{{ url('/images/home/Blink Oranye Kiri.svg') }}" alt=""
+                class="absolute bottom-24 left-16 -z-50 hidden -translate-y-1/2 transform md:block md:w-48 lg:w-64">
             <img src="{{ url('/images/home/Blink Oranye Tengah.svg') }}" alt=""
-                class="absolute bottom-0 left-1/2 -z-50 hidden -translate-x-1/2 -translate-y-1/2 transform md:block md:w-56 lg:w-80">
+                class="absolute bottom-0 left-1/2 -z-50 hidden -translate-x-1/2 -translate-y-1/2 transform md:block md:w-56 lg:w-96">
             <img src="{{ url('/images/home/Blink Oranye Kanan.svg') }}" alt=""
-                class="absolute right-0 top-24 -z-50 w-16 md:w-32 lg:w-80">
+                class="absolute right-0 top-24 -z-50 w-16 md:w-24 lg:w-64">
         </section>
 
         <section class="relative">
@@ -71,7 +73,7 @@
 
             <div class="grid gap-3 md:grid-cols-2 lg:gap-0">
                 <img src="{{ url('/images/home/Penyihir.svg') }}" alt="" class="hidden md:block">
-                <div class="flex items-center justify-start gap-3 p-4 font-magic text-lg lg:p-0">
+                <div class="flex items-center justify-start gap-3 px-4 py-1 font-magic text-lg md:py-4 lg:p-0">
                     <img src="{{ url('/images/home/September.svg') }}" alt="" class="w-1/4">
                     <div>
                         <p>Master in Chemistry, Experiment with Us & Lab Tour</p>
@@ -80,7 +82,8 @@
                 </div>
             </div>
             <div class="grid gap-3 md:grid-cols-2 lg:gap-0">
-                <div class="flex items-center justify-start gap-3 p-4 font-magic text-lg lg:justify-center lg:p-0">
+                <div
+                    class="flex items-center justify-start gap-3 px-4 py-1 font-magic text-lg md:justify-center md:py-4 lg:p-0">
                     <img src="{{ url('/images/home/Oktober.svg') }}" alt="" class="w-1/4">
                     <div>
                         <p>Technical Meeting & Try Out</p>
@@ -92,7 +95,8 @@
                 </div>
                 <img src="{{ url('/images/home/Kalung.svg') }}" alt="" class="mx-auto hidden w-1/2 md:block">
             </div>
-            <div class="mt-8 flex items-center justify-center gap-3 p-4 font-magic text-lg md:ms-24 lg:p-0">
+            <div
+                class="mt-8 flex items-center justify-center gap-3 px-4 py-1 font-magic text-lg md:ms-24 md:py-4 lg:p-0">
                 <img src="{{ url('/images/home/November.svg') }}" alt="" class="w-24 lg:w-40">
                 <div>
                     <p>Babak Semifinal dan Final</p>
@@ -101,20 +105,18 @@
                 </div>
             </div>
 
-            <img src="{{ url('/images/home/Pembaca.svg') }}" alt="" class="z-50 mt-24 hidden w-5/12 md:block">
+            <img src="{{ url('/images/home/Pembaca.svg') }}" alt="" class="z-50 hidden w-5/12 md:block">
 
-            <img src="{{ url('/images/home/Blink Pink Atas.svg') }}" alt=""
+            <img src="{{ url('/images/home/Blink Ungu Atas.svg') }}" alt=""
                 class="absolute left-1/2 -z-50 mt-36 hidden -translate-x-3/4 -translate-y-1/2 transform md:top-40 md:block md:w-1/4 lg:top-96 lg:w-1/3">
-            <img src="{{ url('/images/home/Blink Pink Tengah.svg') }}" alt=""
-                class="absolute -z-50 mt-96 hidden md:left-14 md:top-28 md:block md:w-1/5 lg:left-48 lg:top-96 lg:w-1/4">
-            <img src="{{ url('/images/home/Blink Pink Bawah.svg') }}" alt=""
-                class="absolute -z-50 mt-96 hidden pt-64 md:left-64 md:top-8 md:block md:w-1/4 lg:left-96 lg:top-96 lg:w-1/3">
+            <img src="{{ url('/images/home/Blink Ungu Tengah.svg') }}" alt=""
+                class="absolute -z-50 mt-96 hidden md:left-20 md:top-28 md:block md:w-1/5 lg:left-48 lg:top-96 lg:w-1/4">
+            <img src="{{ url('/images/home/Blink Ungu Bawah.svg') }}" alt=""
+                class="absolute -z-50 mt-96 hidden pt-64 md:left-56 md:top-8 md:block md:w-1/4 lg:left-96 lg:top-96 lg:w-1/3">
             <img src="{{ url('/images/home/Berlian Hijau.svg') }}" alt=""
-                class="absolute bottom-96 hidden w-16 md:right-16 md:block lg:right-36">
+                class="absolute bottom-96 mb-24 hidden w-16 md:right-16 md:block lg:right-36">
             <img src="{{ url('/images/home/Tangan Bola Api.svg') }}" alt=""
-                class="absolute right-0 hidden md:-bottom-16 md:block md:w-48 lg:-bottom-32 lg:w-72">
-            <img src="{{ url('/images/home/Blink Oranye Kiri.svg') }}" alt=""
-                class="absolute left-0 mb-48 hidden md:bottom-32 md:block md:w-24 lg:bottom-96 lg:w-48">
+                class="absolute right-0 hidden md:-bottom-32 md:block md:w-48 lg:-bottom-32 lg:w-72">
         </section>
 
         <section class="p-4 sm:p-6 lg:p-8">
@@ -151,7 +153,7 @@
                     class="h-8 flex-1 md:h-16 lg:h-24">
             </div>
 
-            <img src="{{ url('/images/home/Bingkai.svg') }}" alt="" class="mx-auto w-5/6 md:w-3/4">
+            <img src="{{ url('/images/home/Bingkai.svg') }}" alt="" class="mx-auto my-5 w-5/6 md:w-3/4">
 
             <div class="mx-auto flex w-5/6 justify-between gap-3">
                 <img src="{{ url('/images/home/Supported By.svg') }}" alt="" class="w-1/2 md:w-1/3">

@@ -12,7 +12,7 @@ export default {
     theme: {
         extend: {
             backgroundImage: {
-                'background': 'url(' + path.resolve(__dirname, 'public/images/Background.svg') + ')',
+                'background': 'url(' + path.resolve(__dirname, 'public/images/Background.jpg') + ')',
                 'home-hero': 'url(' + path.resolve(__dirname, 'public/images/home/Hero.svg') + ')',
             },
             colors: {
