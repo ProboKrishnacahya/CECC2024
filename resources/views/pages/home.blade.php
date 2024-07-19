@@ -119,12 +119,12 @@
                 class="absolute right-0 hidden md:-bottom-32 md:block md:w-48 lg:-bottom-32 lg:w-72">
         </section>
 
-        <section class="p-4 sm:p-6 lg:p-8">
+        <section class="px-4 md:px-8 lg:px-20">
             <img src="{{ url('/images/home/Penghargaan.svg') }}" alt="" class="mx-auto w-2/3 md:w-1/2">
 
             <img src="{{ url('/images/home/Juara.svg') }}" alt="" class="mx-auto">
             <div class="flex justify-center gap-3 text-center font-metal_mania">
-                <div class="md:px-4 lg:px-10">
+                <div class="md:px-4 lg:px-14">
                     <p class="text-3xl">Juara 2</p>
                     <p>uang tunai Rp 3.000.000,00 + plakat + piagam penghargaan</p>
                 </div>
@@ -144,7 +144,7 @@
                 kimia Universitas Katolik Widya Mandala Surabaya</p>
         </section>
 
-        <section>
+        <section class="my-5">
             <div class="flex items-center">
                 <img src="{{ url('/images/home/Berlian Pink.svg') }}" alt=""
                     class="h-8 flex-1 md:h-16 lg:h-24">
@@ -153,9 +153,10 @@
                     class="h-8 flex-1 md:h-16 lg:h-24">
             </div>
 
-            <img src="{{ url('/images/home/Bingkai.svg') }}" alt="" class="mx-auto my-5 w-5/6 md:w-3/4">
+            <img src="{{ url('/images/home/Bingkai.svg') }}" alt=""
+                class="mx-auto my-5 w-5/6 md:w-3/4 lg:px-6">
 
-            <div class="mx-auto flex w-5/6 justify-between gap-3">
+            <div class="mx-auto flex w-5/6 justify-around gap-3">
                 <img src="{{ url('/images/home/Supported By.svg') }}" alt="" class="w-1/2 md:w-1/3">
                 <img src="{{ url('/images/home/Media Partner.svg') }}" alt="" class="w-1/2 md:w-1/3">
             </div>
