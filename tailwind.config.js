@@ -13,7 +13,7 @@ export default {
         extend: {
             backgroundImage: {
                 'background': 'url(' + path.resolve(__dirname, 'public/images/Background.jpg') + ')',
-                'home-hero': 'url(' + path.resolve(__dirname, 'public/images/home/Hero.svg') + ')',
+                'home-hero': 'url(' + path.resolve(__dirname, 'public/images/Hero/Hero.svg') + ')',
             },
             colors: {
                 custom: {
