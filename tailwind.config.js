@@ -22,6 +22,13 @@ export default {
                     ube: '#8C79C9',
                     sunny: '#F8F27C',
                     terra_cotta: '#E17F57',
+                    licorice: '#170015',
+                    eerie_black: '#18092B19',
+                    cadmium_violet: '#913E97',
+                    bright_lavender: '#B990EA',
+                    shampoo: '#FFCDFF',
+                    american_purple: '#57184A',
+                    dark_purple: '#3F1536'
                 }
             },
             fontFamily: {
