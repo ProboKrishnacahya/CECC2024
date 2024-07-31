@@ -23,7 +23,17 @@
 </head>
 
 <body class="h-full space-y-8 bg-background bg-cover font-magical_neverland text-white antialiased">
-    <main>@yield('content')</main>
+    {{-- <x-banner /> --}}
+
+    @if (!request()->is('404'))
+        @livewire('navigation-menu')
+    @endif
+
+    <main>{{ $slot }}</main>
+
+    @stack('modals')
+
+    @livewireScripts
 </body>
 
 </html>

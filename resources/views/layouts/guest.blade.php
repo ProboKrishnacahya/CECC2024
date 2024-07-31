@@ -18,12 +18,21 @@
     {{-- Scripts --}}
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
+    {{-- Styles --}}
+    @livewireStyles
+
     {{-- Favicon --}}
     <link rel="icon" href="{{ url('images/brand/Logo CECC.svg?v=2') }}" type="image/svg" />
 </head>
 
 <body class="h-full space-y-8 bg-background bg-cover font-magical_neverland text-white antialiased">
-    <main>@yield('content')</main>
+    @if (!request()->is('404'))
+        @livewire('navigation-menu')
+    @endif
+
+    <main>{{ $slot }}</main>
+
+    @livewireScripts
 </body>
 
 </html>

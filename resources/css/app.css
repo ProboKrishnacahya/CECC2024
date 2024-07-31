@@ -2,7 +2,20 @@
 @tailwind components;
 @tailwind utilities;
 
+[x-cloak] {
+    display: none;
+}
+
 @layer base {
+    a {
+        text-decoration: none !important;
+    }
+
+    select,
+    input:is([type="checkbox"], [type="radio"]) {
+        cursor: pointer;
+    }
+
     #home-event_name {
         -webkit-text-stroke: 1px #E17F57;
         text-shadow: 1px 1px 20px #0600041a;

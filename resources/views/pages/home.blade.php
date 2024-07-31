@@ -1,11 +1,10 @@
-@extends('layouts.guest')
-
 @section('title', 'Chemical Engineering Challenge & Competition 2024')
 
-@section('content')
+<x-guest-layout>
     <x-hero />
 
-    <section class="relative bg-gradient-to-b from-custom-licorice from-10% to-custom-eerie_black to-20% p-4 sm:p-6 lg:p-8">
+    <section
+        class="relative bg-gradient-to-b from-custom-licorice from-10% to-custom-eerie_black to-20% p-4 sm:p-6 lg:p-8">
         <img src="{{ url('/images/Home/Apa itu CECC.png') }}" alt="" class="z-50 mx-auto w-5/6 md:w-3/4">
         <img src="{{ url('/images/Home/Visi & Misi.png') }}" alt="" class="z-50 mx-auto w-11/12">
 
@@ -112,4 +111,4 @@
     <section class="mt-10">
         <x-sponsors />
     </section>
-@endsection
+</x-guest-layout>
