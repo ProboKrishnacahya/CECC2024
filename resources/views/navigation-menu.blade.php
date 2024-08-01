@@ -41,7 +41,7 @@
                                 class="{{ $isGuidance ? 'bg-custom-ube px-2 py-2' : '' }} rounded-md font-medium hover:brightness-125">
                                 Guidance
                             </a>
-                            <a href="{{ route('competition') }}"
+                            <a href="#"
                                 class="{{ $isCompetition ? 'bg-custom-ube px-2 py-2' : '' }} rounded-md font-medium hover:brightness-125">
                                 Competition
                             </a>
@@ -131,7 +131,7 @@
                             class="{{ $isGuidance ? 'bg-custom-ube px-2 py-2' : '' }} rounded-md font-medium hover:brightness-125">
                             Guidance
                         </a>
-                        <a href="{{ route('competition') }}"
+                        <a href="#"
                             class="{{ $isCompetition ? 'bg-custom-ube px-2 py-2' : '' }} rounded-md font-medium hover:brightness-125">
                             Competition
                         </a>

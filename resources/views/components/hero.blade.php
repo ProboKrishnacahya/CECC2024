@@ -1,6 +1,6 @@
 <section class="relative bg-home-hero bg-cover bg-center bg-no-repeat">
-    <div class="from-1% absolute inset-0 bg-gradient-to-t from-custom-licorice to-custom-eerie_black to-10%"></div>
-    <div class="space-y-8 px-4 py-16 text-center md:px-8 lg:px-48">
+    <div class="from-1% absolute inset-0 bg-gradient-to-t from-custom-licorice to-custom-eerie_black to-5%"></div>
+    <div class="relative space-y-8 px-4 py-16 text-center md:px-8 lg:px-48">
         <div class="mx-auto flex w-fit gap-3 rounded-full bg-custom-ube bg-opacity-30 px-4 py-2">
             <img src="{{ url('/images/Hero/Logo UKWMS.svg') }}" alt="" class="w-16 transition-all hover:scale-105">
             <img src="{{ url('/images/Hero/Logo DoCE.svg') }}" alt="" class="w-16 transition-all hover:scale-105">

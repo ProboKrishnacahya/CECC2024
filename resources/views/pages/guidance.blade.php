@@ -3,7 +3,7 @@
 <x-guest-layout>
     <x-hero />
 
-    <section class="relative bg-gradient-to-b from-custom-licorice from-10% to-custom-eerie_black to-20%">
+    <section class="relative bg-gradient-to-b from-custom-licorice from-5% to-custom-eerie_black to-10%">
         <img src="{{ url('/images/Guidance/Guidance Tabs.svg') }}" alt=""
             class="absolute z-0 hidden w-full md:block">
 
@@ -180,8 +180,8 @@
                             <div class="mx-4 grid place-items-center gap-3 md:grid-cols-2 lg:mt-56 lg:gap-0">
                                 <img src="{{ url('/images/Guidance/Bebek.svg') }}" alt=""
                                     class="me-auto hidden md:ms-16 md:block md:w-1/4 lg:ms-36">
-                                    <img src="{{ url('/images/Guidance/Tongkat Gurita.svg') }}" alt=""
-                                        class="absolute right-0 hidden md:w-20 lg:w-32 lg:mb-12 md:block">
+                                <img src="{{ url('/images/Guidance/Tongkat Gurita.svg') }}" alt=""
+                                    class="absolute right-0 mb-12 hidden md:block md:w-20 lg:w-32">
                                 <div class="flex items-center gap-3 md:-ms-20 md:me-6 lg:-ms-72 lg:me-8">
                                     <div class="flex-auto">
                                         <img src="{{ url('/images/Guidance/Alur 3.svg') }}" alt=""
@@ -218,19 +218,27 @@
                 </div>
 
                 <div class="hidden" id="silabus" role="tabpanel" aria-labelledby="silabus-tab">
-                    <p>Silabus</p>
+                    <div class="my-5 lg:px-16 lg:py-5">
+                        <p>Silabus</p>
+                    </div>
                 </div>
 
                 <div class="hidden" id="penyisihan" role="tabpanel" aria-labelledby="penyisihan-tab">
-                    <p>Penyisihan</p>
+                    <div class="my-5 lg:px-16 lg:py-5">
+                        <p>Penyisihan</p>
+                    </div>
                 </div>
 
                 <div class="hidden" id="semi_final" role="tabpanel" aria-labelledby="semi_final-tab">
-                    <p>Semi Final</p>
+                    <div class="my-5 lg:px-16 lg:py-5">
+                        <p>Semi Final</p>
+                    </div>
                 </div>
 
                 <div class="hidden" id="final" role="tabpanel" aria-labelledby="final-tab">
-                    <p>Final</p>
+                    <div class="my-5 lg:px-16 lg:py-5">
+                        <p>Final</p>
+                    </div>
                 </div>
             </div>
         </div>
