@@ -9,6 +9,10 @@
 @layer base {
     a {
         text-decoration: none !important;
+
+        &:hover {
+            font-weight: bolder;
+        }
     }
 
     select,
