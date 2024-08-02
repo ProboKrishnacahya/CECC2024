@@ -90,8 +90,9 @@
                             </div>
                         </div>
                         <ul class="mx-8 list-disc font-magic md:mx-32 lg:mx-48">
-                            <li>Peserta merupakan pelajar aktif SMA/SMK/Sederajat</li>
-                            <li>1 tim terdiri dari 2 orang anggota dengan ketentuan berasal dari sekolah yang sama
+                            <li class="text-lg">Peserta merupakan pelajar aktif SMA/SMK/Sederajat</li>
+                            <li class="text-lg">1 tim terdiri dari 2 orang anggota dengan ketentuan berasal dari sekolah
+                                yang sama
                             </li>
                         </ul>
                     </div>
@@ -118,11 +119,12 @@
                                     </div>
                                     <div class="flex">
                                         <ul class="list-disc font-magic">
-                                            <li>Kartu pelajar/surat rekomendasi dalam bentuk PDF</li>
-                                            <li>Foto diri dalam bentuk JPG dengan ketentuan rapi berkerah dengan
+                                            <li class="text-lg">Kartu pelajar/surat rekomendasi dalam bentuk PDF</li>
+                                            <li class="text-lg">Foto diri dalam bentuk JPG dengan ketentuan rapi
+                                                berkerah dengan
                                                 background berwarna bebas dan polos</li>
-                                            <li>Bukti pembayaran pendaftaran</li>
-                                            <li>Screenshot bukti follow Instagram <a
+                                            <li class="text-lg">Bukti pembayaran pendaftaran</li>
+                                            <li class="text-lg">Screenshot bukti follow Instagram <a
                                                     href="https://www.instagram.com/ceccukwms/" target="_blank"
                                                     rel="noopener noreferrer">@ceccukwms</a> dari masing-masing anggota
                                                 tim dalam bentuk JPG</li>
@@ -131,40 +133,41 @@
                                 </div>
                             </div>
                             <div
-                                class="mx-4 my-4 grid place-items-center gap-3 md:my-0 md:-mt-32 md:grid-cols-2 lg:my-12 lg:gap-0">
+                                class="mx-4 my-4 grid place-items-center gap-3 md:my-0 md:-mt-40 md:grid-cols-2 lg:my-12 lg:gap-0">
                                 <div class="grid gap-2 md:mx-6">
                                     <img src="{{ url('/images/Guidance/Alur 2.svg') }}" alt=""
                                         class="mx-auto w-2/5 md:me-auto lg:ms-36">
-                                    <div class="grid grid-cols-2 gap-4 font-magic lg:ms-36">
+                                    <div class="grid grid-cols-2 gap-4 font-magic lg:ms-36 ms-4">
                                         <div>
                                             <ul class="list-disc">
-                                                <li>Batch 1</li>
-                                                <p>1 Juli - 31 Agustus 2024</p>
-                                                <p>Biaya pendaftaran:</p>
-                                                <div class="ms-8">
+                                                <li class="text-lg">Batch 1</li>
+                                                <p class="text-lg">1 Juli - 31 Agustus 2024</p>
+                                                <p class="text-lg">Biaya pendaftaran:</p>
+                                                <ul class="ms-8 list-disc">
                                                     <li>Opsi 1: Rp80.000/tim</li>
                                                     <li>Opsi 2: Rp200,000/3 tim</li>
-                                                </div>
+                                                </ul>
                                             </ul>
                                             <ul class="list-disc">
-                                                <li>Batch 2</li>
-                                                <p>1 September - 7 Oktober 2024</p>
-                                                <p>Biaya pendaftaran:</p>
+                                                <li class="text-lg">Batch 2</li>
+                                                <p class="text-lg">1 September - 7 Oktober 2024</p>
+                                                <p class="text-lg">Biaya pendaftaran:</p>
                                                 <ul class="ms-8 list-disc">
-                                                    <li>Opsi 1: Rp100.000/tim</li>
-                                                    <li>Opsi 2: Rp260,000/3 tim</li>
+                                                    <li class="text-lg">Opsi 1: Rp100.000/tim</li>
+                                                    <li class="text-lg">Opsi 2: Rp260,000/3 tim</li>
                                                 </ul>
                                             </ul>
                                         </div>
                                         <div>
                                             <ul class="list-disc">
-                                                <li>Biaya pendaftaran dapat ditransfer ke bendahara CECC 2024 melalui
+                                                <li class="text-lg">Biaya pendaftaran dapat ditransfer ke bendahara
+                                                    CECC 2024 melalui
                                                     beberapa
                                                     opsi
                                                     berikut:</li>
                                                 <ul class="ms-8 list-disc">
-                                                    <li>Bank ....</li>
-                                                    <li>Bank ....</li>
+                                                    <li class="text-lg">Bank ....</li>
+                                                    <li class="text-lg">Bank ....</li>
                                                 </ul>
                                             </ul>
                                         </div>
@@ -188,7 +191,8 @@
                                             class="md:h-28 md:w-fit lg:h-36">
                                     </div>
                                     <div class="flex">
-                                        <p class="font-magic">Mengisi data diri dan mengupload berkas pendaftaran</p>
+                                        <p class="font-magic text-lg">Mengisi data diri dan mengupload berkas
+                                            pendaftaran</p>
                                     </div>
                                 </div>
                             </div>
@@ -197,17 +201,18 @@
                                 <img src="{{ url('/images/Guidance/Alur 4.svg') }}" alt="" class="md:w-1/5">
                                 <div class="font-magic md:w-1/3">
                                     <ul class="ms-8 list-disc">
-                                        <li>Konfirmasi pendaftaran</li>
-                                        <li>Akun login website</li>
-                                        <li>Link WAG CECC 2024</li>
+                                        <li class="text-lg">Konfirmasi pendaftaran</li>
+                                        <li class="text-lg">Akun login website</li>
+                                        <li class="text-lg">Link WAG CECC 2024</li>
                                     </ul>
                                     <br>
-                                    <p>Segala pemberitahuan akan disampaikan melalui IG, FB, Twitter, dan WAG CECC
+                                    <p class="text-lg">Segala pemberitahuan akan disampaikan melalui IG, FB, Twitter,
+                                        dan WAG CECC
                                         2024</p>
                                 </div>
                             </div>
                             <img src="{{ url('/images/Guidance/Pembaca.svg') }}" alt=""
-                                class="relative -z-10 w-full md:-mt-56 lg:-mt-72">
+                                class="relative -z-10 w-full md:-mt-48 lg:-mt-72">
                         </div>
 
                         <img src="{{ url('/images/Guidance/Tombak.svg') }}" alt=""
@@ -219,25 +224,25 @@
 
                 <div class="hidden" id="silabus" role="tabpanel" aria-labelledby="silabus-tab">
                     <div class="my-5 lg:px-16 lg:py-5">
-                        <p>Silabus</p>
+                        <p class="text-lg">Silabus</p>
                     </div>
                 </div>
 
                 <div class="hidden" id="penyisihan" role="tabpanel" aria-labelledby="penyisihan-tab">
                     <div class="my-5 lg:px-16 lg:py-5">
-                        <p>Penyisihan</p>
+                        <p class="text-lg">Penyisihan</p>
                     </div>
                 </div>
 
                 <div class="hidden" id="semi_final" role="tabpanel" aria-labelledby="semi_final-tab">
                     <div class="my-5 lg:px-16 lg:py-5">
-                        <p>Semi Final</p>
+                        <p class="text-lg">Semi Final</p>
                     </div>
                 </div>
 
                 <div class="hidden" id="final" role="tabpanel" aria-labelledby="final-tab">
                     <div class="my-5 lg:px-16 lg:py-5">
-                        <p>Final</p>
+                        <p class="text-lg">Final</p>
                     </div>
                 </div>
             </div>
