@@ -5,8 +5,8 @@
 
     <section
         class="relative bg-gradient-to-b from-custom-licorice from-5% to-custom-eerie_black to-10% p-4 sm:p-6 lg:p-8">
-        <img src="{{ url('/images/Home/Apa itu CECC.png') }}" alt="" class="z-50 mx-auto w-5/6 md:w-3/4">
-        <img src="{{ url('/images/Home/Visi & Misi.png') }}" alt="" class="z-50 mx-auto w-11/12">
+        <img src="{{ url('/images/Home/Apa itu CECC.png') }}" alt="" class="z-10 mx-auto w-5/6 md:w-3/4">
+        <img src="{{ url('/images/Home/Visi & Misi.png') }}" alt="" class="z-10 mx-auto w-11/12">
 
         <img src="{{ url('/images/Home/Cairan.svg') }}" alt=""
             class="absolute left-0 top-32 w-20 md:top-56 md:w-32 lg:w-80">
@@ -59,7 +59,7 @@
             </div>
         </div>
 
-        <img src="{{ url('/images/Home/Pembaca.svg') }}" alt="" class="z-50 hidden w-5/12 md:block">
+        <img src="{{ url('/images/Home/Pembaca.svg') }}" alt="" class="z-10 hidden w-5/12 md:block">
 
         <img src="{{ url('/images/Home/Blink Ungu Atas.svg') }}" alt=""
             class="absolute left-1/2 -z-50 mt-36 hidden -translate-x-3/4 -translate-y-1/2 transform md:top-40 md:block md:w-1/4 lg:top-96 lg:w-1/3">

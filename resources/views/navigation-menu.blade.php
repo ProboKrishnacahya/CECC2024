@@ -9,7 +9,7 @@
 
     <div x-data="{ open: false }">
         <!-- Off-canvas menu for mobile, show/hide based on off-canvas menu state. -->
-        <div x-show="open" class="fixed inset-0 z-40 flex md:hidden" role="dialog" aria-modal="true">
+        <div x-show="open" class="fixed inset-0 z-50 flex md:hidden" role="dialog" aria-modal="true">
             <!-- Off-canvas menu overlay, show/hide based on off-canvas menu state. -->
             <div class="fixed inset-0 bg-black bg-opacity-50" aria-hidden="true"></div>
 
@@ -104,7 +104,7 @@
         </div>
 
         <!-- Static sidebar for desktop -->
-        <div x-show="open" class="z-40 hidden md:fixed md:inset-y-0 md:flex md:w-64 md:flex-col">
+        <div x-show="open" class="z-50 hidden md:fixed md:inset-y-0 md:flex md:w-64 md:flex-col">
             <div class="fixed inset-0 bg-black bg-opacity-50" aria-hidden="true"></div>
             <div class="flex min-h-0 flex-1 flex-col bg-white/30 text-white backdrop-blur-md">
                 <div class="flex flex-1 flex-col overflow-y-auto p-4">

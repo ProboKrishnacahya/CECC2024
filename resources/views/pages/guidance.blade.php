@@ -7,7 +7,7 @@
         <img src="{{ url('/images/Guidance/Guidance Tabs.svg') }}" alt=""
             class="absolute z-0 hidden w-full md:block">
 
-        <div class="relative z-50">
+        <div class="relative z-10">
             <div class="mb-4 p-4 lg:px-16 lg:py-5">
                 <ul class="flex flex-wrap justify-center gap-3 font-wonder_magic text-2xl md:gap-0 md:py-0 lg:flex-nowrap lg:py-4"
                     id="default-tab" data-tabs-toggle="#default-tab-content" role="tablist"
@@ -197,7 +197,7 @@
                                 </div>
                             </div>
                             <div
-                                class="z-50 mx-6 my-4 grid grid-cols-2 gap-3 md:mx-0 md:ms-20 md:grid-cols-1 lg:my-16 lg:ms-56">
+                                class="z-10 mx-6 my-4 grid grid-cols-2 gap-3 md:mx-0 md:ms-20 md:grid-cols-1 lg:my-16 lg:ms-56">
                                 <img src="{{ url('/images/Guidance/Alur 4.svg') }}" alt="" class="md:w-1/5">
                                 <div class="font-magic md:w-1/3">
                                     <ul class="ms-8 list-disc">
