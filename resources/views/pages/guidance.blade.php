@@ -137,7 +137,7 @@
                                 <div class="grid gap-2 md:mx-6">
                                     <img src="{{ url('/images/Guidance/Alur 2.svg') }}" alt=""
                                         class="mx-auto w-2/5 md:me-auto lg:ms-36">
-                                    <div class="grid grid-cols-2 gap-4 font-magic lg:ms-36 ms-4">
+                                    <div class="ms-4 grid grid-cols-2 gap-4 font-magic lg:ms-36">
                                         <div>
                                             <ul class="list-disc">
                                                 <li class="text-lg">Batch 1</li>
@@ -207,8 +207,7 @@
                                     </ul>
                                     <br>
                                     <p class="text-lg">Segala pemberitahuan akan disampaikan melalui IG, FB, Twitter,
-                                        dan WAG CECC
-                                        2024</p>
+                                        dan WAG CECC 2024</p>
                                 </div>
                             </div>
                             <img src="{{ url('/images/Guidance/Pembaca.svg') }}" alt=""
@@ -235,8 +234,58 @@
                 </div>
 
                 <div class="hidden" id="semi_final" role="tabpanel" aria-labelledby="semi_final-tab">
-                    <div class="my-5 lg:px-16 lg:py-5">
-                        <p class="text-lg">Semi Final</p>
+                    <div class="relative my-5">
+                        <img src="{{ url('/images/Guidance/Penyisihan.svg') }}" alt=""
+                            class="mx-auto w-40 lg:w-64">
+                        <ol class="list-decimal font-wonder_magic">
+                            <li class="text-lg">Babak semifinal akan dilaksanakan secara luring pada<span
+                                    class="font-sans">:</span>
+                                <br>
+                                Hari<span class="font-sans">/</span>tanggal<span class="font-sans">:</span> Sabtu, 9
+                                November 2024
+                                <br>
+                                Pukul<span class="font-sans">:</span> 09.00 <span class="font-sans">-</span> 11.40 WIB
+                                <br>
+                                Lokasi<span class="font-sans">:</span> Universitas Katolik Widya Mandala Jl. Kalijudan
+                                37 Surabaya
+                                <br>
+                            </li>
+                            <li class="text-lg">Setiap anggota masing<span class="font-sans">-</span>masing tim wajib
+                                hadir tepat
+                                waktu. Tim yang bertanding harus hadir secara lengkap agar diperbolehkan untuk mengikuti
+                                babak ini.</li>
+                            <li class="text-lg">Poin dari babak penyisihan tidak diperhitungkan pada babak semifinal.
+                            </li>
+                            <li class="text-lg">Babak semifinal terdiri atas dua <span
+                                    class="font-sans">(</span>2<span class="font-sans">)</span> tahapan yaitu
+                                Explorers dan S<span class="font-sans">-</span>MART. Poin yang
+                                diperoleh dari tahapan Explorers akan digunakan sebagai modal poin untuk memulai tahapan
+                                S<span class="font-sans">-</span>MART.</li>
+                            <li class="text-lg">Poin yang didapat selama babak semifinal Explorers tidak akan
+                                diperhitungkan untuk
+                                penentuan babak final, hanya poin dari babak semifinal S<span
+                                    class="font-sans">-</span>MART yang akan digunakan.</li>
+                            <li class="text-lg">Apabila terdapat tim yang memperoleh poin yang sama setelah babak
+                                semifinal, maka akan
+                                ditentukan berdasarkan waktu pengerjaan tersingkat.</li>
+                            <li class="text-lg">Setiap tim tidak diperbolehkan menggunakan alat bantu hitung seperti
+                                kalkulator ketika
+                                mengerjakan soal.</li>
+                            <li class="text-lg">Setiap tim tidak diperbolehkan untuk berkomunikasi dengan tim lain
+                                selama berlangsungnya
+                                babak semifinal.</li>
+                            <li class="text-lg">Hasil poin pada babak S<span class="font-sans">-</span>MART, akan
+                                digunakan untuk
+                                menentukan lima <span class="font-sans">(</span>5<span class="font-sans">)</span> tim
+                                dengan nilai
+                                tertinggi dan waktu pengerjaan tercepat yang akan lolos ke babak final.</li>
+                            <li class="text-lg">Jika terdapat tim dengan besar poin yang sama, maka pemenang akan
+                                ditentukan berdasarkan
+                                lama waktu tim tersebut menyelesaikan babak. Jika besar poin dan waktu sama, maka akan
+                                ditentukan dengan tambahan pengerjaan soal untuk menentukan pemenang.</li>
+                            <li class="text-lg">Keputusan panitia adalah bersifat mutlak dan tidak dapat diganggu
+                                gugat.</li>
+                        </ol>
                     </div>
                 </div>
 
