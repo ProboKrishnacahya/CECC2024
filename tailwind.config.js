@@ -44,6 +44,9 @@ export default {
                 metal_mania: ['Metal_Mania', 'serif'],
                 wonder_magic: ['Wonder_Magic', 'serif'],
             },
+            listStyleImage: {
+                guidance_silabus: 'url("/public/images/Guidance/Guidance Silabus List.svg")',
+            },
         },
     },
     plugins: [

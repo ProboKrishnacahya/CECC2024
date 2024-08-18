@@ -161,10 +161,7 @@
                                         <div>
                                             <ul class="list-disc">
                                                 <li class="text-lg">Biaya pendaftaran dapat ditransfer ke bendahara
-                                                    CECC 2024 melalui
-                                                    beberapa
-                                                    opsi
-                                                    berikut:</li>
+                                                    CECC 2024 melalui beberapa opsi berikut:</li>
                                                 <ul class="ms-8 list-disc">
                                                     <li class="text-lg">Bank ....</li>
                                                     <li class="text-lg">Bank ....</li>
@@ -222,8 +219,237 @@
                 </div>
 
                 <div class="hidden" id="silabus" role="tabpanel" aria-labelledby="silabus-tab">
-                    <div class="my-5 lg:px-16 lg:py-5">
-                        <p class="text-lg">Silabus</p>
+                    <div class="relative my-5">
+                        <img src="{{ url('/images/Guidance/Babak Penyisihan.svg') }}" alt=""
+                            class="mx-auto w-64 lg:w-80">
+
+                        <img src="{{ url('/images/Guidance/Tombak.svg') }}" alt=""
+                            class="absolute left-0 top-24 w-40 md:top-12 md:w-60 lg:top-0 lg:w-96">
+                        <img src="{{ url('/images/Guidance/Tongkat Bercahaya.svg') }}" alt=""
+                            class="absolute right-0 top-40 w-32 md:top-24 md:w-48 lg:top-0 lg:w-72">
+
+                        <div class="relative">
+                            <img src="{{ url('/images/Guidance/Kimia.svg') }}" alt=""
+                                class="mx-auto w-48 lg:w-64">
+                            <div class="relative mx-4 grid md:mx-16 md:grid-cols-2 md:gap-4 lg:mx-40">
+                                <div>
+                                    <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
+                                        <li class="text-lg">Ikatan Kimia</li>
+                                        <li class="text-lg">Struktur Atom dan Sistem Periodik Unsur</li>
+                                        <li class="text-lg">Stoikiometri</li>
+                                        <li class="text-lg">Reaksi Redoks</li>
+                                        <li class="text-lg">Larutan Elektrolit dan Non<span
+                                                class="font-sans">-</span>Elektrolit</li>
+                                        <li class="text-lg">Termokimia</li>
+                                        <li class="text-lg">Larutan Penyangga</li>
+                                        <li class="text-lg">Larutan Asam Basa</li>
+                                        <li class="text-lg">Kesetimbangan Kimia</li>
+                                        <li class="text-lg">Koloid</li>
+                                    </ul>
+                                </div>
+                                <div>
+                                    <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
+                                        <li class="text-lg">Laju Reaksi</li>
+                                        <li class="text-lg">Hidrolisis Garam</li>
+                                        <li class="text-lg">Titrasi Asam Basa</li>
+                                        <li class="text-lg">Sifat Koligatif Larutan</li>
+                                        <li class="text-lg">Turunan Alkana dan Gas Mulia</li>
+                                        <li class="text-lg">Benzena</li>
+                                        <li class="text-lg">Isomer</li>
+                                        <li class="text-lg">Reaksi Redoks dan Elektrokimia</li>
+                                        <li class="text-lg">Polimer dan Biomolekul</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="relative">
+                            <img src="{{ url('/images/Guidance/Fisika.svg') }}" alt=""
+                                class="mx-auto mt-3 w-48 lg:w-64">
+
+                            <img src="{{ url('/images/Guidance/Botol Ramuan.svg') }}" alt=""
+                                class="absolute -top-12 left-0 -z-10 w-32 md:-top-20 md:w-48 lg:w-64">
+                            <img src="{{ url('/images/Guidance/Buku.svg') }}" alt=""
+                                class="absolute right-2 top-0 w-24 md:right-8 md:w-40 lg:right-24">
+                            <img src="{{ url('/images/Home/Blink Oranye Kanan.svg') }}" alt=""
+                                class="absolute right-0 top-96 -z-50 w-16 md:top-80 md:w-24 lg:top-56 lg:w-48">
+
+                            <div class="relative mx-4 grid md:mx-16 md:grid-cols-2 md:gap-4 lg:mx-40">
+                                <div>
+                                    <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
+                                        <li class="text-lg">Besaran dan Satuan</li>
+                                        <li class="text-lg">
+                                            Gerak Lurus Beraturan <span class="font-sans">(</span>GLB<span
+                                                class="font-sans">)</span> dan
+                                            Gerak Lurus Berubah Beraturan <span class="font-sans">(</span>GLBB<span
+                                                class="font-sans">)</span>
+                                        </li>
+                                        <li class="text-lg">Gerak Parabola</li>
+                                        <li class="text-lg">Hukum Newton</li>
+                                        <li class="text-lg">Gaya Gesek</li>
+                                        <li class="text-lg">Usaha dan Energi</li>
+                                        <li class="text-lg">Impuls dan Momentum</li>
+                                        <li class="text-lg">Hukum Kekekalan Energi</li>
+                                        <li class="text-lg">Fluida</li>
+                                        <li class="text-lg">Suhu dan Kalor</li>
+                                    </ul>
+                                </div>
+                                <div>
+                                    <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
+                                        <li class="text-lg">Termodinamika</li>
+                                        <li class="text-lg">Gelombang Mekanik</li>
+                                        <li class="text-lg">Gelombang Bunyi</li>
+                                        <li class="text-lg">Elastisitas dan Hukum Hooke</li>
+                                        <li class="text-lg">Hukum Pascal</li>
+                                        <li class="text-lg">Hukum Kepler</li>
+                                        <li class="text-lg">Teori Relativitas</li>
+                                        <li class="text-lg">Efek Fotolistrik</li>
+                                        <li class="text-lg">Gelombang Elektromagnetik</li>
+                                        <li class="text-lg">Fisika Kuantum</li>
+                                        <li class="text-lg">Hukum Ohm</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="relative">
+                            <img src="{{ url('/images/Guidance/Matematika.svg') }}" alt=""
+                                class="mx-auto mt-3 w-48 lg:w-64">
+                            <div class="relative mx-4 grid md:mx-16 md:grid-cols-2 md:gap-4 lg:mx-40">
+                                <div>
+                                    <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
+                                        <li class="text-lg">Eksponen</li>
+                                        <li class="text-lg">Logaritma</li>
+                                        <li class="text-lg">Persamaan dan Pertidaksamaan Linear</li>
+                                        <li class="text-lg">Trigonometri</li>
+                                        <li class="text-lg">Limit Fungsi Aljabar</li>
+                                        <li class="text-lg">Integral</li>
+                                        <li class="text-lg">Barisan dan Deret</li>
+                                        <li class="text-lg">Limit</li>
+                                    </ul>
+                                </div>
+                                <div>
+                                    <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
+                                        <li class="text-lg">Turunan</li>
+                                        <li class="text-lg">Matriks</li>
+                                        <li class="text-lg">Polinomial</li>
+                                        <li class="text-lg">Limit Fungsi Trigonometri</li>
+                                        <li class="text-lg">Turunan Fungsi Trigonometri</li>
+                                        <li class="text-lg">Vektor</li>
+                                        <li class="text-lg">Statistika</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="relative">
+                            <img src="{{ url('/images/Guidance/Biologi.svg') }}" alt=""
+                                class="mx-auto mt-3 w-48 lg:w-64">
+
+                            <img src="{{ url('/images/Home/Blink Oranye Kiri.svg') }}" alt=""
+                                class="absolute -left-20 -top-6 -z-50 w-40 md:w-56 lg:w-72">
+                            <img src="{{ url('/images/Guidance/Kitab.svg') }}" alt=""
+                                class="absolute right-2 top-0 w-32 md:w-52 lg:w-64">
+
+                            <div class="relative mx-4 grid md:mx-16 md:grid-cols-2 md:gap-4 lg:mx-40">
+                                <div>
+                                    <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
+                                        <li class="text-lg">Keanekaragaman Hayati</li>
+                                        <li class="text-lg">Fungi</li>
+                                        <li class="text-lg">Protista</li>
+                                        <li class="text-lg">Sel</li>
+                                        <li class="text-lg">Sistem Peredaran Darah</li>
+                                    </ul>
+                                </div>
+                                <div>
+                                    <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
+                                        <li class="text-lg">Transport Membran</li>
+                                        <li class="text-lg">Metabolisme</li>
+                                        <li class="text-lg">Genetika</li>
+                                        <li class="text-lg">Bioteknologi</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="relative">
+                            <img src="{{ url('/images/Guidance/Ekonomi.svg') }}" alt=""
+                                class="mx-auto mt-3 w-48 lg:w-64">
+
+                            <img src="{{ url('/images/Guidance/Tongkat Gurita.svg') }}" alt=""
+                                class="absolute right-0 top-0 w-14 md:top-16 md:w-28 lg:w-40">
+
+                            <div class="relative mx-4 grid md:mx-16 md:grid-cols-2 md:gap-4 lg:mx-40">
+                                <div>
+                                    <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
+                                        <li class="text-lg">Manajemen</li>
+                                        <li class="text-lg">Faktor Produksi</li>
+                                        <li class="text-lg">Teori Produksi</li>
+                                        <li class="text-lg">Permintaan dan Penawaran</li>
+                                        <li class="text-lg">Sistem Ekonomi</li>
+                                        <li class="text-lg">Kebijakan Moneter dan Kebijakan Fiskal</li>
+                                    </ul>
+                                </div>
+                                <div>
+                                    <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
+                                        <li class="text-lg">Pasar Modal</li>
+                                        <li class="text-lg">Perpajakan</li>
+                                        <li class="text-lg">Akuntansi</li>
+                                        <li class="text-lg">Persamaan Dasar Akuntansi</li>
+                                        <li class="text-lg">Debit dan Kredit</li>
+                                        <li class="text-lg">Laporan Keuangan</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="relative mx-4 my-5 md:mx-16 lg:mx-40">
+                        <img src="{{ url('/images/Guidance/Babak Semifinal.svg') }}" alt=""
+                            class="mx-auto w-64 lg:w-80">
+
+                        <h5 class="font-wonder_magic text-xl">
+                            Materi yang diberikan sama dengan pada babak penyisihan, akan tetapi tingkat kesulitan lebih
+                            tinggi, dan ada tambahan materi dari Teknik Kimia Dasar, yang meliputi<span
+                                class="font-sans">:</span>
+                        </h5>
+                        <ul class="ms-8 list-inside list-image-guidance_silabus font-wonder_magic">
+                            <li class="text-lg">Kimia Analisa</li>
+                            <li class="text-lg">Neraca Massa</li>
+                            <li class="text-lg">Teknologi Pengolahan Limbah</li>
+                            <li class="text-lg">Technopreneurship</li>
+                        </ul>
+                    </div>
+
+                    <div class="relative">
+                        <img src="{{ url('/images/Guidance/Babak Final.svg') }}" alt=""
+                            class="mx-auto w-64 lg:w-80">
+
+                        <img src="{{ url('/images/Guidance/Tongkat Terbalik.svg') }}" alt=""
+                            class="absolute left-2 top-32 w-16 md:left-6 md:top-16 md:w-40 lg:left-10 lg:w-60">
+                        <img src="{{ url('/images/Guidance/Blink Oranye Kiri.svg') }}" alt=""
+                            class="absolute left-0 top-32 -z-20 w-24 md:top-36 md:w-56 lg:w-64">
+                        <img src="{{ url('/images/Home/Blink Oranye Kanan.svg') }}" alt=""
+                            class="absolute -top-8 right-0 -z-50 w-16 md:top-0 md:w-24 lg:w-48">
+
+                        <div class="mx-4 md:mx-16 lg:mx-40">
+                            <img src="{{ url('/images/Guidance/Praktikum.svg') }}" alt=""
+                                class="mx-auto w-48 lg:w-64">
+                            <h5 class="font-wonder_magic text-xl md:text-center">Praktikum Sintesis dan Uji Produk
+                                berbasis kewirausahaan.
+                            </h5>
+
+                            <img src="{{ url('/images/Guidance/Studi Kasus.svg') }}" alt=""
+                                class="mx-auto mt-3 w-48 lg:w-64">
+                            <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
+                                <li class="text-xl">Pemanfaatan kembali limbah menjadi barang dengan nilai jual.</li>
+                                <li class="text-xl">Aplikasi proses hijau dalam rangka mencapai net zero emission yang
+                                    tetap ekonomis.</li>
+                                <li class="text-xl">Aplikasi material biodegradable sebagai salah solusi dalam
+                                    pengurangan
+                                    limbah.</li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
 
@@ -238,8 +464,8 @@
                         <img src="{{ url('/images/Guidance/Penyisihan.svg') }}" alt=""
                             class="mx-auto w-40 lg:w-64">
                         <ol class="list-decimal font-wonder_magic">
-                            <li class="text-lg">Babak semifinal akan dilaksanakan secara luring pada<span
-                                    class="font-sans">:</span>
+                            <li class="text-lg">
+                                Babak semifinal akan dilaksanakan secara luring pada<span class="font-sans">:</span>
                                 <br>
                                 Hari<span class="font-sans">/</span>tanggal<span class="font-sans">:</span> Sabtu, 9
                                 November 2024
@@ -250,21 +476,25 @@
                                 37 Surabaya
                                 <br>
                             </li>
-                            <li class="text-lg">Setiap anggota masing<span class="font-sans">-</span>masing tim wajib
-                                hadir tepat
+                            <li class="text-lg">
+                                Setiap anggota masing<span class="font-sans">-</span>masing tim wajib hadir tepat
                                 waktu. Tim yang bertanding harus hadir secara lengkap agar diperbolehkan untuk mengikuti
-                                babak ini.</li>
+                                babak ini.
+                            </li>
                             <li class="text-lg">Poin dari babak penyisihan tidak diperhitungkan pada babak semifinal.
                             </li>
-                            <li class="text-lg">Babak semifinal terdiri atas dua <span
-                                    class="font-sans">(</span>2<span class="font-sans">)</span> tahapan yaitu
+                            <li class="text-lg">
+                                Babak semifinal terdiri atas dua <span class="font-sans">(</span>2<span
+                                    class="font-sans">)</span> tahapan yaitu
                                 Explorers dan S<span class="font-sans">-</span>MART. Poin yang
                                 diperoleh dari tahapan Explorers akan digunakan sebagai modal poin untuk memulai tahapan
-                                S<span class="font-sans">-</span>MART.</li>
-                            <li class="text-lg">Poin yang didapat selama babak semifinal Explorers tidak akan
-                                diperhitungkan untuk
-                                penentuan babak final, hanya poin dari babak semifinal S<span
-                                    class="font-sans">-</span>MART yang akan digunakan.</li>
+                                S<span class="font-sans">-</span>MART.
+                            </li>
+                            <li class="text-lg">
+                                Poin yang didapat selama babak semifinal Explorers tidak akan
+                                diperhitungkan untuk penentuan babak final, hanya poin dari babak semifinal S<span
+                                    class="font-sans">-</span>MART yang akan digunakan.
+                            </li>
                             <li class="text-lg">Apabila terdapat tim yang memperoleh poin yang sama setelah babak
                                 semifinal, maka akan
                                 ditentukan berdasarkan waktu pengerjaan tersingkat.</li>
@@ -274,15 +504,16 @@
                             <li class="text-lg">Setiap tim tidak diperbolehkan untuk berkomunikasi dengan tim lain
                                 selama berlangsungnya
                                 babak semifinal.</li>
-                            <li class="text-lg">Hasil poin pada babak S<span class="font-sans">-</span>MART, akan
-                                digunakan untuk
-                                menentukan lima <span class="font-sans">(</span>5<span class="font-sans">)</span> tim
-                                dengan nilai
-                                tertinggi dan waktu pengerjaan tercepat yang akan lolos ke babak final.</li>
+                            <li class="text-lg">
+                                Hasil poin pada babak S<span class="font-sans">-</span>MART, akan
+                                digunakan untuk menentukan lima <span class="font-sans">(</span>5<span
+                                    class="font-sans">)</span> tim dengan nilai tertinggi dan waktu pengerjaan tercepat
+                                yang akan lolos ke babak final.
+                            </li>
                             <li class="text-lg">Jika terdapat tim dengan besar poin yang sama, maka pemenang akan
-                                ditentukan berdasarkan
-                                lama waktu tim tersebut menyelesaikan babak. Jika besar poin dan waktu sama, maka akan
-                                ditentukan dengan tambahan pengerjaan soal untuk menentukan pemenang.</li>
+                                ditentukan berdasarkan lama waktu tim tersebut menyelesaikan babak. Jika besar poin dan
+                                waktu sama, maka akan ditentukan dengan tambahan pengerjaan soal untuk menentukan
+                                pemenang.</li>
                             <li class="text-lg">Keputusan panitia adalah bersifat mutlak dan tidak dapat diganggu
                                 gugat.</li>
                         </ol>
