@@ -181,7 +181,7 @@
                                 <img src="{{ url('/images/Guidance/Bebek.svg') }}" alt=""
                                     class="me-auto hidden md:ms-16 md:block md:w-1/4 lg:ms-36">
                                 <img src="{{ url('/images/Guidance/Tongkat Gurita.svg') }}" alt=""
-                                    class="absolute right-0 mb-12 hidden md:block md:w-20 lg:w-32">
+                                    class="absolute right-0 mb-6 hidden md:block md:w-20 lg:w-32">
                                 <div class="flex items-center gap-3 md:-ms-20 md:me-6 lg:-ms-72 lg:me-8">
                                     <div class="flex-auto">
                                         <img src="{{ url('/images/Guidance/Alur 3.svg') }}" alt=""
@@ -208,13 +208,15 @@
                                 </div>
                             </div>
                             <img src="{{ url('/images/Guidance/Pembaca.svg') }}" alt=""
-                                class="relative -z-10 w-full md:-mt-48 lg:-mt-72">
+                                class="relative -z-10 w-full md:-mt-64 lg:-mt-80">
                         </div>
 
                         <img src="{{ url('/images/Guidance/Tombak.svg') }}" alt=""
                             class="absolute -top-4 left-0 w-48 md:w-60 lg:top-0 lg:w-96">
+                            <img src="{{ url('/images/Home/Blink Oranye Kanan.svg') }}" alt=""
+                            class="absolute -top-8 right-0 -z-50 w-16 md:top-0 md:w-24 lg:w-48">
                         <img src="{{ url('/images/Guidance/Cincin.svg') }}" alt=""
-                            class="absolute -top-24 right-0 w-28 md:w-40 lg:w-64">
+                            class="absolute top-10 md:top-48 right-8 md:right-14 lg:right-24 w-14 md:w-24 lg:w-40">
                     </div>
                 </div>
 
@@ -224,9 +226,9 @@
                             class="mx-auto w-64 lg:w-80">
 
                         <img src="{{ url('/images/Guidance/Tombak.svg') }}" alt=""
-                            class="absolute left-0 top-24 w-40 md:top-12 md:w-60 lg:top-0 lg:w-96">
+                            class="absolute left-0 top-24 -z-10 w-40 md:top-12 md:w-60 lg:top-0 lg:w-96">
                         <img src="{{ url('/images/Guidance/Tongkat Bercahaya.svg') }}" alt=""
-                            class="absolute right-0 top-40 w-32 md:top-24 md:w-48 lg:top-0 lg:w-72">
+                            class="absolute right-0 top-40 -z-10 w-24 md:top-24 md:w-48 lg:top-0 lg:w-72">
 
                         <div class="relative">
                             <img src="{{ url('/images/Guidance/Kimia.svg') }}" alt=""
@@ -454,8 +456,156 @@
                 </div>
 
                 <div class="hidden" id="penyisihan" role="tabpanel" aria-labelledby="penyisihan-tab">
-                    <div class="my-5 lg:px-16 lg:py-5">
-                        <p class="text-lg">Penyisihan</p>
+                    <div class="relative my-5">
+                        <img src="{{ url('/images/Guidance/Penyisihan.svg') }}" alt=""
+                            class="mx-auto w-64 lg:w-80">
+
+                        <img src="{{ url('/images/Guidance/Tombak.svg') }}" alt=""
+                            class="absolute left-0 top-24 -z-10 w-40 md:top-12 md:w-60 lg:top-0 lg:w-96">
+                        <img src="{{ url('/images/Guidance/Tongkat Bercahaya.svg') }}" alt=""
+                            class="absolute right-0 top-40 -z-10 w-24 md:top-24 md:w-48 lg:top-0 lg:w-72">
+                        <img src="{{ url('/images/Guidance/Blink Oranye Kiri.svg') }}" alt=""
+                            class="absolute left-0 top-56 -z-20 hidden w-24 md:top-80 md:block md:w-36 lg:w-64">
+                        <img src="{{ url('/images/Guidance/Cincin.svg') }}" alt=""
+                            class="absolute right-2 top-96 hidden w-28 lg:block">
+                        <img src="{{ url('/images/Home/Blink Oranye Kanan.svg') }}" alt=""
+                            class="absolute bottom-96 right-0 -z-50 w-16 md:w-24 lg:w-48">
+                        <img src="{{ url('/images/Guidance/Kitab.svg') }}" alt=""
+                            class="absolute bottom-96 md:mb-56 lg:mb-0 md:right-12 lg:right-24 hidden w-32 md:block md:w-64 lg:w-80">
+                        <img src="{{ url('/images/Guidance/Blink Oranye Kiri.svg') }}" alt=""
+                            class="absolute bottom-0 left-0 -z-20 hidden w-24 md:block md:w-36 lg:w-64">
+                        <img src="{{ url('/images/Home/Blink Oranye Kanan.svg') }}" alt=""
+                            class="absolute -bottom-12 right-0 -z-50 w-14 md:-bottom-24 md:w-16 lg:w-36">
+
+                        <ol class="me-4 ms-8 list-decimal font-wonder_magic md:mx-16 lg:mx-40">
+                            <li class="text-lg">
+                                Babak penyisihan akan dilaksanakan secara <span
+                                    class="underline underline-offset-auto">daring</span> pada<span
+                                    class="font-sans">:</span>
+                                <br>
+                                <table class="table-auto">
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                Hari<span class="font-sans">/</span>tanggal
+                                            </td>
+                                            <td>
+                                                <span class="font-sans">:</span>
+                                            </td>
+                                            <td>Sabtu, 26 Oktober 2024</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Pukul</td>
+                                            <td>
+                                                <span class="font-sans">:</span>
+                                            </td>
+                                            <td>10.00 <span class="font-sans">-</span> 12.00 WIB</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Media</td>
+                                            <td>
+                                                <span class="font-sans">:</span>
+                                            </td>
+                                            <td>Website CECC 2024</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </li>
+                            <li class="text-lg">
+                                Babak penyisihan dilakukan setelah acara pembukaan CECC 2024 hari
+                                pertama melalui video conferencing zoom dan website <a
+                                    href="/">www.cecc2024.com</a>.
+                            </li>
+                            <li class="text-lg">
+                                Setiap tim yang berpartisipasi dalam babak penyisihan terdiri atas 2
+                                orang siswa<span class="font-sans">/</span>i yang berasal dari sekolah yang sama.
+                            </li>
+                            <li class="text-lg">Setiap tim diharapkan mempersiapkan koneksi internet yang baik pada
+                                saat pelaksanaan babak penyisihan, dimana koneksi internet menjadi tanggung jawab
+                                peserta CECC 2024.</li>
+                            <li class="text-lg">
+                                Setiap anggota masing<span class="font-sans">-</span>masing tim <span
+                                    class="underline underline-offset-auto">wajib</span> bergabung ke dalam zoom
+                                meeting dengan kondisi kamera menyala dan microphone mute selama babak penyisihan
+                                berlangsung.
+                            </li>
+                            <li class="text-lg">Apabila tim tidak menyalakan kamera, maka panitia yang bertugas akan
+                                memberikan peringatan. Seluruh tim yang berpartisipasi dalam babak penyisihan akan
+                                terbagi ke dalam beberapa breakout room yang dijaga oleh panitia.</li>
+                            <li class="text-lg">Setiap tim hanya dapat mengerjakan soal pada babak penyisihan selama
+                                waktu yang telah ditentukan oleh panitia. Setelah pukul 12.00 WIB, jawaban akan
+                                tersubmit secara otomatis dan tidak ada perpanjangan waktu meskipun pengerjaan masih
+                                belum selesai.</li>
+                            <li class="text-lg">Setiap anggota tim dapat mengerjakan soal pada babak penyisihan secara
+                                bersamaan atau real time.</li>
+                            <li class="text-lg">
+                                Sebelum babak penyisihan dimulai, peserta akan log in terlebih dahulu
+                                melalui website <a href="/">www.cecc2024.com</a> menggunakan email dan password
+                                yang telah didaftarkan pada saat registrasi.
+                            </li>
+                            <li class="text-lg">
+                                Pengerjaan soal pada babak penyisihan diwajibkan menggunakan
+                                laptop<span class="font-sans">/</span>komputer yang dilengkapi kamera webcam dan tidak
+                                dianjurkan menggunakan
+                                handphone.
+                            </li>
+                            <li class="text-lg">Babak penyisihan berupa 50 soal pilihan ganda dengan waktu pengerjaan
+                                selama 120 menit, terhitung sejak babak penyisihan dimulai.</li>
+                            <li class="text-lg">
+                                Cakupan materi pada babak penyisihan meliputi<span class="font-sans">:</span>
+                                <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
+                                    <li class="text-lg">Kimia<span class="font-sans">:</span> 30<span
+                                            class="font-sans">%</span></li>
+                                    <li class="text-lg">Fisika<span class="font-sans">:</span> 20<span
+                                            class="font-sans">%</span></li>
+                                    <li class="text-lg">Matematika<span class="font-sans">:</span> 20<span
+                                            class="font-sans">%</span></li>
+                                    <li class="text-lg">Biologi<span class="font-sans">:</span> 15<span
+                                            class="font-sans">%</span></li>
+                                    <li class="text-lg">Ekonomi<span class="font-sans">:</span> 15<span
+                                            class="font-sans">%</span></li>
+                                </ul>
+                            </li>
+                            <li class="text-lg">
+                                Setiap soal memiliki bobot nilai yang sama sebagai berikut<span
+                                    class="font-sans">:</span>
+                                <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
+                                    <li class="text-lg">Benar<span class="font-sans">:</span> <span
+                                            class="font-sans">+</span>2</li>
+                                    <li class="text-lg">Salah<span class="font-sans">:</span> 0</li>
+                                    <li class="text-lg">Tidak Menjawab<span class="font-sans">:</span> 0</li>
+                                </ul>
+                            </li>
+                            <li class="text-lg">Peserta yang terlambat tidak akan mendapatkan tambahan waktu.</li>
+                            <li class="text-lg">
+                                Peserta <span class="underline underline-offset-auto">tidak</span> diperbolehkan
+                                membuka literatur dan <span class="underline underline-offset-auto">tidak</span> boleh
+                                berkomunikasi dengan pihak lain selain dari anggota tim ketika mengerjakan soal. Apabila
+                                ditemukan ada tim yang melanggar, maka akan diberi peringatan.
+                            </li>
+                            <li class="text-lg">Peserta diperbolehkan menggunakan alat bantu hitung seperti kalkulator
+                                ketika mengerjakan soal.</li>
+                            <li class="text-lg">
+                                Apabila terdapat kendala pada website <span class="font-sans">(</span>bukan dikarenakan
+                                jaringan peserta<span class="font-sans">)</span> dan dialami oleh seluruh peserta,
+                                peserta dapat segera
+                                menghubungi panitia dan menyertakan bukti tangkapan layar yang membuktikan bahwa
+                                terdapat kendala. Selanjutnya, panitia akan memberikan link Google Form sebagai cadangan
+                                lembar jawaban.
+                            </li>
+                            <li class="text-lg">
+                                Dua puluh lima <span class="font-sans">(</span>25<span class="font-sans">)</span> tim
+                                dengan poin tertinggi akan lolos ke babak semifinal.
+                            </li>
+                            <li class="text-lg">Apabila ada tim dengan perolehan poin yang sama, maka tim dengan waktu
+                                pengerjaan soal tersingkat akan berada pada peringkat yang lebih tinggi.</li>
+                            <li class="text-lg">Apabila tim yang sama mendapatkan peringatan sebanyak 3 kali, maka tim
+                                yang bersangkutan akan didiskualifikasi dari CECC 2024.</li>
+                            <li class="text-lg">Peserta yang lolos ke babak selanjutnya akan diumumkan melalui media
+                                sosial dan website CECC 2024.</li>
+                            <li class="text-lg">Keputusan panitia adalah bersifat mutlak dan tidak dapat diganggu
+                                gugat.</li>
+                        </ol>
                     </div>
                 </div>
 
@@ -463,9 +613,11 @@
                     <div class="relative my-5">
                         <img src="{{ url('/images/Guidance/Penyisihan.svg') }}" alt=""
                             class="mx-auto w-40 lg:w-64">
-                        <ol class="list-decimal font-wonder_magic">
+                        <ol class="mx-4 list-decimal font-wonder_magic md:mx-16 lg:mx-40">
                             <li class="text-lg">
-                                Babak semifinal akan dilaksanakan secara luring pada<span class="font-sans">:</span>
+                                Babak semifinal akan dilaksanakan secara <span
+                                    class="underline underline-offset-auto">luring</span> pada<span
+                                    class="font-sans">:</span>
                                 <br>
                                 Hari<span class="font-sans">/</span>tanggal<span class="font-sans">:</span> Sabtu, 9
                                 November 2024
