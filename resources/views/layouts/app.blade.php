@@ -22,7 +22,8 @@
     <link rel="icon" href="{{ url('images/brand/Logo CECC.svg?v=2') }}" type="image/svg" />
 </head>
 
-<body class="h-full space-y-8 bg-background bg-cover font-magical_neverland text-white antialiased">
+<body
+    class="h-full space-y-8 bg-custom-dark_raspberry bg-background bg-cover font-magical_neverland text-white antialiased">
     {{-- <x-banner /> --}}
 
     @if (!request()->is('404'))
