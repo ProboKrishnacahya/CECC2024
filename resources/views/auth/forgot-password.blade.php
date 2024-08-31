@@ -4,12 +4,13 @@
     <x-authentication-card>
         <x-slot name="logo">
             <img src="{{ url('/images/Brand/Logo CECC.svg') }}" alt="" class="mx-auto my-4 w-16">
-            <h1 class="text-3xl uppercase">Chemical Engineering Challenge & Competition 2024</h1>
-            <p class="italic">"The Inclusion of Gen-Z in Science & Industry for Circular Economy World"</p>
+            <h1 class="text-3xl uppercase text-custom-sunny" id="home-event_name">Chemical Engineering Challenge &
+                Competition 2024</h1>
+            <p class="font-sans italic">"The Inclusion of Gen-Z in Science & Industry for Circular Economy World"</p>
         </x-slot>
 
-        <div class="rounded bg-white p-3">
-            <div class="mb-4 text-sm text-gray-600 dark:text-gray-400">
+        <div class="rounded-xl bg-custom-american_purple p-4 font-sans">
+            <div class="mb-4 text-sm text-gray-100">
                 {{ __('Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.') }}
             </div>
 
@@ -33,7 +34,7 @@
                 </div>
 
                 <div class="mt-4 flex items-center justify-end">
-                    <x-button>
+                    <x-button class="font-bold">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-6">
                             <path
                                 d="M1.5 8.67v8.58a3 3 0 0 0 3 3h15a3 3 0 0 0 3-3V8.67l-8.928 5.493a3 3 0 0 1-3.144 0L1.5 8.67Z" />

@@ -4,8 +4,9 @@
     <x-authentication-card>
         <x-slot name="logo">
             <img src="{{ url('/images/Brand/Logo CECC.svg') }}" alt="" class="mx-auto my-4 w-16">
-            <h1 class="text-3xl uppercase">Chemical Engineering Challenge & Competition 2024</h1>
-            <p class="italic">"The Inclusion of Gen-Z in Science & Industry for Circular Economy World"</p>
+            <h1 class="text-3xl uppercase text-custom-sunny" id="home-event_name">Chemical Engineering Challenge &
+                Competition 2024</h1>
+            <p class="font-sans italic">"The Inclusion of Gen-Z in Science & Industry for Circular Economy World"</p>
         </x-slot>
 
         <x-validation-errors class="mb-4" />
@@ -16,7 +17,7 @@
             </div>
         @endsession
 
-        <form method="POST" action="{{ route('login') }}">
+        <form method="POST" action="{{ route('login') }}" class="font-sans">
             @csrf
 
             <div class="relative">
@@ -39,19 +40,20 @@
                 <div class="flex items-center gap-2">
                     <x-checkbox id="remember_me" name="remember"
                         class="checked:bg-custom-ube focus:ring focus:ring-custom-ube focus:ring-opacity-50" />
-                    <label for="remember_me" class="cursor-pointer">
+                    <label for="remember_me" class="cursor-pointer font-bold">
                         {{ __('Remember me') }}
                     </label>
                 </div>
 
                 <div>
                     @if (Route::has('password.request'))
-                        <a href="{{ route('password.request') }}">{{ __('Forgot your password?') }}</a>
+                        <a href="{{ route('password.request') }}"
+                            class="font-bold">{{ __('Forgot your password?') }}</a>
                     @endif
                 </div>
             </div>
 
-            <x-button>
+            <x-button class="font-bold">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="size-6">
                     <path fill-rule="evenodd"
                         d="M12 1.5a5.25 5.25 0 0 0-5.25 5.25v3a3 3 0 0 0-3 3v6.75a3 3 0 0 0 3 3h10.5a3 3 0 0 0 3-3v-6.75a3 3 0 0 0-3-3v-3c0-2.9-2.35-5.25-5.25-5.25Zm3.75 8.25v-3a3.75 3.75 0 1 0-7.5 0v3h7.5Z"
