@@ -3,10 +3,7 @@
 <x-guest-layout>
     <x-authentication-card>
         <x-slot name="logo">
-            <img src="{{ url('/images/Brand/Logo CECC.svg') }}" alt="" class="mx-auto my-4 w-16">
-            <h1 class="text-3xl uppercase text-custom-sunny" id="home-event_name">Chemical Engineering Challenge &
-                Competition 2024</h1>
-            <p class="font-sans italic">"The Inclusion of Gen-Z in Science & Industry for Circular Economy World"</p>
+            <x-cecc />
         </x-slot>
 
         <div class="rounded-xl bg-custom-american_purple p-4 font-sans">

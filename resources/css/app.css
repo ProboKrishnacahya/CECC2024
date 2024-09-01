@@ -24,4 +24,8 @@
         -webkit-text-stroke: 1px #E17F57;
         text-shadow: 1px 1px 20px #0600041a;
     }
+
+    #cecc-event_name {
+        -webkit-text-stroke: 0.5px #E17F57;
+    }
 }

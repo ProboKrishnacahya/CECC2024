@@ -24,7 +24,7 @@ export default {
             },
             colors: {
                 custom: {
-                    dark_raspberry: '#892C55',
+                    american_purple: '#57184A',
                     rich_black: '#060004',
                     ube: '#8C79C9',
                     sunny: '#F8F27C',
@@ -34,7 +34,6 @@ export default {
                     cadmium_violet: '#913E97',
                     bright_lavender: '#B990EA',
                     shampoo: '#FFCDFF',
-                    american_purple: '#57184A',
                     dark_purple: '#3F1536'
                 }
             },

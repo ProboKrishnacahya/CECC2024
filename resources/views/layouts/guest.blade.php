@@ -10,7 +10,7 @@
         content="Chemical Engineering Challenge & Competition 2024, CECC 2024, Teknik Kimia Universitas Katolik Widya Mandala Surabaya, UKWMS" />
     <meta name="description" content="The Inclusion of Gen-Z in Science & Industry for Circular Economy World." />
     <meta name="owner" content="Teknik Kimia Universitas Katolik Widya Mandala Surabaya." />
-    <meta name="theme-color" content="#892C55">
+    <meta name="theme-color" content="#57184A">
 
     {{-- Page Title --}}
     <title>@yield('title')</title>
@@ -26,7 +26,7 @@
 </head>
 
 <body
-    class="h-full space-y-8 bg-custom-dark_raspberry bg-background bg-cover font-magical_neverland text-white antialiased">
+    class="h-full space-y-8 bg-custom-american_purple bg-background bg-cover font-magical_neverland text-white antialiased">
     @if (!request()->is('404'))
         @livewire('navigation-menu')
     @endif

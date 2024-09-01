@@ -7,7 +7,7 @@
 @endphp
 
 <div x-data="{ open: false }">
-    <div x-show="open" class="fixed inset-0 z-50 flex md:hidden" role="dialog" aria-modal="true">
+    <div x-show="open" class="fixed inset-0 z-50 flex md:hidden" role="dialog" aria-modal="true" aria-label="Sidebar">
         <div class="fixed inset-0 bg-black bg-opacity-50" aria-hidden="true"></div>
         <div class="relative flex w-full max-w-fit flex-1 flex-col bg-white/30 text-white backdrop-blur-md">
             <div class="h-0 flex-1 space-y-8 overflow-y-auto p-4">
