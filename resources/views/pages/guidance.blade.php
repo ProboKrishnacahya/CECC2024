@@ -60,7 +60,7 @@
                             </div>
                             <div>
                                 <img src="{{ url('/images/Guidance/Jadwal.svg') }}" alt=""
-                                    class="mx-auto w-40 grow lg:w-72">
+                                    class="mx-auto w-44 grow md:w-56 lg:w-72">
                             </div>
                             <div>
                                 <img src="{{ url('/images/Guidance/Jam Pasir.svg') }}" alt=""
@@ -82,7 +82,7 @@
                             </div>
                             <div>
                                 <img src="{{ url('/images/Guidance/Syarat.svg') }}" alt=""
-                                    class="mx-auto ms-2 w-40 grow md:ms-10 lg:w-72">
+                                    class="mx-auto ms-2 w-44 grow md:ms-10 md:w-56 lg:w-72">
                             </div>
                             <div>
                                 <img src="{{ url('/images/Guidance/Cairan.svg') }}" alt=""
@@ -97,7 +97,7 @@
                     </div>
                     <div class="relative my-5">
                         <img src="{{ url('/images/Guidance/Alur.svg') }}" alt=""
-                            class="mx-auto w-40 lg:w-72">
+                            class="mx-auto w-44 md:w-56 lg:w-72">
                         <div class="relative">
                             <img src="{{ url('/images/Guidance/Penyihir.svg') }}" alt=""
                                 class="hidden md:block md:w-2/3">
@@ -137,7 +137,7 @@
                                 class="mx-4 my-4 grid place-items-center gap-3 md:my-0 md:-mt-40 md:grid-cols-2 lg:my-12 lg:gap-0">
                                 <div class="grid gap-2 md:mx-6">
                                     <img src="{{ url('/images/Guidance/Alur 2.svg') }}" alt=""
-                                        class="mx-auto w-2/5 md:me-auto lg:ms-36">
+                                        class="me-auto w-2/5 lg:ms-36">
                                     <div class="ms-4 grid grid-cols-2 gap-4 font-magic lg:ms-36">
                                         <div>
                                             <ul class="list-disc">
@@ -226,16 +226,16 @@
                 <div class="hidden" id="silabus" role="tabpanel" aria-labelledby="silabus-tab">
                     <div class="relative my-5">
                         <img src="{{ url('/images/Guidance/Babak Penyisihan.svg') }}" alt=""
-                            class="mx-auto w-64 lg:w-96">
+                            class="mx-auto w-64 md:w-80 lg:w-96">
 
                         <img src="{{ url('/images/Guidance/Tombak.svg') }}" alt=""
-                            class="absolute left-0 top-24 -z-10 w-40 md:top-12 md:w-60 lg:top-0 lg:w-96">
+                            class="absolute left-0 top-12 -z-10 w-40 md:top-2 md:w-60 lg:top-0 lg:w-96">
                         <img src="{{ url('/images/Guidance/Tongkat Bercahaya.svg') }}" alt=""
-                            class="absolute right-0 top-40 -z-10 w-24 md:top-24 md:w-48 lg:top-0 lg:w-72">
+                            class="absolute right-0 top-24 -z-10 w-24 md:w-48 lg:top-0 lg:w-72">
 
                         <div class="relative">
                             <img src="{{ url('/images/Guidance/Kimia.svg') }}" alt=""
-                                class="mx-auto w-48 lg:w-72">
+                                class="mx-auto w-48 md:w-60 lg:w-80">
                             <div class="relative mx-4 grid md:mx-16 md:grid-cols-2 md:gap-4 lg:mx-40">
                                 <div>
                                     <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
@@ -270,7 +270,7 @@
 
                         <div class="relative">
                             <img src="{{ url('/images/Guidance/Fisika.svg') }}" alt=""
-                                class="mx-auto mt-3 w-48 lg:w-72">
+                                class="mx-auto mt-3 w-48 md:w-60 lg:w-80">
 
                             <img src="{{ url('/images/Guidance/Botol Ramuan.svg') }}" alt=""
                                 class="absolute -top-12 left-0 -z-10 w-32 md:-top-20 md:w-48 lg:w-64">
@@ -318,7 +318,7 @@
 
                         <div class="relative">
                             <img src="{{ url('/images/Guidance/Matematika.svg') }}" alt=""
-                                class="mx-auto mt-3 w-48 lg:w-72">
+                                class="mx-auto mt-3 w-48 md:w-60 lg:w-80">
                             <div class="relative mx-4 grid md:mx-16 md:grid-cols-2 md:gap-4 lg:mx-40">
                                 <div>
                                     <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
@@ -348,7 +348,7 @@
 
                         <div class="relative">
                             <img src="{{ url('/images/Guidance/Biologi.svg') }}" alt=""
-                                class="mx-auto mt-3 w-48 lg:w-72">
+                                class="mx-auto mt-3 w-48 md:w-60 lg:w-80">
 
                             <img src="{{ url('/images/Home/Blink Oranye Kiri.svg') }}" alt=""
                                 class="absolute -left-20 -top-6 -z-50 w-40 md:w-56 lg:w-72">
@@ -378,7 +378,7 @@
 
                         <div class="relative">
                             <img src="{{ url('/images/Guidance/Ekonomi.svg') }}" alt=""
-                                class="mx-auto mt-3 w-48 lg:w-72">
+                                class="mx-auto mt-3 w-48 md:w-60 lg:w-80">
 
                             <img src="{{ url('/images/Guidance/Tongkat Gurita.svg') }}" alt=""
                                 class="absolute right-0 top-0 w-14 md:top-16 md:w-28 lg:w-40">
@@ -437,14 +437,14 @@
                             class="absolute -top-8 right-0 -z-50 w-16 md:top-0 md:w-24 lg:w-48">
 
                         <div class="mx-4 md:mx-16 lg:mx-40">
-                            <img src="{{ url('/images/Guidance/Praktikum.svg') }}" alt=""
-                                class="mx-auto w-48 lg:w-72">
+                            <img src="{{ url('/images/Guidance/Silabus - Praktikum.svg') }}" alt=""
+                                class="mx-auto w-48 md:w-60 lg:w-80">
                             <h5 class="font-wonder_magic text-xl md:text-center lg:text-2xl">Praktikum Sintesis dan Uji
                                 Produk berbasis kewirausahaan.
                             </h5>
 
-                            <img src="{{ url('/images/Guidance/Studi Kasus.svg') }}" alt=""
-                                class="mx-auto mt-3 w-48 lg:w-72">
+                            <img src="{{ url('/images/Guidance/Silabus - Studi Kasus.svg') }}" alt=""
+                                class="mx-auto mt-3 w-48 md:w-60 lg:w-80">
                             <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
                                 <li class="text-xl lg:text-2xl">Pemanfaatan kembali limbah menjadi barang dengan nilai
                                     jual.</li>
@@ -463,12 +463,12 @@
                 <div class="hidden" id="penyisihan" role="tabpanel" aria-labelledby="penyisihan-tab">
                     <div class="relative my-5">
                         <img src="{{ url('/images/Guidance/Penyisihan.svg') }}" alt=""
-                            class="mx-auto w-64 lg:w-80">
+                            class="mx-auto w-52 md:w-64 lg:w-80">
 
                         <img src="{{ url('/images/Guidance/Tombak.svg') }}" alt=""
-                            class="absolute left-0 top-24 -z-10 w-40 md:top-12 md:w-60 lg:top-0 lg:w-96">
+                            class="absolute left-0 top-12 -z-10 w-40 md:top-2 md:w-60 lg:top-0 lg:w-96">
                         <img src="{{ url('/images/Guidance/Tongkat Bercahaya.svg') }}" alt=""
-                            class="absolute right-0 top-40 -z-10 w-24 md:top-24 md:w-48 lg:top-0 lg:w-72">
+                            class="absolute right-0 top-24 -z-10 w-24 md:w-48 lg:top-0 lg:w-72">
                         <img src="{{ url('/images/Guidance/Blink Oranye Kiri.svg') }}" alt=""
                             class="absolute left-0 top-56 -z-20 hidden w-24 md:top-80 md:block md:w-36 lg:w-64">
                         <img src="{{ url('/images/Guidance/Cincin.svg') }}" alt=""
@@ -703,12 +703,12 @@
                 <div class="hidden" id="semi_final" role="tabpanel" aria-labelledby="semi_final-tab">
                     <div class="relative my-5">
                         <img src="{{ url('/images/Guidance/Semi Final.svg') }}" alt=""
-                            class="mx-auto w-64 lg:w-80">
+                            class="mx-auto w-52 md:w-64 lg:w-80">
 
                         <img src="{{ url('/images/Guidance/Tombak.svg') }}" alt=""
-                            class="absolute left-0 top-24 -z-10 w-40 md:top-12 md:w-60 lg:top-0 lg:w-96">
+                            class="absolute left-0 top-12 -z-10 w-40 md:top-2 md:w-60 lg:top-0 lg:w-96">
                         <img src="{{ url('/images/Guidance/Tongkat Bercahaya.svg') }}" alt=""
-                            class="absolute right-0 top-40 -z-10 w-24 md:top-24 md:w-48 lg:top-0 lg:w-72">
+                            class="absolute right-0 top-24 -z-10 w-24 md:w-48 lg:top-0 lg:w-72">
                         <img src="{{ url('/images/Guidance/Blink Oranye Kiri.svg') }}" alt=""
                             class="absolute left-0 top-56 -z-20 hidden w-24 md:top-80 md:block md:w-36 lg:w-64">
                         <img src="{{ url('/images/Home/Blink Oranye Kanan.svg') }}" alt=""
@@ -718,7 +718,7 @@
                         <img src="{{ url('/images/Home/Blink Oranye Kanan.svg') }}" alt=""
                             class="absolute -bottom-12 right-0 -z-50 w-14 md:-bottom-24 md:w-16 lg:w-36">
 
-                        <ol class="mx-4 list-decimal font-wonder_magic md:mx-16 lg:mx-40">
+                        <ol class="mx-4 ms-8 list-decimal font-wonder_magic md:mx-16 lg:mx-40">
                             <li class="text-lg lg:text-2xl">
                                 Babak semifinal akan dilaksanakan secara <span
                                     class="underline underline-offset-auto">luring</span> pada<span
@@ -797,9 +797,9 @@
 
                         <div class="relative">
                             <img src="{{ url('/images/Guidance/Explorers.svg') }}" alt=""
-                                class="mx-auto mt-3 w-48 lg:w-72">
+                                class="mx-auto mt-3 w-48 md:w-60 lg:w-80">
 
-                            <ol class="mx-4 list-decimal font-wonder_magic md:mx-16 lg:mx-40">
+                            <ol class="mx-4 ms-8 list-decimal font-wonder_magic md:mx-16 lg:mx-40">
                                 <li class="text-lg lg:text-2xl">Pada tahap ini, akan ada tujuh <span
                                         class="font-sans">(</span>7<span class="font-sans">)</span> ruangan khusus
                                     yang digunakan sebagai tempat pengerjaan soal.</li>
@@ -966,9 +966,9 @@
 
                         <div class="relative my-5">
                             <img src="{{ url('/images/Guidance/S-MART.svg') }}" alt=""
-                                class="mx-auto mt-3 w-48 lg:w-72">
+                                class="mx-auto mt-3 w-48 md:w-60 lg:w-80">
 
-                            <ol class="mx-4 list-decimal font-wonder_magic md:mx-16 lg:mx-40">
+                            <ol class="mx-4 ms-8 list-decimal font-wonder_magic md:mx-16 lg:mx-40">
                                 <li class="text-lg lg:text-2xl">Pada tahap ini, seluruh peserta akan berkumpul di
                                     ruangan Auditorium Gedung A Lantai 2.</li>
                                 <li class="text-lg lg:text-2xl">Pada tahapan ini akan disediakan lima <span
@@ -1109,15 +1109,162 @@
                 </div>
 
                 <div class="hidden" id="final" role="tabpanel" aria-labelledby="final-tab">
-                    <div class="my-5 lg:px-16 lg:py-5">
-                        <p class="text-lg">Final</p>
+                    <div class="relative my-5">
+                        <img src="{{ url('/images/Guidance/Final.svg') }}" alt=""
+                            class="mx-auto w-52 md:w-64 lg:w-80">
+
+                        <img src="{{ url('/images/Guidance/Tombak.svg') }}" alt=""
+                            class="absolute left-0 top-12 -z-10 w-40 md:top-2 md:w-60 lg:top-0 lg:w-96">
+                        <img src="{{ url('/images/Guidance/Tongkat Bercahaya.svg') }}" alt=""
+                            class="absolute right-0 top-24 -z-10 w-24 md:w-48 lg:top-0 lg:w-72">
+                        <img src="{{ url('/images/Guidance/Blink Oranye Kiri.svg') }}" alt=""
+                            class="absolute left-0 top-56 -z-20 hidden w-24 md:top-80 md:block md:w-36 lg:w-64">
+                        <img src="{{ url('/images/Home/Blink Oranye Kanan.svg') }}" alt=""
+                            class="absolute bottom-96 right-0 -z-50 w-16 md:w-24 lg:w-48">
+                        <img src="{{ url('/images/Guidance/Blink Oranye Kiri.svg') }}" alt=""
+                            class="absolute bottom-0 left-0 -z-20 hidden w-24 md:block md:w-36 lg:w-64">
+                        <img src="{{ url('/images/Home/Blink Oranye Kanan.svg') }}" alt=""
+                            class="absolute -bottom-12 right-0 -z-50 w-14 md:-bottom-24 md:w-16 lg:w-36">
+
+                        <ol class="mx-4 ms-8 list-decimal font-wonder_magic md:mx-16 lg:mx-40">
+                            <li class="text-lg lg:text-2xl">
+                                Babak final akan dilaksanakan secara <span
+                                    class="underline underline-offset-auto">luring</span> pada<span
+                                    class="font-sans">:</span>
+                                <br>
+                                <table class="table-auto">
+                                    <tbody>
+                                        <tr>
+                                            <td>
+                                                Hari<span class="font-sans">/</span>tanggal
+                                            </td>
+                                            <td>
+                                                <span class="px-1 font-sans">:</span>
+                                            </td>
+                                            <td>Sabtu, 9 November 2024</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Pukul</td>
+                                            <td>
+                                                <span class="px-1 font-sans">:</span>
+                                            </td>
+                                            <td>13.20 <span class="font-sans">-</span> 15.20 WIB</td>
+                                        </tr>
+                                        <tr class="align-top">
+                                            <td>Lokasi</td>
+                                            <td>
+                                                <span class="px-1 font-sans">:</span>
+                                            </td>
+                                            <td>
+                                                <span>Ruang D104 <span class="font-sans">-</span> D106 Gedung Dionisius
+                                                    dan
+                                                    Laboratorium Kimia Organik dan Kimia Fisika
+                                                    <br>
+                                                    Universitas Katolik Widya Mandala Surabaya
+                                                    <br>
+                                                    Jl. Kalijudan 37 Surabaya</span>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </li>
+                            <li class="text-lg lg:text-2xl">Babak final diikuti oleh lima <span
+                                    class="font-sans">(</span>5<span class="font-sans">)</span> tim yang lolos dari
+                                babak semifinal.</li>
+                            <li class="text-lg lg:text-2xl">Babak final terdiri atas dua <span
+                                    class="font-sans">(</span>2<span class="font-sans">)</span> tahapan yaitu
+                                Praktikum dan Studi Kasus.</li>
+                            <li class="text-lg lg:text-2xl">Poin dari babak semifinal tidak diperhitungkan pada babak
+                                final.</li>
+                            <li class="text-lg lg:text-2xl">Tahapan Praktikum dan Studi Kasus berlangsung secara
+                                bersamaan dalam ruangan yang berbeda.</li>
+                            <li class="text-lg lg:text-2xl">Tim peringkat 1 dan 5 pada babak semifinal akan melakukan
+                                Praktikum terlebih dahulu. Sedangkan tim peringkat 2, 3, dan 4 akan melakukan Studi
+                                Kasus terlebih dahulu.</li>
+                            <li class="text-lg lg:text-2xl">Pemenang dari CECC 2024 ditentukan dari total nilai yang
+                                diperoleh dari tahapan Praktikum dan Studi Kasus.</li>
+                            <li class="text-lg lg:text-2xl">Apabila dalam penentuan pemenang terdapat perolehan poin
+                                yang sama, maka akan dilakukan pengerjaan soal tambahan untuk tim yang bersangkutan
+                                hingga diperoleh poin yang berbeda.</li>
+                            <li class="text-lg lg:text-2xl">Setiap tim dilarang untuk berkomunikasi dengan tim lain.
+                            </li>
+                            <li class="text-lg lg:text-2xl">Setiap tim dilarang untuk menggunakan gawai dengan
+                                keperluan apapun, kecuali jika panitia mengizinkan.</li>
+                            <li class="text-lg lg:text-2xl">Setiap bentuk pelanggaran terhadap peraturan akan
+                                didiskualifikasi dari rangkaian kegiatan CECC 2024.</li>
+                            <li class="text-lg lg:text-2xl">Keputusan panitia adalah bersifat mutlak dan tidak dapat
+                                diganggu gugat.</li>
+                        </ol>
+
+                        <div class="relative">
+                            <img src="{{ url('/images/Guidance/Final - Praktikum.svg') }}" alt=""
+                                class="mx-auto mt-3 w-48 md:w-60 lg:w-80">
+
+                            <ol class="mx-4 ms-8 list-decimal font-wonder_magic md:mx-16 lg:mx-40">
+                                <li class="text-lg lg:text-2xl">Tahapan praktikum akan dilakukan di Laboratorium Kimia
+                                    Organik dan Kimia Fisika, Universitas Katolik Widya Mandala Surabaya, Kampus
+                                    Kalijudan.</li>
+                                <li class="text-lg lg:text-2xl">Peserta wajib menggunakan peralatan keamanan
+                                    laboratorium seperti jas lab, sarung tangan, masker, dll. Jas lab harap dibawa oleh
+                                    masing-masing peserta, peralatan keamanan lab yang lain akan disediakan oleh
+                                    panitia.</li>
+                                <li class="text-lg lg:text-2xl">Tim tidak diperbolehkan untuk berkomunikasi dengan tim
+                                    lain dengan cara apapun.</li>
+                                <li class="text-lg lg:text-2xl">Setelah melakukan praktikum, finalis akan menjawab
+                                    soal<span class="font-sans">-</span>soal berdasarkan praktikum yang dilakukan.</li>
+                                <li class="text-lg lg:text-2xl">Waktu praktikum total yang disediakan adalah 45 menit.
+                                </li>
+                                <li class="text-lg lg:text-2xl">Sistem penilaian pada tahapan praktikum <span
+                                        class="font-sans">(</span>untuk setiap soal<span class="font-sans">)</span>
+                                    bergantung pada tingkat kesulitan soal, dan akan disertakan poin maksimumnya pada
+                                    soal.</li>
+                            </ol>
+                        </div>
+
+                        <div class="relative my-5">
+                            <img src="{{ url('/images/Guidance/Final - Studi Kasus.svg') }}" alt=""
+                                class="mx-auto mt-3 w-48 md:w-60 lg:w-80">
+
+                            <ol class="mx-4 ms-8 list-decimal font-wonder_magic md:mx-16 lg:mx-40">
+                                <li class="text-lg lg:text-2xl">Finalis akan memasuki ruangan untuk tahapan studi kasus
+                                    dengan topik studi kasus yang berbeda<span class="font-sans">-</span>beda pada tiap
+                                    ruangan. Terdapat tiga <span class="font-sans">(</span>3<span
+                                        class="font-sans">)</span>
+                                    topik yang dibagikan berkaitan dengan bidang Teknik Kimia, masing<span
+                                        class="font-sans">-</span>masing pada ruangan D104, D105 dan D106.</li>
+                                <li class="text-lg lg:text-2xl">Tahapan Studi Kasus akan berlangsung selama 14 menit
+                                    per ruangan yang terdiri dari 3 menit membaca materi, 4 menit presentasi, dan 7
+                                    menit tanya jawab.</li>
+                                <li class="text-lg lg:text-2xl">Finalis wajib mengikuti seluruh topik studi kasus
+                                    secara bergantian dengan waktu yang diberikan untuk transisi antar ruangan selama 1
+                                    menit.</li>
+                                <li class="text-lg lg:text-2xl">Waktu total untuk keseluruhan studi kasus adalah 45
+                                    menit.</li>
+                                <li class="text-lg lg:text-2xl">Sistem penilaian pada tahap studi kasus akan
+                                    berdasarkan penilaian juri pada masing<span class="font-sans">-</span>masing topik.
+                                </li>
+                                <li class="text-lg lg:text-2xl">Topik yang diberikan untuk studi kasus adalah<span
+                                        class="font-sans">:</span>
+                                    <ul class="list-inside list-image-guidance_silabus">
+                                        <li class="text-lg lg:text-2xl">Pemanfaatan kembali limbah menjadi barang
+                                            dengan nilai jual.</li>
+                                        <li class="text-lg lg:text-2xl">Aplikasi proses hijau dalam rangka mencapai net
+                                            zero emission yang tetap ekonomis.</li>
+                                        <li class="text-lg lg:text-2xl">Aplikasi material biodegradable sebagai salah
+                                            solusi dalam pengurangan limbah.</li>
+                                    </ul>
+                                </li>
+                                <li class="text-lg lg:text-2xl">Topik terperinci akan dibagikan setelah pengumuman
+                                    semifinalis, yakni setelah Babak Penyisihan berakhir.</li>
+                            </ol>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="mt-10">
+    <section class="mt-16">
         <x-sponsors />
     </section>
 </x-guest-layout>

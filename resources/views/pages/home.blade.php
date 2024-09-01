@@ -119,7 +119,7 @@
         <img src="{{ url('/images/Home/Bingkai.svg') }}" alt="" class="mx-auto my-5 w-5/6 md:w-3/4 lg:px-6">
     </section>
 
-    <section class="mt-10">
+    <section class="mt-16">
         <x-sponsors />
     </section>
 </x-guest-layout>
