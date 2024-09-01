@@ -15,31 +15,31 @@
                     data-tabs-inactive-classes="bg-gradient-to-b from-custom-shampoo to-custom-bright_lavender">
                     <li class="inline-block lg:w-full" role="presentation">
                         <button
-                            class="h-full w-full rounded-2xl border-2 px-6 py-4 text-custom-dark_purple hover:brightness-125 md:rounded-b-none md:rounded-t-[1.75rem] lg:rounded-t-[2.5rem] lg:px-10 lg:py-2"
+                            class="h-full w-full rounded-2xl border-2 px-5 py-3 text-custom-dark_purple hover:brightness-125 md:rounded-b-none md:rounded-t-[1.75rem] md:px-6 md:py-4 lg:rounded-t-[2.5rem] lg:px-10 lg:py-2"
                             id="alur_pendaftaran-tab" data-tabs-target="#alur_pendaftaran" type="button" role="tab"
                             aria-controls="alur_pendaftaran" aria-selected="false">Alur Pendaftaran</button>
                     </li>
                     <li class="inline-block lg:w-full" role="presentation">
                         <button
-                            class="h-full w-full rounded-2xl border-2 px-6 py-4 text-custom-dark_purple hover:brightness-125 md:rounded-b-none md:rounded-t-[1.75rem] lg:rounded-t-[2.5rem] lg:px-10 lg:py-2"
+                            class="h-full w-full rounded-2xl border-2 px-5 py-3 text-custom-dark_purple hover:brightness-125 md:rounded-b-none md:rounded-t-[1.75rem] md:px-6 md:py-4 lg:rounded-t-[2.5rem] lg:px-10 lg:py-2"
                             id="silabus-tab" data-tabs-target="#silabus" type="button" role="tab"
                             aria-controls="silabus" aria-selected="false">Silabus</button>
                     </li>
                     <li class="inline-block lg:w-full" role="presentation">
                         <button
-                            class="h-full w-full rounded-2xl border-2 px-6 py-4 text-custom-dark_purple hover:brightness-125 md:rounded-b-none md:rounded-t-[1.75rem] lg:rounded-t-[2.5rem] lg:px-10 lg:py-2"
+                            class="h-full w-full rounded-2xl border-2 px-5 py-3 text-custom-dark_purple hover:brightness-125 md:rounded-b-none md:rounded-t-[1.75rem] md:px-6 md:py-4 lg:rounded-t-[2.5rem] lg:px-10 lg:py-2"
                             id="penyisihan-tab" data-tabs-target="#penyisihan" type="button" role="tab"
                             aria-controls="penyisihan" aria-selected="false">Penyisihan</button>
                     </li>
                     <li class="inline-block lg:w-full" role="presentation">
                         <button
-                            class="h-full w-full rounded-2xl border-2 px-6 py-4 text-custom-dark_purple hover:brightness-125 md:rounded-b-none md:rounded-t-[1.75rem] lg:rounded-t-[2.5rem] lg:px-10 lg:py-2"
+                            class="h-full w-full rounded-2xl border-2 px-5 py-3 text-custom-dark_purple hover:brightness-125 md:rounded-b-none md:rounded-t-[1.75rem] md:px-6 md:py-4 lg:rounded-t-[2.5rem] lg:px-10 lg:py-2"
                             id="semi_final-tab" data-tabs-target="#semi_final" type="button" role="tab"
                             aria-controls="semi_final" aria-selected="false">Semi Final</button>
                     </li>
                     <li class="inline-block lg:w-full" role="presentation">
                         <button
-                            class="h-full w-full rounded-2xl border-2 px-6 py-4 text-custom-dark_purple hover:brightness-125 md:rounded-b-none md:rounded-t-[1.75rem] lg:rounded-t-[2.5rem] lg:px-10 lg:py-2"
+                            class="h-full w-full rounded-2xl border-2 px-5 py-3 text-custom-dark_purple hover:brightness-125 md:rounded-b-none md:rounded-t-[1.75rem] md:px-6 md:py-4 lg:rounded-t-[2.5rem] lg:px-10 lg:py-2"
                             id="final-tab" data-tabs-target="#final" type="button" role="tab" aria-controls="final"
                             aria-selected="false">Final</button>
                     </li>
@@ -56,18 +56,18 @@
                         <div class="flex items-center justify-center gap-3">
                             <div>
                                 <img src="{{ url('/images/Guidance/Jam Pasir.svg') }}" alt=""
-                                    class="ms-auto flex w-8 md:w-12 lg:mx-auto">
+                                    class="ms-auto flex w-10 md:w-14 lg:mx-auto lg:w-20">
                             </div>
                             <div>
                                 <img src="{{ url('/images/Guidance/Jadwal.svg') }}" alt=""
-                                    class="mx-auto w-40 grow lg:w-64">
+                                    class="mx-auto w-40 grow lg:w-72">
                             </div>
                             <div>
                                 <img src="{{ url('/images/Guidance/Jam Pasir.svg') }}" alt=""
-                                    class="me-auto flex w-8 md:w-12 lg:mx-auto">
+                                    class="me-auto flex w-10 md:w-14 lg:mx-auto lg:w-20">
                             </div>
                         </div>
-                        <div class="grid grid-cols-2 place-items-center gap-3">
+                        <div class="grid grid-cols-2 place-items-center gap-4">
                             <img src="{{ url('/images/Guidance/Batch 1.svg') }}" alt=""
                                 class="ms-auto w-5/6 md:w-3/4">
                             <img src="{{ url('/images/Guidance/Batch 2.svg') }}" alt=""
@@ -78,15 +78,15 @@
                         <div class="flex items-center justify-center gap-3">
                             <div>
                                 <img src="{{ url('/images/Guidance/Buku.svg') }}" alt=""
-                                    class="ms-auto flex w-24 md:w-36 lg:mx-auto">
+                                    class="ms-auto flex w-24 md:w-36 lg:mx-auto lg:w-44">
                             </div>
                             <div>
                                 <img src="{{ url('/images/Guidance/Syarat.svg') }}" alt=""
-                                    class="mx-auto ms-2 w-40 grow md:ms-10 lg:w-64">
+                                    class="mx-auto ms-2 w-40 grow md:ms-10 lg:w-72">
                             </div>
                             <div>
                                 <img src="{{ url('/images/Guidance/Cairan.svg') }}" alt=""
-                                    class="me-auto flex w-28 md:w-48 lg:mx-auto">
+                                    class="me-auto flex w-28 md:w-48 lg:mx-auto lg:w-56">
                             </div>
                         </div>
                         <ul class="mx-8 list-disc font-magic md:mx-32 lg:mx-48">
@@ -97,21 +97,21 @@
                     </div>
                     <div class="relative my-5">
                         <img src="{{ url('/images/Guidance/Alur.svg') }}" alt=""
-                            class="mx-auto w-40 lg:w-64">
+                            class="mx-auto w-40 lg:w-72">
                         <div class="relative">
                             <img src="{{ url('/images/Guidance/Penyihir.svg') }}" alt=""
                                 class="hidden md:block md:w-2/3">
                             <img src="{{ url('/images/Guidance/Garis Alur.svg') }}" alt=""
-                                class="absolute left-1/2 -z-10 hidden w-2/3 -translate-x-1/2 transform md:top-56 md:block lg:top-96">
+                                class="absolute left-1/2 -z-10 hidden w-2/3 -translate-x-1/2 transform md:top-72 md:block lg:top-96">
                             <div class="ms-auto flex w-fit">
                                 <img src="{{ url('/images/Guidance/Tanaman Bermata.svg') }}" alt=""
-                                    class="ms-auto hidden w-fit md:-mt-8 md:me-28 md:block md:h-28 lg:me-40 lg:h-48">
+                                    class="ms-auto hidden w-fit md:-mt-10 md:me-28 md:block md:h-28 lg:me-40 lg:h-48">
                                 <img src="{{ url('/images/Guidance/Tanaman Kuning.svg') }}" alt=""
-                                    class="ms-auto hidden w-fit md:-mt-8 md:block md:h-28 lg:h-48">
+                                    class="ms-auto hidden w-fit md:-mt-10 md:block md:h-28 lg:h-48">
                             </div>
                             <div class="mx-4 grid place-items-center gap-3 md:grid-cols-2 lg:gap-0">
                                 <img src="{{ url('/images/Guidance/Jamur.svg') }}" alt=""
-                                    class="me-auto hidden md:-mt-32 md:ms-36 md:block md:w-1/6 lg:ms-36 lg:mt-0 lg:w-1/3">
+                                    class="me-auto hidden md:-mt-40 md:ms-48 md:block md:w-1/6 lg:ms-36 lg:mt-0 lg:w-1/3">
                                 <div class="flex gap-6 md:mt-6 lg:me-8">
                                     <div class="flex-auto">
                                         <img src="{{ url('/images/Guidance/Alur 1.svg') }}" alt="">
@@ -162,8 +162,7 @@
                                         <div>
                                             <ul class="list-disc">
                                                 <li class="text-lg lg:text-xl">Biaya pendaftaran dapat ditransfer ke
-                                                    bendahara
-                                                    CECC 2024 melalui beberapa opsi berikut:</li>
+                                                    bendahara CECC 2024 melalui beberapa opsi berikut:</li>
                                                 <ul class="ms-8 list-disc">
                                                     <li class="text-lg lg:text-xl">Bank ....</li>
                                                     <li class="text-lg lg:text-xl">Bank ....</li>
@@ -178,11 +177,11 @@
                                 <img src="{{ url('/images/Guidance/Tongkat Topi Penyihir.svg') }}" alt=""
                                     class="mx-auto hidden w-1/3 md:me-10 md:block lg:me-28">
                                 <img src="{{ url('/images/Guidance/Tanaman Liar.svg') }}" alt=""
-                                    class="absolute mx-auto hidden w-1/6 md:ms-56 md:mt-56 md:block lg:ms-96 lg:mt-96">
+                                    class="absolute mx-auto hidden w-1/6 md:ms-40 md:mt-56 md:block lg:ms-96 lg:mt-96">
                             </div>
                             <div class="mx-4 grid place-items-center gap-3 md:grid-cols-2 lg:mt-28 lg:gap-0">
                                 <img src="{{ url('/images/Guidance/Bebek.svg') }}" alt=""
-                                    class="me-auto hidden md:ms-16 md:block md:w-1/4 lg:ms-36 lg:w-1/3">
+                                    class="me-auto hidden md:ms-40 md:block md:w-1/4 lg:ms-36 lg:w-1/3">
                                 <img src="{{ url('/images/Guidance/Tongkat Gurita.svg') }}" alt=""
                                     class="absolute right-0 mb-6 hidden md:block md:w-20 lg:w-32">
 
@@ -212,7 +211,7 @@
                                 </div>
                             </div>
                             <img src="{{ url('/images/Guidance/Pembaca.svg') }}" alt=""
-                                class="relative -z-10 w-full md:-mt-64 lg:-mt-96">
+                                class="relative -z-10 w-full md:-mt-80 lg:-mt-96">
                         </div>
 
                         <img src="{{ url('/images/Guidance/Tombak.svg') }}" alt=""
@@ -227,7 +226,7 @@
                 <div class="hidden" id="silabus" role="tabpanel" aria-labelledby="silabus-tab">
                     <div class="relative my-5">
                         <img src="{{ url('/images/Guidance/Babak Penyisihan.svg') }}" alt=""
-                            class="mx-auto w-64 lg:w-80">
+                            class="mx-auto w-64 lg:w-96">
 
                         <img src="{{ url('/images/Guidance/Tombak.svg') }}" alt=""
                             class="absolute left-0 top-24 -z-10 w-40 md:top-12 md:w-60 lg:top-0 lg:w-96">
@@ -236,7 +235,7 @@
 
                         <div class="relative">
                             <img src="{{ url('/images/Guidance/Kimia.svg') }}" alt=""
-                                class="mx-auto w-48 lg:w-64">
+                                class="mx-auto w-48 lg:w-72">
                             <div class="relative mx-4 grid md:mx-16 md:grid-cols-2 md:gap-4 lg:mx-40">
                                 <div>
                                     <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
@@ -271,7 +270,7 @@
 
                         <div class="relative">
                             <img src="{{ url('/images/Guidance/Fisika.svg') }}" alt=""
-                                class="mx-auto mt-3 w-48 lg:w-64">
+                                class="mx-auto mt-3 w-48 lg:w-72">
 
                             <img src="{{ url('/images/Guidance/Botol Ramuan.svg') }}" alt=""
                                 class="absolute -top-12 left-0 -z-10 w-32 md:-top-20 md:w-48 lg:w-64">
@@ -319,7 +318,7 @@
 
                         <div class="relative">
                             <img src="{{ url('/images/Guidance/Matematika.svg') }}" alt=""
-                                class="mx-auto mt-3 w-48 lg:w-64">
+                                class="mx-auto mt-3 w-48 lg:w-72">
                             <div class="relative mx-4 grid md:mx-16 md:grid-cols-2 md:gap-4 lg:mx-40">
                                 <div>
                                     <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
@@ -349,12 +348,12 @@
 
                         <div class="relative">
                             <img src="{{ url('/images/Guidance/Biologi.svg') }}" alt=""
-                                class="mx-auto mt-3 w-48 lg:w-64">
+                                class="mx-auto mt-3 w-48 lg:w-72">
 
                             <img src="{{ url('/images/Home/Blink Oranye Kiri.svg') }}" alt=""
                                 class="absolute -left-20 -top-6 -z-50 w-40 md:w-56 lg:w-72">
                             <img src="{{ url('/images/Guidance/Kitab.svg') }}" alt=""
-                                class="absolute right-2 top-0 w-32 md:w-52 lg:w-64">
+                                class="absolute right-2 top-0 w-32 md:w-52 lg:w-72">
 
                             <div class="relative mx-4 grid md:mx-16 md:grid-cols-2 md:gap-4 lg:mx-40">
                                 <div>
@@ -379,7 +378,7 @@
 
                         <div class="relative">
                             <img src="{{ url('/images/Guidance/Ekonomi.svg') }}" alt=""
-                                class="mx-auto mt-3 w-48 lg:w-64">
+                                class="mx-auto mt-3 w-48 lg:w-72">
 
                             <img src="{{ url('/images/Guidance/Tongkat Gurita.svg') }}" alt=""
                                 class="absolute right-0 top-0 w-14 md:top-16 md:w-28 lg:w-40">
@@ -411,7 +410,7 @@
 
                     <div class="relative mx-4 my-5 md:mx-16 lg:mx-40">
                         <img src="{{ url('/images/Guidance/Babak Semifinal.svg') }}" alt=""
-                            class="mx-auto w-64 lg:w-80">
+                            class="mx-auto w-64 lg:w-96">
 
                         <h5 class="font-wonder_magic text-xl lg:text-2xl">
                             Materi yang diberikan sama dengan pada babak penyisihan, akan tetapi tingkat kesulitan lebih
@@ -428,7 +427,7 @@
 
                     <div class="relative">
                         <img src="{{ url('/images/Guidance/Babak Final.svg') }}" alt=""
-                            class="mx-auto w-64 lg:w-80">
+                            class="mx-auto w-64 lg:w-96">
 
                         <img src="{{ url('/images/Guidance/Tongkat Terbalik.svg') }}" alt=""
                             class="absolute left-2 top-32 w-16 md:left-6 md:top-16 md:w-40 lg:left-10 lg:w-60">
@@ -439,13 +438,13 @@
 
                         <div class="mx-4 md:mx-16 lg:mx-40">
                             <img src="{{ url('/images/Guidance/Praktikum.svg') }}" alt=""
-                                class="mx-auto w-48 lg:w-64">
+                                class="mx-auto w-48 lg:w-72">
                             <h5 class="font-wonder_magic text-xl md:text-center lg:text-2xl">Praktikum Sintesis dan Uji
                                 Produk berbasis kewirausahaan.
                             </h5>
 
                             <img src="{{ url('/images/Guidance/Studi Kasus.svg') }}" alt=""
-                                class="mx-auto mt-3 w-48 lg:w-64">
+                                class="mx-auto mt-3 w-48 lg:w-72">
                             <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
                                 <li class="text-xl lg:text-2xl">Pemanfaatan kembali limbah menjadi barang dengan nilai
                                     jual.</li>
@@ -798,7 +797,7 @@
 
                         <div class="relative">
                             <img src="{{ url('/images/Guidance/Explorers.svg') }}" alt=""
-                                class="mx-auto mt-3 w-48 lg:w-64">
+                                class="mx-auto mt-3 w-48 lg:w-72">
 
                             <ol class="mx-4 list-decimal font-wonder_magic md:mx-16 lg:mx-40">
                                 <li class="text-lg lg:text-2xl">Pada tahap ini, akan ada tujuh <span
@@ -967,7 +966,7 @@
 
                         <div class="relative my-5">
                             <img src="{{ url('/images/Guidance/S-MART.svg') }}" alt=""
-                                class="mx-auto mt-3 w-48 lg:w-64">
+                                class="mx-auto mt-3 w-48 lg:w-72">
 
                             <ol class="mx-4 list-decimal font-wonder_magic md:mx-16 lg:mx-40">
                                 <li class="text-lg lg:text-2xl">Pada tahap ini, seluruh peserta akan berkumpul di
