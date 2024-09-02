@@ -6,7 +6,7 @@
             <x-cecc />
         </x-slot>
 
-        <div class="rounded-xl bg-custom-american_purple p-4 font-sans">
+        <div class="rounded-xl bg-custom-american_purple p-4 font-inter">
             <div class="mb-4 text-sm text-gray-100">
                 {{ __('Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.') }}
             </div>

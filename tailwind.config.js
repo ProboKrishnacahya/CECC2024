@@ -1,7 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 const plugin = require('tailwindcss/plugin');
 const path = require('path');
-import defaultTheme from 'tailwindcss/defaultTheme';
 import forms from '@tailwindcss/forms';
 import typography from '@tailwindcss/typography';
 
@@ -34,7 +33,8 @@ export default {
                     cadmium_violet: '#913E97',
                     bright_lavender: '#B990EA',
                     shampoo: '#FFCDFF',
-                    dark_purple: '#3F1536'
+                    dark_purple: '#3F1536',
+                    brass: '#A8AA45',
                 }
             },
             fontFamily: {
@@ -42,6 +42,7 @@ export default {
                 magical_neverland: ['Magical_Neverland', 'serif'],
                 metal_mania: ['Metal_Mania', 'serif'],
                 wonder_magic: ['Wonder_Magic', 'serif'],
+                inter: ['Inter', 'sans-serif'],
             },
             listStyleImage: {
                 guidance_silabus: 'url("/public/images/Guidance/Guidance Silabus List.svg")',

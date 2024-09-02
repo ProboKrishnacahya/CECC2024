@@ -244,7 +244,7 @@
                                         <li class="text-lg lg:text-2xl">Stoikiometri</li>
                                         <li class="text-lg lg:text-2xl">Reaksi Redoks</li>
                                         <li class="text-lg lg:text-2xl">Larutan Elektrolit dan Non<span
-                                                class="font-sans">-</span>Elektrolit</li>
+                                                class="font-inter">-</span>Elektrolit</li>
                                         <li class="text-lg lg:text-2xl">Termokimia</li>
                                         <li class="text-lg lg:text-2xl">Larutan Penyangga</li>
                                         <li class="text-lg lg:text-2xl">Larutan Asam Basa</li>
@@ -284,9 +284,9 @@
                                     <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
                                         <li class="text-lg lg:text-2xl">Besaran dan Satuan</li>
                                         <li class="text-lg lg:text-2xl">Gerak Lurus Beraturan <span
-                                                class="font-sans">(</span>GLB<span class="font-sans">)</span> dan
-                                            Gerak Lurus Berubah Beraturan <span class="font-sans">(</span>GLBB<span
-                                                class="font-sans">)</span>
+                                                class="font-inter">(</span>GLB<span class="font-inter">)</span> dan
+                                            Gerak Lurus Berubah Beraturan <span class="font-inter">(</span>GLBB<span
+                                                class="font-inter">)</span>
                                         </li>
                                         <li class="text-lg lg:text-2xl">Gerak Parabola</li>
                                         <li class="text-lg lg:text-2xl">Hukum Newton</li>
@@ -415,7 +415,7 @@
                         <h5 class="font-wonder_magic text-xl lg:text-2xl">
                             Materi yang diberikan sama dengan pada babak penyisihan, akan tetapi tingkat kesulitan lebih
                             tinggi, dan ada tambahan materi dari Teknik Kimia Dasar, yang meliputi<span
-                                class="font-sans">:</span>
+                                class="font-inter">:</span>
                         </h5>
                         <ul class="ms-8 list-inside list-image-guidance_silabus font-wonder_magic">
                             <li class="text-lg lg:text-2xl">Kimia Analisa</li>
@@ -486,30 +486,30 @@
                             <li class="text-lg lg:text-2xl">
                                 Babak penyisihan akan dilaksanakan secara <span
                                     class="underline underline-offset-auto">daring</span> pada<span
-                                    class="font-sans">:</span>
+                                    class="font-inter">:</span>
                                 <br>
                                 <table class="table-auto">
                                     <tbody>
                                         <tr>
                                             <td>
-                                                Hari<span class="font-sans">/</span>tanggal
+                                                Hari<span class="font-inter">/</span>tanggal
                                             </td>
                                             <td>
-                                                <span class="px-1 font-sans">:</span>
+                                                <span class="px-1 font-inter">:</span>
                                             </td>
                                             <td>Sabtu, 26 Oktober 2024</td>
                                         </tr>
                                         <tr>
                                             <td>Pukul</td>
                                             <td>
-                                                <span class="px-1 font-sans">:</span>
+                                                <span class="px-1 font-inter">:</span>
                                             </td>
-                                            <td>10.00 <span class="font-sans">-</span> 12.00 WIB</td>
+                                            <td>10.00 <span class="font-inter">-</span> 12.00 WIB</td>
                                         </tr>
                                         <tr>
                                             <td>Media</td>
                                             <td>
-                                                <span class="px-1 font-sans">:</span>
+                                                <span class="px-1 font-inter">:</span>
                                             </td>
                                             <td>Website CECC 2024</td>
                                         </tr>
@@ -523,13 +523,13 @@
                             </li>
                             <li class="text-lg lg:text-2xl">
                                 Setiap tim yang berpartisipasi dalam babak penyisihan terdiri atas 2
-                                orang siswa<span class="font-sans">/</span>i yang berasal dari sekolah yang sama.
+                                orang siswa<span class="font-inter">/</span>i yang berasal dari sekolah yang sama.
                             </li>
                             <li class="text-lg lg:text-2xl">Setiap tim diharapkan mempersiapkan koneksi internet yang
                                 baik pada saat pelaksanaan babak penyisihan, dimana koneksi internet menjadi tanggung
                                 jawab peserta CECC 2024.</li>
                             <li class="text-lg lg:text-2xl">
-                                Setiap anggota masing<span class="font-sans">-</span>masing tim <span
+                                Setiap anggota masing<span class="font-inter">-</span>masing tim <span
                                     class="underline underline-offset-auto">wajib</span> bergabung ke dalam zoom
                                 meeting dengan kondisi kamera menyala dan microphone mute selama babak penyisihan
                                 berlangsung.
@@ -549,7 +549,7 @@
                                 bersamaan atau real time.</li>
                             <li class="text-lg lg:text-2xl">
                                 Pengerjaan soal pada babak penyisihan diwajibkan menggunakan
-                                laptop<span class="font-sans">/</span>komputer yang dilengkapi kamera webcam dan tidak
+                                laptop<span class="font-inter">/</span>komputer yang dilengkapi kamera webcam dan tidak
                                 dianjurkan menggunakan handphone.
                             </li>
                             <li class="text-lg lg:text-2xl">
@@ -561,7 +561,7 @@
                                 pengerjaan
                                 selama 120 menit, terhitung sejak babak penyisihan dimulai.</li>
                             <li class="text-lg lg:text-2xl">
-                                Cakupan materi pada babak penyisihan meliputi<span class="font-sans">:</span>
+                                Cakupan materi pada babak penyisihan meliputi<span class="font-inter">:</span>
                                 <table class="table-auto">
                                     <tbody>
                                         <tr>
@@ -571,9 +571,9 @@
                                             </td>
                                             <td>Kimia</td>
                                             <td>
-                                                <span class="px-1 font-sans">:</span>
+                                                <span class="px-1 font-inter">:</span>
                                             </td>
-                                            <td>30<span class="font-sans">%</span></td>
+                                            <td>30<span class="font-inter">%</span></td>
                                         </tr>
                                         <tr>
                                             <td>
@@ -582,9 +582,9 @@
                                             </td>
                                             <td>Fisika</td>
                                             <td>
-                                                <span class="px-1 font-sans">:</span>
+                                                <span class="px-1 font-inter">:</span>
                                             </td>
-                                            <td>20<span class="font-sans">%</span></td>
+                                            <td>20<span class="font-inter">%</span></td>
                                         </tr>
                                         <tr>
                                             <td>
@@ -593,9 +593,9 @@
                                             </td>
                                             <td>Matematika</td>
                                             <td>
-                                                <span class="px-1 font-sans">:</span>
+                                                <span class="px-1 font-inter">:</span>
                                             </td>
-                                            <td>20<span class="font-sans">%</span></td>
+                                            <td>20<span class="font-inter">%</span></td>
                                         </tr>
                                         <tr>
                                             <td>
@@ -604,9 +604,9 @@
                                             </td>
                                             <td>Biologi</td>
                                             <td>
-                                                <span class="px-1 font-sans">:</span>
+                                                <span class="px-1 font-inter">:</span>
                                             </td>
-                                            <td>15<span class="font-sans">%</span></td>
+                                            <td>15<span class="font-inter">%</span></td>
                                         </tr>
                                         <tr>
                                             <td>
@@ -615,16 +615,16 @@
                                             </td>
                                             <td>Ekonomi</td>
                                             <td>
-                                                <span class="px-1 font-sans">:</span>
+                                                <span class="px-1 font-inter">:</span>
                                             </td>
-                                            <td>15<span class="font-sans">%</span></td>
+                                            <td>15<span class="font-inter">%</span></td>
                                         </tr>
                                     </tbody>
                                 </table>
                             </li>
                             <li class="text-lg lg:text-2xl">
                                 Setiap soal memiliki bobot nilai yang sama sebagai berikut<span
-                                    class="font-sans">:</span>
+                                    class="font-inter">:</span>
                                 <table class="table-auto">
                                     <tbody>
                                         <tr>
@@ -634,10 +634,10 @@
                                             </td>
                                             <td>Benar</td>
                                             <td>
-                                                <span class="px-1 font-sans">:</span>
+                                                <span class="px-1 font-inter">:</span>
                                             </td>
                                             <td>
-                                                <span class="font-sans">+</span>2
+                                                <span class="font-inter">+</span>2
                                             </td>
                                         </tr>
                                         <tr>
@@ -647,7 +647,7 @@
                                             </td>
                                             <td>Salah</td>
                                             <td>
-                                                <span class="px-1 font-sans">:</span>
+                                                <span class="px-1 font-inter">:</span>
                                             </td>
                                             <td>0</td>
                                         </tr>
@@ -658,7 +658,7 @@
                                             </td>
                                             <td>Tidak Menjawab</td>
                                             <td>
-                                                <span class="px-1 font-sans">:</span>
+                                                <span class="px-1 font-inter">:</span>
                                             </td>
                                             <td>0</td>
                                         </tr>
@@ -676,15 +676,15 @@
                             <li class="text-lg lg:text-2xl">Peserta diperbolehkan menggunakan alat bantu hitung seperti
                                 kalkulator ketika mengerjakan soal.</li>
                             <li class="text-lg lg:text-2xl">
-                                Apabila terdapat kendala pada website <span class="font-sans">(</span>bukan dikarenakan
-                                jaringan peserta<span class="font-sans">)</span> dan dialami oleh seluruh peserta,
+                                Apabila terdapat kendala pada website <span class="font-inter">(</span>bukan dikarenakan
+                                jaringan peserta<span class="font-inter">)</span> dan dialami oleh seluruh peserta,
                                 peserta dapat segera menghubungi panitia dan menyertakan bukti tangkapan layar yang
                                 membuktikan bahwa
                                 terdapat kendala. Selanjutnya, panitia akan memberikan link Google Form sebagai cadangan
                                 lembar jawaban.
                             </li>
                             <li class="text-lg lg:text-2xl">
-                                Dua puluh lima <span class="font-sans">(</span>25<span class="font-sans">)</span> tim
+                                Dua puluh lima <span class="font-inter">(</span>25<span class="font-inter">)</span> tim
                                 dengan poin tertinggi akan lolos ke babak semifinal.
                             </li>
                             <li class="text-lg lg:text-2xl">Apabila ada tim dengan perolehan poin yang sama, maka tim
@@ -722,30 +722,30 @@
                             <li class="text-lg lg:text-2xl">
                                 Babak semifinal akan dilaksanakan secara <span
                                     class="underline underline-offset-auto">luring</span> pada<span
-                                    class="font-sans">:</span>
+                                    class="font-inter">:</span>
                                 <br>
                                 <table class="table-auto">
                                     <tbody>
                                         <tr>
                                             <td>
-                                                Hari<span class="font-sans">/</span>tanggal
+                                                Hari<span class="font-inter">/</span>tanggal
                                             </td>
                                             <td>
-                                                <span class="px-1 font-sans">:</span>
+                                                <span class="px-1 font-inter">:</span>
                                             </td>
                                             <td>Sabtu, 9 November 2024</td>
                                         </tr>
                                         <tr>
                                             <td>Pukul</td>
                                             <td>
-                                                <span class="px-1 font-sans">:</span>
+                                                <span class="px-1 font-inter">:</span>
                                             </td>
-                                            <td>09.00 <span class="font-sans">-</span> 11.40 WIB</td>
+                                            <td>09.00 <span class="font-inter">-</span> 11.40 WIB</td>
                                         </tr>
                                         <tr>
                                             <td>Lokasi</td>
                                             <td>
-                                                <span class="px-1 font-sans">:</span>
+                                                <span class="px-1 font-inter">:</span>
                                             </td>
                                             <td>Universitas Katolik Widya Mandala Jl. Kalijudan 37 Surabaya</td>
                                         </tr>
@@ -753,7 +753,7 @@
                                 </table>
                             </li>
                             <li class="text-lg lg:text-2xl">
-                                Setiap anggota masing<span class="font-sans">-</span>masing tim wajib hadir tepat
+                                Setiap anggota masing<span class="font-inter">-</span>masing tim wajib hadir tepat
                                 waktu. Tim yang bertanding harus hadir secara lengkap agar diperbolehkan untuk mengikuti
                                 babak ini.
                             </li>
@@ -761,16 +761,16 @@
                                 semifinal.
                             </li>
                             <li class="text-lg lg:text-2xl">
-                                Babak semifinal terdiri atas dua <span class="font-sans">(</span>2<span
-                                    class="font-sans">)</span> tahapan yaitu
-                                Explorers dan S<span class="font-sans">-</span>MART. Poin yang
+                                Babak semifinal terdiri atas dua <span class="font-inter">(</span>2<span
+                                    class="font-inter">)</span> tahapan yaitu
+                                Explorers dan S<span class="font-inter">-</span>MART. Poin yang
                                 diperoleh dari tahapan Explorers akan digunakan sebagai modal poin untuk memulai tahapan
-                                S<span class="font-sans">-</span>MART.
+                                S<span class="font-inter">-</span>MART.
                             </li>
                             <li class="text-lg lg:text-2xl">
                                 Poin yang didapat selama babak semifinal Explorers tidak akan
                                 diperhitungkan untuk penentuan babak final, hanya poin dari babak semifinal S<span
-                                    class="font-sans">-</span>MART yang akan digunakan.
+                                    class="font-inter">-</span>MART yang akan digunakan.
                             </li>
                             <li class="text-lg lg:text-2xl">Apabila terdapat tim yang memperoleh poin yang sama setelah
                                 babak semifinal, maka akan ditentukan berdasarkan waktu pengerjaan tersingkat.</li>
@@ -781,9 +781,9 @@
                             <li class="text-lg lg:text-2xl">Setiap tim tidak diperbolehkan untuk berkomunikasi dengan
                                 tim lain selama berlangsungnya babak semifinal.</li>
                             <li class="text-lg lg:text-2xl">
-                                Hasil poin pada babak S<span class="font-sans">-</span>MART, akan
-                                digunakan untuk menentukan lima <span class="font-sans">(</span>5<span
-                                    class="font-sans">)</span> tim dengan nilai tertinggi dan waktu pengerjaan tercepat
+                                Hasil poin pada babak S<span class="font-inter">-</span>MART, akan
+                                digunakan untuk menentukan lima <span class="font-inter">(</span>5<span
+                                    class="font-inter">)</span> tim dengan nilai tertinggi dan waktu pengerjaan tercepat
                                 yang akan lolos ke babak final.
                             </li>
                             <li class="text-lg lg:text-2xl">Jika terdapat tim dengan besar poin yang sama, maka
@@ -801,12 +801,12 @@
 
                             <ol class="mx-4 ms-8 list-decimal font-wonder_magic md:mx-16 lg:mx-40">
                                 <li class="text-lg lg:text-2xl">Pada tahap ini, akan ada tujuh <span
-                                        class="font-sans">(</span>7<span class="font-sans">)</span> ruangan khusus
+                                        class="font-inter">(</span>7<span class="font-inter">)</span> ruangan khusus
                                     yang digunakan sebagai tempat pengerjaan soal.</li>
                                 <li class="text-lg lg:text-2xl">Di dalam setiap ruangan, akan ada dua <span
-                                        class="font-sans">(</span>2<span class="font-sans">)</span> soal dengan
+                                        class="font-inter">(</span>2<span class="font-inter">)</span> soal dengan
                                     keterangan mata pelajaran per ruangan sebagai berikut, dengan nama ruangan<span
-                                        class="font-sans">:</span>
+                                        class="font-inter">:</span>
                                     <table class="table-auto">
                                         <tbody>
                                             <tr>
@@ -816,7 +816,7 @@
                                                 </td>
                                                 <td>Kimia, Fisika dan Matematika</td>
                                                 <td>
-                                                    <span class="px-1 font-sans">:</span>
+                                                    <span class="px-1 font-inter">:</span>
                                                 </td>
                                                 <td>Katalisasi</td>
                                             </tr>
@@ -827,7 +827,7 @@
                                                 </td>
                                                 <td>Kimia, Biologi dan Fisika</td>
                                                 <td>
-                                                    <span class="px-1 font-sans">:</span>
+                                                    <span class="px-1 font-inter">:</span>
                                                 </td>
                                                 <td>Molekuler</td>
                                             </tr>
@@ -838,7 +838,7 @@
                                                 </td>
                                                 <td>Kimia, Ekonomi dan Fisika</td>
                                                 <td>
-                                                    <span class="px-1 font-sans">:</span>
+                                                    <span class="px-1 font-inter">:</span>
                                                 </td>
                                                 <td>Akumulasi</td>
                                             </tr>
@@ -849,7 +849,7 @@
                                                 </td>
                                                 <td>Fisika, Biologi dan Matematika</td>
                                                 <td>
-                                                    <span class="px-1 font-sans">:</span>
+                                                    <span class="px-1 font-inter">:</span>
                                                 </td>
                                                 <td>Kinetika</td>
                                             </tr>
@@ -860,7 +860,7 @@
                                                 </td>
                                                 <td>Fisika, Matematika dan Ekonomi</td>
                                                 <td>
-                                                    <span class="px-1 font-sans">:</span>
+                                                    <span class="px-1 font-inter">:</span>
                                                 </td>
                                                 <td>Amortisasi</td>
                                             </tr>
@@ -871,7 +871,7 @@
                                                 </td>
                                                 <td>Biologi, Matematika dan Ekonomi</td>
                                                 <td>
-                                                    <span class="px-1 font-sans">:</span>
+                                                    <span class="px-1 font-inter">:</span>
                                                 </td>
                                                 <td>Aglomerasi</td>
                                             </tr>
@@ -882,7 +882,7 @@
                                                 </td>
                                                 <td>Teknik Kimia Dasar</td>
                                                 <td>
-                                                    <span class="px-1 font-sans">:</span>
+                                                    <span class="px-1 font-inter">:</span>
                                                 </td>
                                                 <td>Atom</td>
                                             </tr>
@@ -891,7 +891,7 @@
                                 </li>
                                 <li class="text-lg lg:text-2xl">
                                     Setiap soal memiliki bobot nilai yang sama sebagai berikut<span
-                                        class="font-sans">:</span>
+                                        class="font-inter">:</span>
                                     <table class="table-auto">
                                         <tbody>
                                             <tr>
@@ -901,10 +901,10 @@
                                                 </td>
                                                 <td>Benar</td>
                                                 <td>
-                                                    <span class="px-1 font-sans">:</span>
+                                                    <span class="px-1 font-inter">:</span>
                                                 </td>
                                                 <td>
-                                                    <span class="font-sans">+</span>10
+                                                    <span class="font-inter">+</span>10
                                                 </td>
                                             </tr>
                                             <tr>
@@ -914,7 +914,7 @@
                                                 </td>
                                                 <td>Salah</td>
                                                 <td>
-                                                    <span class="px-1 font-sans">:</span>
+                                                    <span class="px-1 font-inter">:</span>
                                                 </td>
                                                 <td>0</td>
                                             </tr>
@@ -925,7 +925,7 @@
                                                 </td>
                                                 <td>Tidak Menjawab</td>
                                                 <td>
-                                                    <span class="px-1 font-sans">:</span>
+                                                    <span class="px-1 font-inter">:</span>
                                                 </td>
                                                 <td>0</td>
                                             </tr>
@@ -935,18 +935,18 @@
                                 <li class="text-lg lg:text-2xl">Total poin maksimum yang dapat diperoleh dalam tahap
                                     ini adalah 140 poin.</li>
                                 <li class="text-lg lg:text-2xl">Akan terdapat beberapa poin gratis, yang diletakkan di
-                                    sepuluh <span class="font-sans">(</span>10<span class="font-sans">)</span> lokasi
+                                    sepuluh <span class="font-inter">(</span>10<span class="font-inter">)</span> lokasi
                                     sekitar kampus Kalijudan Universitas Katolik Widya Mandala Surabaya.</li>
                                 <li class="text-lg lg:text-2xl">Setiap tim akan diberikan satu buah peta yang
                                     menunjukkan denah Kampus Kalijudan Universitas Katolik Widya Mandala Surabaya,
-                                    beserta petunjuk<span class="font-sans">-</span>petunjuk mengenai lokasi ruangan
+                                    beserta petunjuk<span class="font-inter">-</span>petunjuk mengenai lokasi ruangan
                                     yang dapat dikunjungi peserta.
                                 </li>
                                 <li class="text-lg lg:text-2xl">Setiap tim diberi kebebasan untuk mengunjungi ruangan
                                     manapun dan kapanpun, selama pada ruangan tersebut masih tersedia tempat kosong.
                                 </li>
                                 <li class="text-lg lg:text-2xl">Setiap ruangan hanya dapat menampung paling banyak tiga
-                                    <span class="font-sans">(</span>3<span class="font-sans">)</span> tim. Apabila
+                                    <span class="font-inter">(</span>3<span class="font-inter">)</span> tim. Apabila
                                     ruangan penuh, maka tim berikutnya dipersilahkan menunggu, atau mencari ruangan
                                     lain.
                                 </li>
@@ -954,7 +954,7 @@
                                     ruangan dalam peta sebanyak satu kali saja. Ruangan yang sudah dikunjungi akan
                                     diberi stamp oleh panitia pada denah.</li>
                                 <li class="text-lg lg:text-2xl">Waktu pengerjaan soal pada masing<span
-                                        class="font-sans">-</span>masing ruangan adalah
+                                        class="font-inter">-</span>masing ruangan adalah
                                     10 menit. Jika waktu telah berakhir, maka peserta harus langsung menyerahkan
                                     pekerjaan mereka dan bergegas mencari ruangan selanjutnya.</li>
                                 <li class="text-lg lg:text-2xl">Waktu total untuk tahap ini adalah 90 menit, dan
@@ -972,16 +972,16 @@
                                 <li class="text-lg lg:text-2xl">Pada tahap ini, seluruh peserta akan berkumpul di
                                     ruangan Auditorium Gedung A Lantai 2.</li>
                                 <li class="text-lg lg:text-2xl">Pada tahapan ini akan disediakan lima <span
-                                        class="font-sans">(</span>5<span class="font-sans">)</span> tempat pengerjaan
+                                        class="font-inter">(</span>5<span class="font-inter">)</span> tempat pengerjaan
                                     soal, dengan setiap tempat akan disediakan 10 paket soal dengan level kesulitan yang
                                     beragam.</li>
                                 <li class="text-lg lg:text-2xl">Setiap paket soal akan memiliki harganya masing<span
-                                        class="font-sans">-</span>masing
+                                        class="font-inter">-</span>masing
                                     tergantung dengan tingkat kesulitan dari soal tersebut.</li>
                                 <li class="text-lg lg:text-2xl">Soal hanya dapat dibeli dengan menggunakan poin yang
                                     telah dikumpulkan selama babak semifinal Explorers.</li>
                                 <li class="text-lg lg:text-2xl">Rincian dari tingkat kesulitan dan harga paket soal
-                                    yang tersedia sebagai berikut<span class="font-sans">:</span>
+                                    yang tersedia sebagai berikut<span class="font-inter">:</span>
                                     <table class="table-auto">
                                         <tbody>
                                             <tr>
@@ -991,7 +991,7 @@
                                                 </td>
                                                 <td>1</td>
                                                 <td>
-                                                    <span class="px-1 font-sans">:</span>
+                                                    <span class="px-1 font-inter">:</span>
                                                 </td>
                                                 <td>2 poin</td>
                                             </tr>
@@ -1002,7 +1002,7 @@
                                                 </td>
                                                 <td>3</td>
                                                 <td>
-                                                    <span class="px-1 font-sans">:</span>
+                                                    <span class="px-1 font-inter">:</span>
                                                 </td>
                                                 <td>5 poin</td>
                                             </tr>
@@ -1013,7 +1013,7 @@
                                                 </td>
                                                 <td>5</td>
                                                 <td>
-                                                    <span class="px-1 font-sans">:</span>
+                                                    <span class="px-1 font-inter">:</span>
                                                 </td>
                                                 <td>7 poin</td>
                                             </tr>
@@ -1024,7 +1024,7 @@
                                                 </td>
                                                 <td>8</td>
                                                 <td>
-                                                    <span class="px-1 font-sans">:</span>
+                                                    <span class="px-1 font-inter">:</span>
                                                 </td>
                                                 <td>10 poin</td>
                                             </tr>
@@ -1032,7 +1032,7 @@
                                     </table>
                                 </li>
                                 <li class="text-lg lg:text-2xl">Rincian dari tingkat kesulitan dan harga paket soal
-                                    yang tersedia sebagai berikut<span class="font-sans">:</span>
+                                    yang tersedia sebagai berikut<span class="font-inter">:</span>
                                     <table class="table-auto">
                                         <tbody>
                                             <tr>
@@ -1042,7 +1042,7 @@
                                                 </td>
                                                 <td>1</td>
                                                 <td>
-                                                    <span class="px-1 font-sans">:</span>
+                                                    <span class="px-1 font-inter">:</span>
                                                 </td>
                                                 <td>4 poin</td>
                                             </tr>
@@ -1053,7 +1053,7 @@
                                                 </td>
                                                 <td>3</td>
                                                 <td>
-                                                    <span class="px-1 font-sans">:</span>
+                                                    <span class="px-1 font-inter">:</span>
                                                 </td>
                                                 <td>10 poin</td>
                                             </tr>
@@ -1064,7 +1064,7 @@
                                                 </td>
                                                 <td>5</td>
                                                 <td>
-                                                    <span class="px-1 font-sans">:</span>
+                                                    <span class="px-1 font-inter">:</span>
                                                 </td>
                                                 <td>14 poin</td>
                                             </tr>
@@ -1075,29 +1075,29 @@
                                                 </td>
                                                 <td>8</td>
                                                 <td>
-                                                    <span class="px-1 font-sans">:</span>
+                                                    <span class="px-1 font-inter">:</span>
                                                 </td>
                                                 <td>20 poin</td>
                                             </tr>
                                         </tbody>
                                     </table>
                                     <p>
-                                        <span class="font-sans">(</span><span class="font-sans">*</span>Poin maksimum
+                                        <span class="font-inter">(</span><span class="font-inter">*</span>Poin maksimum
                                         hanya didapat bila jawaban yang dipilih peserta disertai dengan cara
                                         penyelesaian yang jelas, jika tidak hanya separuh dari poin maksimum yang akan
-                                        diberikan<span class="font-sans">)</span>
+                                        diberikan<span class="font-inter">)</span>
                                     </p>
                                 </li>
                                 <li class="text-lg lg:text-2xl">Peserta dipersilahkan untuk mengunjungi lokasi yang
                                     sama lebih dari satu kali.</li>
                                 <li class="text-lg lg:text-2xl">Peserta dipersilahkan membeli soal sebanyak<span
-                                        class="font-sans">-</span>banyaknya
+                                        class="font-inter">-</span>banyaknya
                                     dengan catatan poin yang dimiliki masih tercukupi, dan dapat berhenti ketika poin
                                     telah habis.</li>
                                 <li class="text-lg lg:text-2xl">Paket soal yang telah dibeli oleh peserta tidak dapat
                                     dibeli lagi, dan peserta dapat memilih paket soal yang lain.</li>
                                 <li class="text-lg lg:text-2xl">Waktu pengerjaan soal pada masing<span
-                                        class="font-sans">-</span>masing lokasi adalah
+                                        class="font-inter">-</span>masing lokasi adalah
                                     5 menit. Jika waktu telah berakhir, maka peserta harus langsung menyerahkan
                                     pekerjaan mereka dan bergegas mencari lokasi selanjutnya.</li>
                                 <li class="text-lg lg:text-2xl">Waktu total untuk tahap ini adalah 70 menit, dan
@@ -1130,33 +1130,33 @@
                             <li class="text-lg lg:text-2xl">
                                 Babak final akan dilaksanakan secara <span
                                     class="underline underline-offset-auto">luring</span> pada<span
-                                    class="font-sans">:</span>
+                                    class="font-inter">:</span>
                                 <br>
                                 <table class="table-auto">
                                     <tbody>
                                         <tr>
                                             <td>
-                                                Hari<span class="font-sans">/</span>tanggal
+                                                Hari<span class="font-inter">/</span>tanggal
                                             </td>
                                             <td>
-                                                <span class="px-1 font-sans">:</span>
+                                                <span class="px-1 font-inter">:</span>
                                             </td>
                                             <td>Sabtu, 9 November 2024</td>
                                         </tr>
                                         <tr>
                                             <td>Pukul</td>
                                             <td>
-                                                <span class="px-1 font-sans">:</span>
+                                                <span class="px-1 font-inter">:</span>
                                             </td>
-                                            <td>13.20 <span class="font-sans">-</span> 15.20 WIB</td>
+                                            <td>13.20 <span class="font-inter">-</span> 15.20 WIB</td>
                                         </tr>
                                         <tr class="align-top">
                                             <td>Lokasi</td>
                                             <td>
-                                                <span class="px-1 font-sans">:</span>
+                                                <span class="px-1 font-inter">:</span>
                                             </td>
                                             <td>
-                                                <span>Ruang D104 <span class="font-sans">-</span> D106 Gedung Dionisius
+                                                <span>Ruang D104 <span class="font-inter">-</span> D106 Gedung Dionisius
                                                     dan
                                                     Laboratorium Kimia Organik dan Kimia Fisika
                                                     <br>
@@ -1169,10 +1169,10 @@
                                 </table>
                             </li>
                             <li class="text-lg lg:text-2xl">Babak final diikuti oleh lima <span
-                                    class="font-sans">(</span>5<span class="font-sans">)</span> tim yang lolos dari
+                                    class="font-inter">(</span>5<span class="font-inter">)</span> tim yang lolos dari
                                 babak semifinal.</li>
                             <li class="text-lg lg:text-2xl">Babak final terdiri atas dua <span
-                                    class="font-sans">(</span>2<span class="font-sans">)</span> tahapan yaitu
+                                    class="font-inter">(</span>2<span class="font-inter">)</span> tahapan yaitu
                                 Praktikum dan Studi Kasus.</li>
                             <li class="text-lg lg:text-2xl">Poin dari babak semifinal tidak diperhitungkan pada babak
                                 final.</li>
@@ -1211,11 +1211,11 @@
                                 <li class="text-lg lg:text-2xl">Tim tidak diperbolehkan untuk berkomunikasi dengan tim
                                     lain dengan cara apapun.</li>
                                 <li class="text-lg lg:text-2xl">Setelah melakukan praktikum, finalis akan menjawab
-                                    soal<span class="font-sans">-</span>soal berdasarkan praktikum yang dilakukan.</li>
+                                    soal<span class="font-inter">-</span>soal berdasarkan praktikum yang dilakukan.</li>
                                 <li class="text-lg lg:text-2xl">Waktu praktikum total yang disediakan adalah 45 menit.
                                 </li>
                                 <li class="text-lg lg:text-2xl">Sistem penilaian pada tahapan praktikum <span
-                                        class="font-sans">(</span>untuk setiap soal<span class="font-sans">)</span>
+                                        class="font-inter">(</span>untuk setiap soal<span class="font-inter">)</span>
                                     bergantung pada tingkat kesulitan soal, dan akan disertakan poin maksimumnya pada
                                     soal.</li>
                             </ol>
@@ -1227,11 +1227,11 @@
 
                             <ol class="mx-4 ms-8 list-decimal font-wonder_magic md:mx-16 lg:mx-40">
                                 <li class="text-lg lg:text-2xl">Finalis akan memasuki ruangan untuk tahapan studi kasus
-                                    dengan topik studi kasus yang berbeda<span class="font-sans">-</span>beda pada tiap
-                                    ruangan. Terdapat tiga <span class="font-sans">(</span>3<span
-                                        class="font-sans">)</span>
+                                    dengan topik studi kasus yang berbeda<span class="font-inter">-</span>beda pada tiap
+                                    ruangan. Terdapat tiga <span class="font-inter">(</span>3<span
+                                        class="font-inter">)</span>
                                     topik yang dibagikan berkaitan dengan bidang Teknik Kimia, masing<span
-                                        class="font-sans">-</span>masing pada ruangan D104, D105 dan D106.</li>
+                                        class="font-inter">-</span>masing pada ruangan D104, D105 dan D106.</li>
                                 <li class="text-lg lg:text-2xl">Tahapan Studi Kasus akan berlangsung selama 14 menit
                                     per ruangan yang terdiri dari 3 menit membaca materi, 4 menit presentasi, dan 7
                                     menit tanya jawab.</li>
@@ -1241,10 +1241,10 @@
                                 <li class="text-lg lg:text-2xl">Waktu total untuk keseluruhan studi kasus adalah 45
                                     menit.</li>
                                 <li class="text-lg lg:text-2xl">Sistem penilaian pada tahap studi kasus akan
-                                    berdasarkan penilaian juri pada masing<span class="font-sans">-</span>masing topik.
+                                    berdasarkan penilaian juri pada masing<span class="font-inter">-</span>masing topik.
                                 </li>
                                 <li class="text-lg lg:text-2xl">Topik yang diberikan untuk studi kasus adalah<span
-                                        class="font-sans">:</span>
+                                        class="font-inter">:</span>
                                     <ul class="list-inside list-image-guidance_silabus">
                                         <li class="text-lg lg:text-2xl">Pemanfaatan kembali limbah menjadi barang
                                             dengan nilai jual.</li>

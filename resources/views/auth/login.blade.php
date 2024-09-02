@@ -14,7 +14,7 @@
             </div>
         @endsession
 
-        <form method="POST" action="{{ route('login') }}" class="font-sans">
+        <form method="POST" action="{{ route('login') }}" class="font-inter">
             @csrf
 
             <div class="relative">
@@ -45,7 +45,7 @@
                 <div>
                     @if (Route::has('password.request'))
                         <a href="{{ route('password.request') }}"
-                            class="font-bold">{{ __('Forgot your password?') }}</a>
+                            class="font-bold italic">{{ __('Forgot your password?') }}</a>
                     @endif
                 </div>
             </div>
