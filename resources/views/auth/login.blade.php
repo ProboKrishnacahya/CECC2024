@@ -35,11 +35,8 @@
 
             <div class="my-3 flex justify-between">
                 <div class="flex items-center gap-2">
-                    <x-checkbox id="remember_me" name="remember"
-                        class="checked:bg-custom-ube focus:ring focus:ring-custom-ube focus:ring-opacity-50" />
-                    <label for="remember_me" class="cursor-pointer font-bold">
-                        {{ __('Remember me') }}
-                    </label>
+                    <x-checkbox id="remember_me" name="remember" />
+                    <label for="remember_me" class="cursor-pointer font-bold">{{ __('Remember me') }}</label>
                 </div>
 
                 <div>

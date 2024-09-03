@@ -8,7 +8,7 @@
 
 <x-app-layout>
     <div
-        class="flex min-h-screen flex-col items-center justify-center space-y-8 bg-home-hero bg-cover bg-center bg-no-repeat px-4 pb-4 pt-20 text-center md:px-8 md:pb-8 md:pt-24 lg:px-16 lg:pb-16">
+        class="flex min-h-screen flex-col items-center justify-center space-y-8 bg-home-hero bg-cover bg-center bg-no-repeat px-4 pb-4 pt-20 text-center md:px-8 md:pb-8 lg:px-10 lg:pb-10">
         <div class="space-y-8">
             <div>
                 <x-logo />
@@ -42,9 +42,9 @@
                                 </th>
                             </tr>
                         </thead>
-                        <tbody>
+                        <tbody class="align-top">
                             @foreach ($answers as $index => $answer)
-                                <tr class="align-top">
+                                <tr>
                                     <td class="{{ $loop->last ? 'rounded-b-md' : '' }} bg-white px-6 py-2">
                                         <p class="text-custom-american_purple md:text-lg">{{ $loop->iteration }}</p>
                                     </td>

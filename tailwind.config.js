@@ -35,6 +35,9 @@ export default {
                     shampoo: '#FFCDFF',
                     dark_purple: '#3F1536',
                     brass: '#A8AA45',
+                    thistle: '#D5C2D2',
+                    screamin_green: '#4DF449',
+                    maximum_yellow: '#FBFF37',
                 }
             },
             fontFamily: {

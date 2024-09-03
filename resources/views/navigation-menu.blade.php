@@ -13,7 +13,7 @@
             <div class="h-0 flex-1 space-y-8 overflow-y-auto p-4">
                 <div>
                     <button type="button"
-                        class="size-10 ml-auto flex items-center justify-center rounded-md border-2 border-white"@click="open = !open">
+                        class="size-10 ms-auto flex items-center justify-center rounded-md border-2 focus:ring focus:ring-white focus:ring-opacity-50"@click="open = !open">
                         <span class="sr-only">Close sidebar</span>
                         <svg class="size-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none"
                             viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -63,13 +63,13 @@
                                 </div>
                             </button>
 
-                            <div id="dropdownTopMobile" class="z-10 hidden w-full divide-y px-4">
+                            <div id="dropdownTopMobile" class="z-10 hidden w-full px-4 transition-all">
                                 <ul aria-labelledby="dropdownTopButton">
                                     <li>
                                         <form method="POST" action="{{ route('logout') }}">
                                             @csrf
                                             <button type="submit"
-                                                class="flex w-full place-content-center gap-2 rounded-md bg-white px-3 py-2 text-red-500"
+                                                class="flex w-full place-content-center gap-2 rounded-md bg-white px-3 py-2 text-red-500 focus:ring focus:ring-red-500 focus:ring-opacity-50"
                                                 role="menuitem" tabindex="-1" id="user-menu-item-2">
                                                 <svg class="size-6 flex-shrink-0 text-red-500"
                                                     xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
@@ -102,7 +102,7 @@
             <div class="flex flex-1 flex-col overflow-y-auto p-4">
                 <div>
                     <button type="button"
-                        class="size-10 ml-auto flex items-center justify-center rounded-md border-2 border-white"
+                        class="size-10 ms-auto flex items-center justify-center rounded-md border-2 focus:ring focus:ring-white focus:ring-opacity-50"
                         @click="open = !open">
                         <span class="sr-only">Close sidebar</span>
                         <svg class="size-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none"
@@ -167,13 +167,13 @@
                                 </div>
                             </button>
 
-                            <div id="dropdownTopTabletDesktop" class="z-10 hidden w-full divide-y px-4">
+                            <div id="dropdownTopTabletDesktop" class="z-10 hidden w-full px-4 transition-all">
                                 <ul aria-labelledby="dropdownTopButton">
                                     <li>
                                         <form method="POST" action="{{ route('logout') }}">
                                             @csrf
                                             <button type="submit"
-                                                class="flex w-full place-content-center gap-2 rounded-md bg-white px-3 py-2 text-red-500"
+                                                class="flex w-full place-content-center gap-2 rounded-md bg-white px-3 py-2 text-red-500 focus:ring focus:ring-red-500 focus:ring-opacity-50"
                                                 role="menuitem" tabindex="-1" id="user-menu-item-2">
                                                 <svg class="size-6 flex-shrink-0 text-red-500"
                                                     xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
@@ -197,7 +197,7 @@
     <div x-show="!open" class="absolute flex flex-1 flex-col">
         <div class="sticky top-0 z-10 py-4 pl-4">
             <button type="button"
-                class="size-12 -ml-0.5 -mt-0.5 inline-flex items-center justify-center rounded-md bg-custom-ube text-white"
+                class="size-12 -ml-0.5 -mt-0.5 inline-flex items-center justify-center rounded-md bg-custom-ube text-white hover:brightness-125 focus:ring focus:ring-custom-ube focus:ring-opacity-50"
                 @click="open = !open">
                 <span class="sr-only">Open sidebar</span>
                 <svg class="size-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"

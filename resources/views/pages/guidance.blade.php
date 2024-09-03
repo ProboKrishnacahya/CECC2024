@@ -676,7 +676,8 @@
                             <li class="text-lg lg:text-2xl">Peserta diperbolehkan menggunakan alat bantu hitung seperti
                                 kalkulator ketika mengerjakan soal.</li>
                             <li class="text-lg lg:text-2xl">
-                                Apabila terdapat kendala pada website <span class="font-inter">(</span>bukan dikarenakan
+                                Apabila terdapat kendala pada website <span class="font-inter">(</span>bukan
+                                dikarenakan
                                 jaringan peserta<span class="font-inter">)</span> dan dialami oleh seluruh peserta,
                                 peserta dapat segera menghubungi panitia dan menyertakan bukti tangkapan layar yang
                                 membuktikan bahwa
@@ -684,7 +685,8 @@
                                 lembar jawaban.
                             </li>
                             <li class="text-lg lg:text-2xl">
-                                Dua puluh lima <span class="font-inter">(</span>25<span class="font-inter">)</span> tim
+                                Dua puluh lima <span class="font-inter">(</span>25<span class="font-inter">)</span>
+                                tim
                                 dengan poin tertinggi akan lolos ke babak semifinal.
                             </li>
                             <li class="text-lg lg:text-2xl">Apabila ada tim dengan perolehan poin yang sama, maka tim
@@ -783,7 +785,8 @@
                             <li class="text-lg lg:text-2xl">
                                 Hasil poin pada babak S<span class="font-inter">-</span>MART, akan
                                 digunakan untuk menentukan lima <span class="font-inter">(</span>5<span
-                                    class="font-inter">)</span> tim dengan nilai tertinggi dan waktu pengerjaan tercepat
+                                    class="font-inter">)</span> tim dengan nilai tertinggi dan waktu pengerjaan
+                                tercepat
                                 yang akan lolos ke babak final.
                             </li>
                             <li class="text-lg lg:text-2xl">Jika terdapat tim dengan besar poin yang sama, maka
@@ -935,7 +938,8 @@
                                 <li class="text-lg lg:text-2xl">Total poin maksimum yang dapat diperoleh dalam tahap
                                     ini adalah 140 poin.</li>
                                 <li class="text-lg lg:text-2xl">Akan terdapat beberapa poin gratis, yang diletakkan di
-                                    sepuluh <span class="font-inter">(</span>10<span class="font-inter">)</span> lokasi
+                                    sepuluh <span class="font-inter">(</span>10<span class="font-inter">)</span>
+                                    lokasi
                                     sekitar kampus Kalijudan Universitas Katolik Widya Mandala Surabaya.</li>
                                 <li class="text-lg lg:text-2xl">Setiap tim akan diberikan satu buah peta yang
                                     menunjukkan denah Kampus Kalijudan Universitas Katolik Widya Mandala Surabaya,
@@ -972,7 +976,8 @@
                                 <li class="text-lg lg:text-2xl">Pada tahap ini, seluruh peserta akan berkumpul di
                                     ruangan Auditorium Gedung A Lantai 2.</li>
                                 <li class="text-lg lg:text-2xl">Pada tahapan ini akan disediakan lima <span
-                                        class="font-inter">(</span>5<span class="font-inter">)</span> tempat pengerjaan
+                                        class="font-inter">(</span>5<span class="font-inter">)</span> tempat
+                                    pengerjaan
                                     soal, dengan setiap tempat akan disediakan 10 paket soal dengan level kesulitan yang
                                     beragam.</li>
                                 <li class="text-lg lg:text-2xl">Setiap paket soal akan memiliki harganya masing<span
@@ -1082,7 +1087,8 @@
                                         </tbody>
                                     </table>
                                     <p>
-                                        <span class="font-inter">(</span><span class="font-inter">*</span>Poin maksimum
+                                        <span class="font-inter">(</span><span class="font-inter">*</span>Poin
+                                        maksimum
                                         hanya didapat bila jawaban yang dipilih peserta disertai dengan cara
                                         penyelesaian yang jelas, jika tidak hanya separuh dari poin maksimum yang akan
                                         diberikan<span class="font-inter">)</span>
@@ -1133,7 +1139,7 @@
                                     class="font-inter">:</span>
                                 <br>
                                 <table class="table-auto">
-                                    <tbody>
+                                    <tbody class="align-top">
                                         <tr>
                                             <td>
                                                 Hari<span class="font-inter">/</span>tanggal
@@ -1150,13 +1156,14 @@
                                             </td>
                                             <td>13.20 <span class="font-inter">-</span> 15.20 WIB</td>
                                         </tr>
-                                        <tr class="align-top">
+                                        <tr>
                                             <td>Lokasi</td>
                                             <td>
                                                 <span class="px-1 font-inter">:</span>
                                             </td>
                                             <td>
-                                                <span>Ruang D104 <span class="font-inter">-</span> D106 Gedung Dionisius
+                                                <span>Ruang D104 <span class="font-inter">-</span> D106 Gedung
+                                                    Dionisius
                                                     dan
                                                     Laboratorium Kimia Organik dan Kimia Fisika
                                                     <br>
@@ -1211,7 +1218,8 @@
                                 <li class="text-lg lg:text-2xl">Tim tidak diperbolehkan untuk berkomunikasi dengan tim
                                     lain dengan cara apapun.</li>
                                 <li class="text-lg lg:text-2xl">Setelah melakukan praktikum, finalis akan menjawab
-                                    soal<span class="font-inter">-</span>soal berdasarkan praktikum yang dilakukan.</li>
+                                    soal<span class="font-inter">-</span>soal berdasarkan praktikum yang dilakukan.
+                                </li>
                                 <li class="text-lg lg:text-2xl">Waktu praktikum total yang disediakan adalah 45 menit.
                                 </li>
                                 <li class="text-lg lg:text-2xl">Sistem penilaian pada tahapan praktikum <span
@@ -1227,7 +1235,8 @@
 
                             <ol class="mx-4 ms-8 list-decimal font-wonder_magic md:mx-16 lg:mx-40">
                                 <li class="text-lg lg:text-2xl">Finalis akan memasuki ruangan untuk tahapan studi kasus
-                                    dengan topik studi kasus yang berbeda<span class="font-inter">-</span>beda pada tiap
+                                    dengan topik studi kasus yang berbeda<span class="font-inter">-</span>beda pada
+                                    tiap
                                     ruangan. Terdapat tiga <span class="font-inter">(</span>3<span
                                         class="font-inter">)</span>
                                     topik yang dibagikan berkaitan dengan bidang Teknik Kimia, masing<span
@@ -1241,7 +1250,8 @@
                                 <li class="text-lg lg:text-2xl">Waktu total untuk keseluruhan studi kasus adalah 45
                                     menit.</li>
                                 <li class="text-lg lg:text-2xl">Sistem penilaian pada tahap studi kasus akan
-                                    berdasarkan penilaian juri pada masing<span class="font-inter">-</span>masing topik.
+                                    berdasarkan penilaian juri pada masing<span class="font-inter">-</span>masing
+                                    topik.
                                 </li>
                                 <li class="text-lg lg:text-2xl">Topik yang diberikan untuk studi kasus adalah<span
                                         class="font-inter">:</span>
