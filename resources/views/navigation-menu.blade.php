@@ -8,12 +8,12 @@
 
 <div x-data="{ open: false }">
     <div x-show="open" class="fixed inset-0 z-50 flex md:hidden" role="dialog" aria-modal="true" aria-label="Sidebar">
-        <div class="fixed inset-0 bg-black bg-opacity-50" aria-hidden="true"></div>
+        <div class="fixed inset-0 bg-black/50" aria-hidden="true"></div>
         <div class="relative flex w-full max-w-fit flex-1 flex-col bg-white/30 text-white backdrop-blur-md">
             <div class="h-0 flex-1 space-y-8 overflow-y-auto p-4">
                 <div>
                     <button type="button"
-                        class="size-10 ms-auto flex items-center justify-center rounded-md border-2 focus:ring focus:ring-white focus:ring-opacity-50"@click="open = !open">
+                        class="size-12 ms-auto flex items-center justify-center rounded-md border-2 focus:ring focus:ring-white focus:ring-opacity-50"@click="open = !open">
                         <span class="sr-only">Close sidebar</span>
                         <svg class="size-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none"
                             viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
@@ -25,14 +25,14 @@
 
                 <nav class="my-4 grid space-y-4">
                     <a href="{{ route('home') }}"
-                        class="flex items-center justify-center gap-3 text-3xl hover:brightness-125">
+                        class="my-2 flex items-center justify-center gap-3 text-3xl hover:brightness-125">
                         <img src="{{ url('/images/Brand/Logo CECC.svg') }}" alt="" class="w-12">
                         <span>CECC 2024</span>
                     </a>
                     <a href="{{ route('guidance') }}"
-                        class="{{ $isGuidance ? 'bg-custom-ube p-2' : '' }} rounded-md font-medium hover:brightness-125">Guidance</a>
+                        class="{{ $isGuidance ? 'bg-custom-ube p-2 focus:ring focus:ring-opacity-50 focus:ring-custom-ube' : '' }} rounded-md font-medium hover:brightness-125">Guidance</a>
                     <a href="{{ route('competition') }}"
-                        class="{{ $isCompetition ? 'bg-custom-ube p-2' : '' }} rounded-md font-medium hover:brightness-125">Competition</a>
+                        class="{{ $isCompetition ? 'bg-custom-ube p-2 focus:ring focus:ring-opacity-50 focus:ring-custom-ube' : '' }} rounded-md font-medium hover:brightness-125">Competition</a>
                 </nav>
 
                 <div class="font-inter font-bold">
@@ -97,12 +97,12 @@
         x-transition:leave="transition ease-in duration-300" x-transition:leave-start="opacity-100 translate-x-0"
         x-transition:leave-end="opacity-0 -translate-x-full"
         class="z-50 hidden md:fixed md:inset-y-0 md:flex md:w-64 md:flex-col">
-        <div class="fixed inset-0 bg-black bg-opacity-50" aria-hidden="true"></div>
+        <div class="fixed inset-0 bg-black/50" aria-hidden="true"></div>
         <div class="flex min-h-0 flex-1 flex-col bg-white/30 text-white backdrop-blur-md">
             <div class="flex flex-1 flex-col overflow-y-auto p-4">
                 <div>
                     <button type="button"
-                        class="size-10 ms-auto flex items-center justify-center rounded-md border-2 focus:ring focus:ring-white focus:ring-opacity-50"
+                        class="size-12 ms-auto flex items-center justify-center rounded-md border-2 focus:ring focus:ring-white focus:ring-opacity-50"
                         @click="open = !open">
                         <span class="sr-only">Close sidebar</span>
                         <svg class="size-6 text-white" xmlns="http://www.w3.org/2000/svg" fill="none"
@@ -115,14 +115,14 @@
 
                 <nav class="my-4 grid space-y-4">
                     <a href="{{ route('home') }}"
-                        class="flex items-center justify-center gap-3 text-3xl hover:brightness-125">
+                        class="my-2 flex items-center justify-center gap-3 text-3xl hover:brightness-125">
                         <img src="{{ url('/images/Brand/Logo CECC.svg') }}" alt="" class="w-12">
                         <span>CECC 2024</span>
                     </a>
                     <a href="{{ route('guidance') }}"
-                        class="{{ $isGuidance ? 'bg-custom-ube p-2' : '' }} rounded-md font-medium hover:brightness-125">Guidance</a>
+                        class="{{ $isGuidance ? 'bg-custom-ube p-2 focus:ring focus:ring-opacity-50 focus:ring-custom-ube' : '' }} rounded-md font-medium hover:brightness-125">Guidance</a>
                     <a href="{{ route('competition') }}"
-                        class="{{ $isCompetition ? 'bg-custom-ube p-2' : '' }} rounded-md font-medium hover:brightness-125">Competition</a>
+                        class="{{ $isCompetition ? 'bg-custom-ube p-2 focus:ring focus:ring-opacity-50 focus:ring-custom-ube' : '' }} rounded-md font-medium hover:brightness-125">Competition</a>
                 </nav>
 
                 <div class="font-inter font-bold">
@@ -195,9 +195,9 @@
     </div>
 
     <div x-show="!open" class="absolute flex flex-1 flex-col">
-        <div class="sticky top-0 z-10 py-4 pl-4">
+        <div class="top-0 z-10 py-4 ps-4">
             <button type="button"
-                class="size-12 -ml-0.5 -mt-0.5 inline-flex items-center justify-center rounded-md bg-custom-ube text-white hover:brightness-125 focus:ring focus:ring-custom-ube focus:ring-opacity-50"
+                class="size-12 -ms-0.5 -mt-0.5 inline-flex items-center justify-center rounded-md bg-custom-ube text-white hover:brightness-125 focus:ring focus:ring-custom-ube focus:ring-opacity-50"
                 @click="open = !open">
                 <span class="sr-only">Open sidebar</span>
                 <svg class="size-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"

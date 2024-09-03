@@ -9,6 +9,7 @@
             <h1 class="text-4xl/tight md:text-6xl/tight lg:text-7xl/tight">2024</h1>
         </div>
 
-        <img src="{{ url('/images/Hero/Tema.png') }}" alt="" class="mx-auto w-5/6 md:w-2/3 lg:w-3/5">
+        <img src="{{ url('/images/Hero/Tema.png') }}" alt="" class="mx-auto w-5/6 md:w-2/3 lg:w-3/5"
+            fetchpriority="high">
     </div>
 </section>

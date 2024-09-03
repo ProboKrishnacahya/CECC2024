@@ -181,7 +181,8 @@
                             </div>
                             <div class="mx-4 grid place-items-center gap-3 md:grid-cols-2 lg:mt-28 lg:gap-0">
                                 <img src="{{ url('/images/Guidance/Bebek.svg') }}" alt=""
-                                    class="me-auto hidden md:ms-40 md:block md:w-1/4 lg:ms-36 lg:w-1/3">
+                                    class="me-auto hidden md:ms-40 md:block md:w-1/4 lg:ms-36 lg:w-1/3"
+                                    loading="lazy">
                                 <img src="{{ url('/images/Guidance/Tongkat Gurita.svg') }}" alt=""
                                     class="absolute right-0 mb-6 hidden md:block md:w-20 lg:w-32">
 
@@ -211,7 +212,7 @@
                                 </div>
                             </div>
                             <img src="{{ url('/images/Guidance/Pembaca.svg') }}" alt=""
-                                class="relative -z-10 w-full md:-mt-80 lg:-mt-96">
+                                class="relative -z-10 w-full md:-mt-80 lg:-mt-96" loading="lazy">
                         </div>
 
                         <img src="{{ url('/images/Guidance/Tombak.svg') }}" alt=""

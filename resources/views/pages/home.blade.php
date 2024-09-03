@@ -6,7 +6,8 @@
     <section
         class="relative bg-gradient-to-b from-custom-licorice from-5% to-custom-eerie_black to-10% p-4 sm:p-6 lg:p-8">
         <img src="{{ url('/images/Home/Apa itu CECC.png') }}" alt="" class="z-10 mx-auto w-5/6 md:w-3/4">
-        <img src="{{ url('/images/Home/Visi & Misi.png') }}" alt="" class="z-10 mx-auto w-11/12 lg:w-[100%]">
+        <img src="{{ url('/images/Home/Visi & Misi.png') }}" alt="" class="z-10 mx-auto w-11/12 lg:w-[100%]"
+            loading="lazy">
 
         <img src="{{ url('/images/Home/Cairan.svg') }}" alt=""
             class="absolute left-0 top-32 w-20 md:top-56 md:w-32 lg:w-80">
@@ -67,7 +68,8 @@
             </div>
         </div>
 
-        <img src="{{ url('/images/Home/Pembaca.svg') }}" alt="" class="z-10 hidden w-5/12 md:block">
+        <img src="{{ url('/images/Home/Pembaca.svg') }}" alt="" class="z-10 hidden w-5/12 md:block"
+            loading="lazy">
 
         <img src="{{ url('/images/Home/Blink Ungu Atas.svg') }}" alt=""
             class="absolute left-1/2 -z-50 mt-36 hidden -translate-x-3/4 -translate-y-1/2 transform md:top-40 md:block md:w-1/3 lg:top-96 lg:mt-48">
@@ -84,7 +86,7 @@
     <section class="px-4 md:px-8 lg:px-20">
         <img src="{{ url('/images/Home/Penghargaan.svg') }}" alt="" class="mx-auto w-2/3 md:w-1/2 lg:w-3/4">
 
-        <img src="{{ url('/images/Home/Juara.svg') }}" alt="" class="mx-auto">
+        <img src="{{ url('/images/Home/Juara.svg') }}" alt="" class="mx-auto" loading="lazy">
         <div class="flex justify-center gap-3 text-center font-metal_mania">
             <div class="md:px-4 lg:px-14">
                 <p class="text-3xl">Juara 2</p>
@@ -104,8 +106,7 @@
         </div>
         <br>
         <p class="text-center font-metal_mania lg:text-lg">Ketiga juara Chemical Engineering Challenge and Competition
-            2024
-            mendapat fasilitas bebas tes masuk, Uang Sumbangan Pendidikan (USP), dan uang kuliah 8 semester jika
+            2024 mendapat fasilitas bebas tes masuk, Uang Sumbangan Pendidikan (USP), dan uang kuliah 8 semester jika
             melanjutkan studi S-1 Program Studi kimia Universitas Katolik Widya Mandala Surabaya</p>
     </section>
 
@@ -116,7 +117,8 @@
             <img src="{{ url('/images/Home/Berlian Pink.svg') }}" alt="" class="h-8 flex-1 md:h-16 lg:h-24">
         </div>
 
-        <img src="{{ url('/images/Home/Bingkai.svg') }}" alt="" class="mx-auto my-5 w-5/6 md:w-3/4 lg:px-6">
+        <img src="{{ url('/images/Home/Bingkai.svg') }}" alt="" class="mx-auto my-5 w-5/6 md:w-3/4 lg:px-6"
+            loading="lazy">
     </section>
 
     <section class="mt-16">

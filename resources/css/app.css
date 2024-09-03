@@ -11,6 +11,10 @@
         text-decoration: none !important;
     }
 
+    button:active {
+        transform: scale(0.95);
+    }
+
     select,
     input:is([type="checkbox"], [type="radio"]) {
         cursor: pointer;

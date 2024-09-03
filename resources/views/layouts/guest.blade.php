@@ -22,7 +22,7 @@
     @livewireStyles
 
     {{-- Favicon --}}
-    <link rel="icon" href="{{ url('images/brand/Logo CECC.svg?v=2') }}" type="image/svg" />
+    <link rel="icon" href="{{ url('images/Brand/Logo CECC.svg?v=2') }}" type="image/svg" />
 </head>
 
 <body

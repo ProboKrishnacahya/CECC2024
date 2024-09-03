@@ -77,7 +77,7 @@
                             <div class="flex justify-between gap-4 font-bold">
                                 <div>
                                     <x-button
-                                        class="rounded-lg py-3 lg:border-0 lg:bg-transparent lg:px-0 lg:py-0 lg:text-xl">
+                                        class="rounded-lg py-3 focus:ring-0 lg:border-0 lg:bg-transparent lg:px-0 lg:py-0 lg:text-xl">
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                             stroke-width="1.5" stroke="currentColor" class="size-6">
                                             <path stroke-linecap="round" stroke-linejoin="round"
@@ -93,7 +93,7 @@
                                 </div>
                                 <div>
                                     <x-button
-                                        class="rounded-lg py-3 lg:border-0 lg:bg-transparent lg:px-0 lg:py-0 lg:text-xl">
+                                        class="rounded-lg py-3 focus:ring-0 lg:border-0 lg:bg-transparent lg:px-0 lg:py-0 lg:text-xl">
                                         <span class="hidden lg:block">Soal selanjutnya</span>
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                                             stroke-width="1.5" stroke="currentColor" class="size-6">
@@ -114,10 +114,10 @@
                                     <div
                                         class="grid grid-cols-6 gap-2 md:grid-cols-3 md:gap-y-4 md:text-lg lg:grid-cols-6 lg:gap-y-2 lg:text-xl">
                                         @foreach ($question_number as $index => $color)
-                                            <div
+                                            <button
                                                 class="{{ $color === 'Putih' ? 'bg-white' : ($color === 'Kuning' ? 'bg-custom-maximum_yellow' : ($color === 'Hijau' ? 'bg-custom-screamin_green' : '')) }} size-12 flex items-center justify-center rounded-md shadow-sm">
-                                                <p class="">{{ $index }}</p>
-                                            </div>
+                                                <p>{{ $index }}</p>
+                                            </button>
                                         @endforeach
                                     </div>
                                 </div>
