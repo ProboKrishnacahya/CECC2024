@@ -11,23 +11,23 @@
     ];
 @endphp
 
-<div class="mx-auto grid w-5/6 grid-cols-2 gap-4">
-    <div class="grid place-items-center gap-4">
+<div class="mx-auto grid w-5/6 grid-cols-1 gap-4 md:grid-cols-2">
+    <div class="flex flex-col items-center gap-4">
         <img src="{{ url('/images/Sponsors/Supported By/Supported By.svg') }}" alt="" class="w-2/3 md:w-3/4"
             loading="lazy">
-        <div class="grid w-11/12 grid-cols-2 place-items-start gap-2 md:w-5/6">
+        <div class="grid w-11/12 grid-cols-2 gap-2 md:w-5/6">
             @foreach ($supportedByLogo as $supportedBy)
-                <img src="{{ url($supportedBy) }}" alt="" class="h-full" loading="lazy">
+                <img src="{{ url($supportedBy) }}" alt="" class="object-contain" loading="lazy">
             @endforeach
         </div>
     </div>
 
-    <div class="grid place-items-center gap-4">
+    <div class="flex flex-col items-center gap-4">
         <img src="{{ url('/images/Sponsors/Media Partner/Media Partner.svg') }}" alt="" class="w-2/3 md:w-3/4"
             loading="lazy">
-        <div class="grid w-11/12 grid-cols-2 place-items-start gap-2 md:w-5/6">
+        <div class="grid w-11/12 grid-cols-2 gap-2 md:w-5/6">
             @foreach ($mediaPartnerLogo as $mediaPartner)
-                <img src="{{ url($mediaPartner) }}" alt="" class="h-full" loading="lazy">
+                <img src="{{ url($mediaPartner) }}" alt="" class="object-contain" loading="lazy">
             @endforeach
         </div>
     </div>

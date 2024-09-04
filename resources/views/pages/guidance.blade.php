@@ -8,7 +8,7 @@
             class="absolute z-0 hidden w-full md:block">
 
         <div class="relative z-10">
-            <div class="mb-4 p-4 lg:px-16 lg:py-3">
+            <div class="mb-4 p-4 md:py-2 lg:mx-24 lg:py-5">
                 <ul class="flex flex-wrap justify-center gap-3 font-wonder_magic text-2xl md:gap-0 md:py-0 lg:flex-nowrap lg:py-4"
                     id="default-tab" data-tabs-toggle="#default-tab-content" role="tablist"
                     data-tabs-active-classes="bg-gradient-to-t from-custom-bright_lavender to-custom-cadmium_violet"
@@ -17,7 +17,15 @@
                         <button
                             class="h-full w-full rounded-2xl border-2 px-5 py-3 text-custom-dark_purple hover:brightness-125 md:rounded-b-none md:rounded-t-[1.75rem] md:px-6 md:py-4 lg:rounded-t-[2.5rem] lg:px-10 lg:py-2"
                             id="alur_pendaftaran-tab" data-tabs-target="#alur_pendaftaran" type="button" role="tab"
-                            aria-controls="alur_pendaftaran" aria-selected="false">Alur Pendaftaran</button>
+                            aria-controls="alur_pendaftaran" aria-selected="false">
+                            <div class="hidden lg:block">
+                                <p>Alur</p>
+                                <p>Pendaftaran</p>
+                            </div>
+                            <div class="lg:hidden">
+                                <p>Alur Pendaftaran</p>
+                            </div>
+                        </button>
                     </li>
                     <li class="inline-block lg:w-full" role="presentation">
                         <button
@@ -89,9 +97,9 @@
                                     class="me-auto flex w-28 md:w-48 lg:mx-auto lg:w-56">
                             </div>
                         </div>
-                        <ul class="mx-8 list-disc font-magic md:mx-32 lg:mx-48">
-                            <li class="text-lg lg:text-xl">Peserta merupakan pelajar aktif SMA/SMK/Sederajat</li>
-                            <li class="text-lg lg:text-xl">1 tim terdiri dari 2 orang anggota dengan ketentuan berasal
+                        <ul class="mx-8 list-disc font-magic md:mx-32 lg:mx-56">
+                            <li class="text-lg lg:text-2xl">Peserta merupakan pelajar aktif SMA/SMK/Sederajat</li>
+                            <li class="text-lg lg:text-2xl">1 tim terdiri dari 2 orang anggota dengan ketentuan berasal
                                 dari sekolah yang sama</li>
                         </ul>
                     </div>
@@ -102,7 +110,7 @@
                             <img src="{{ url('/images/Guidance/Penyihir.svg') }}" alt=""
                                 class="hidden md:block md:w-2/3">
                             <img src="{{ url('/images/Guidance/Garis Alur.svg') }}" alt=""
-                                class="absolute left-1/2 -z-10 hidden w-2/3 -translate-x-1/2 transform md:top-72 md:block lg:top-96">
+                                class="absolute left-1/2 -z-10 hidden w-2/3 -translate-x-1/2 transform md:top-72 md:block lg:top-96 lg:mt-12">
                             <div class="ms-auto flex w-fit">
                                 <img src="{{ url('/images/Guidance/Tanaman Bermata.svg') }}" alt=""
                                     class="ms-auto hidden w-fit md:-mt-10 md:me-28 md:block md:h-28 lg:me-40 lg:h-48">
@@ -112,20 +120,19 @@
                             <div class="mx-4 grid place-items-center gap-3 md:grid-cols-2 lg:gap-0">
                                 <img src="{{ url('/images/Guidance/Jamur.svg') }}" alt=""
                                     class="me-auto hidden md:-mt-40 md:ms-48 md:block md:w-1/6 lg:ms-36 lg:mt-0 lg:w-1/3">
-                                <div class="flex gap-6 md:mt-6 lg:me-8">
-                                    <div class="flex-auto">
+                                <div class="flex gap-6 md:mt-6 lg:mt-28">
+                                    <div class="flex-auto md:my-auto md:w-1/3 lg:my-px lg:-ms-20">
                                         <img src="{{ url('/images/Guidance/Alur 1.svg') }}" alt="">
                                     </div>
-                                    <div class="flex">
+                                    <div class="flex md:w-2/3">
                                         <ul class="list-disc font-magic">
-                                            <li class="text-lg lg:text-xl">Kartu pelajar/surat rekomendasi dalam bentuk
+                                            <li class="text-lg lg:text-2xl">Kartu pelajar/surat rekomendasi dalam
+                                                bentuk
                                                 PDF</li>
-                                            <li class="text-lg lg:text-xl">Foto diri dalam bentuk JPG dengan ketentuan
-                                                rapi
-                                                berkerah dengan
-                                                background berwarna bebas dan polos</li>
-                                            <li class="text-lg lg:text-xl">Bukti pembayaran pendaftaran</li>
-                                            <li class="text-lg lg:text-xl">Screenshot bukti follow Instagram <a
+                                            <li class="text-lg lg:text-2xl">Foto diri dalam bentuk JPG dengan ketentuan
+                                                rapi berkerah dengan background berwarna bebas dan polos</li>
+                                            <li class="text-lg lg:text-2xl">Bukti pembayaran pendaftaran</li>
+                                            <li class="text-lg lg:text-2xl">Screenshot bukti follow Instagram <a
                                                     href="https://www.instagram.com/ceccukwms/" target="_blank"
                                                     rel="noopener noreferrer">@ceccukwms</a> dari masing-masing anggota
                                                 tim dalam bentuk JPG</li>
@@ -134,38 +141,38 @@
                                 </div>
                             </div>
                             <div
-                                class="mx-4 my-4 grid place-items-center gap-3 md:my-0 md:-mt-40 md:grid-cols-2 lg:my-12 lg:gap-0">
+                                class="mx-4 my-4 grid place-items-center gap-3 md:my-0 md:-mt-40 md:grid-cols-2 lg:-my-6 lg:gap-0">
                                 <div class="grid gap-2 md:mx-6">
                                     <img src="{{ url('/images/Guidance/Alur 2.svg') }}" alt=""
-                                        class="me-auto w-2/5 lg:ms-36">
-                                    <div class="ms-4 grid grid-cols-2 gap-4 font-magic lg:ms-36">
+                                        class="me-auto w-2/5 lg:ms-16 lg:w-1/2">
+                                    <div class="ms-4 grid grid-cols-2 gap-4 font-magic lg:ms-16">
                                         <div>
                                             <ul class="list-disc">
-                                                <li class="text-lg lg:text-xl">Batch 1</li>
-                                                <p class="text-lg lg:text-xl">1 Juli - 31 Agustus 2024</p>
-                                                <p class="text-lg lg:text-xl">Biaya pendaftaran:</p>
+                                                <li class="text-lg lg:text-2xl">Batch 1</li>
+                                                <p class="text-lg lg:text-2xl">1 Juli - 31 Agustus 2024</p>
+                                                <p class="text-lg lg:text-2xl">Biaya pendaftaran:</p>
                                                 <ul class="ms-8 list-disc">
-                                                    <li class="text-lg lg:text-xl">Opsi 1: Rp80.000/tim</li>
-                                                    <li class="text-lg lg:text-xl">Opsi 2: Rp200,000/3 tim</li>
+                                                    <li class="text-lg lg:text-2xl">Opsi 1: Rp80.000/tim</li>
+                                                    <li class="text-lg lg:text-2xl">Opsi 2: Rp200,000/3 tim</li>
                                                 </ul>
                                             </ul>
                                             <ul class="list-disc">
-                                                <li class="text-lg lg:text-xl">Batch 2</li>
-                                                <p class="text-lg lg:text-xl">1 September - 7 Oktober 2024</p>
-                                                <p class="text-lg lg:text-xl">Biaya pendaftaran:</p>
+                                                <li class="text-lg lg:text-2xl">Batch 2</li>
+                                                <p class="text-lg lg:text-2xl">1 September - 7 Oktober 2024</p>
+                                                <p class="text-lg lg:text-2xl">Biaya pendaftaran:</p>
                                                 <ul class="ms-8 list-disc">
-                                                    <li class="text-lg lg:text-xl">Opsi 1: Rp100.000/tim</li>
-                                                    <li class="text-lg lg:text-xl">Opsi 2: Rp260,000/3 tim</li>
+                                                    <li class="text-lg lg:text-2xl">Opsi 1: Rp100.000/tim</li>
+                                                    <li class="text-lg lg:text-2xl">Opsi 2: Rp260,000/3 tim</li>
                                                 </ul>
                                             </ul>
                                         </div>
                                         <div>
                                             <ul class="list-disc">
-                                                <li class="text-lg lg:text-xl">Biaya pendaftaran dapat ditransfer ke
+                                                <li class="text-lg lg:text-2xl">Biaya pendaftaran dapat ditransfer ke
                                                     bendahara CECC 2024 melalui beberapa opsi berikut:</li>
                                                 <ul class="ms-8 list-disc">
-                                                    <li class="text-lg lg:text-xl">Bank ....</li>
-                                                    <li class="text-lg lg:text-xl">Bank ....</li>
+                                                    <li class="text-lg lg:text-2xl">Bank ....</li>
+                                                    <li class="text-lg lg:text-2xl">Bank ....</li>
                                                 </ul>
                                             </ul>
                                         </div>
@@ -173,7 +180,7 @@
                                 </div>
 
                                 <img src="{{ url('/images/Guidance/Bunga Kuning.svg') }}" alt=""
-                                    class="absolute mx-auto mb-96 me-48 hidden w-1/6 lg:me-32 lg:block lg:pb-16">
+                                    class="absolute mx-auto mb-96 hidden w-1/6 lg:me-32 lg:block lg:pb-32">
                                 <img src="{{ url('/images/Guidance/Tongkat Topi Penyihir.svg') }}" alt=""
                                     class="mx-auto hidden w-1/3 md:me-10 md:block lg:me-28">
                                 <img src="{{ url('/images/Guidance/Tanaman Liar.svg') }}" alt=""
@@ -181,38 +188,42 @@
                             </div>
                             <div class="mx-4 grid place-items-center gap-3 md:grid-cols-2 lg:mt-28 lg:gap-0">
                                 <img src="{{ url('/images/Guidance/Bebek.svg') }}" alt=""
-                                    class="me-auto hidden md:ms-40 md:block md:w-1/4 lg:ms-36 lg:w-1/3"
+                                    class="me-auto hidden md:ms-40 md:block md:w-1/4 lg:-mt-16 lg:ms-36 lg:w-1/3"
                                     loading="lazy">
                                 <img src="{{ url('/images/Guidance/Tongkat Gurita.svg') }}" alt=""
-                                    class="absolute right-0 mb-6 hidden md:block md:w-20 lg:w-32">
+                                    class="absolute right-0 -z-10 mb-6 hidden md:mb-64 md:block md:w-20 lg:w-32">
 
-                                <div class="flex items-center gap-3 md:-ms-20 md:me-6 lg:-ms-72 lg:me-8">
+                                <div class="flex items-center gap-3 md:-ms-20 md:me-6 lg:-ms-72 lg:-mt-10 lg:me-10">
                                     <div class="flex-auto">
                                         <img src="{{ url('/images/Guidance/Alur 3.svg') }}" alt=""
-                                            class="md:h-28 md:w-fit lg:h-36">
+                                            class="h-28 md:h-28 md:w-fit lg:h-48">
                                     </div>
                                     <div class="flex">
-                                        <p class="font-magic text-lg lg:text-xl">Mengisi data diri dan mengupload
-                                            berkas pendaftaran</p>
+                                        <div class="grid">
+                                            <p class="font-magic text-lg lg:text-2xl">Mengisi data diri dan</p>
+                                            <p class="font-magic text-lg lg:text-2xl">mengupload
+                                                berkas pendaftaran</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                             <div
                                 class="z-10 mx-6 my-4 grid grid-cols-2 gap-3 md:mx-0 md:ms-20 md:grid-cols-1 lg:my-16 lg:ms-56">
-                                <img src="{{ url('/images/Guidance/Alur 4.svg') }}" alt="" class="md:w-1/5">
+                                <img src="{{ url('/images/Guidance/Alur 4.svg') }}" alt=""
+                                    class="md:w-1/5 lg:w-1/3">
                                 <div class="font-magic md:w-1/3">
                                     <ul class="ms-8 list-disc">
-                                        <li class="text-lg lg:text-xl">Konfirmasi pendaftaran</li>
-                                        <li class="text-lg lg:text-xl">Akun login website</li>
-                                        <li class="text-lg lg:text-xl">Link WAG CECC 2024</li>
+                                        <li class="text-lg lg:text-2xl">Konfirmasi pendaftaran</li>
+                                        <li class="text-lg lg:text-2xl">Akun login website</li>
+                                        <li class="text-lg lg:text-2xl">Link WAG CECC 2024</li>
                                     </ul>
                                     <br>
-                                    <p class="text-lg lg:text-xl">Segala pemberitahuan akan disampaikan melalui IG, FB,
-                                        Twitter, dan WAG CECC 2024</p>
+                                    <p class="text-lg lg:text-2xl">Segala pemberitahuan akan disampaikan melalui IG,
+                                        FB, Twitter, dan WAG CECC 2024</p>
                                 </div>
                             </div>
                             <img src="{{ url('/images/Guidance/Pembaca.svg') }}" alt=""
-                                class="relative -z-10 w-full md:-mt-80 lg:-mt-96" loading="lazy">
+                                class="relative -z-10 -mt-16 w-full md:-mt-80 lg:-mt-96" loading="lazy">
                         </div>
 
                         <img src="{{ url('/images/Guidance/Tombak.svg') }}" alt=""
@@ -237,7 +248,7 @@
                         <div class="relative">
                             <img src="{{ url('/images/Guidance/Kimia.svg') }}" alt=""
                                 class="mx-auto w-48 md:w-60 lg:w-80">
-                            <div class="relative mx-4 grid md:mx-16 md:grid-cols-2 md:gap-4 lg:mx-40">
+                            <div class="relative mx-4 grid md:mx-24 md:grid-cols-2 md:gap-4 lg:mx-56 lg:gap-8">
                                 <div>
                                     <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
                                         <li class="text-lg lg:text-2xl">Ikatan Kimia</li>
@@ -280,7 +291,7 @@
                             <img src="{{ url('/images/Home/Blink Oranye Kanan.svg') }}" alt=""
                                 class="absolute right-0 top-96 -z-50 w-16 md:top-80 md:w-24 lg:top-56 lg:w-48">
 
-                            <div class="relative mx-4 grid md:mx-16 md:grid-cols-2 md:gap-4 lg:mx-40">
+                            <div class="relative mx-4 grid md:mx-24 md:grid-cols-2 md:gap-4 lg:mx-56 lg:gap-8">
                                 <div>
                                     <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
                                         <li class="text-lg lg:text-2xl">Besaran dan Satuan</li>
@@ -320,7 +331,7 @@
                         <div class="relative">
                             <img src="{{ url('/images/Guidance/Matematika.svg') }}" alt=""
                                 class="mx-auto mt-3 w-48 md:w-60 lg:w-80">
-                            <div class="relative mx-4 grid md:mx-16 md:grid-cols-2 md:gap-4 lg:mx-40">
+                            <div class="relative mx-4 grid md:mx-24 md:grid-cols-2 md:gap-4 lg:mx-56 lg:gap-8">
                                 <div>
                                     <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
                                         <li class="text-lg lg:text-2xl">Eksponen</li>
@@ -356,7 +367,7 @@
                             <img src="{{ url('/images/Guidance/Kitab.svg') }}" alt=""
                                 class="absolute right-2 top-0 w-32 md:w-52 lg:w-72">
 
-                            <div class="relative mx-4 grid md:mx-16 md:grid-cols-2 md:gap-4 lg:mx-40">
+                            <div class="relative mx-4 grid md:mx-24 md:grid-cols-2 md:gap-4 lg:mx-56 lg:gap-8">
                                 <div>
                                     <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
                                         <li class="text-lg lg:text-2xl">Keanekaragaman Hayati</li>
@@ -384,7 +395,7 @@
                             <img src="{{ url('/images/Guidance/Tongkat Gurita.svg') }}" alt=""
                                 class="absolute right-0 top-0 w-14 md:top-16 md:w-28 lg:w-40">
 
-                            <div class="relative mx-4 grid md:mx-16 md:grid-cols-2 md:gap-4 lg:mx-40">
+                            <div class="relative mx-4 grid md:mx-24 md:grid-cols-2 md:gap-4 lg:mx-56 lg:gap-8">
                                 <div>
                                     <ul class="list-inside list-image-guidance_silabus font-wonder_magic">
                                         <li class="text-lg lg:text-2xl">Manajemen</li>
@@ -409,7 +420,7 @@
                         </div>
                     </div>
 
-                    <div class="relative mx-4 my-5 md:mx-16 lg:mx-40">
+                    <div class="relative mx-4 my-5 md:mx-16 lg:mx-48">
                         <img src="{{ url('/images/Guidance/Babak Semifinal.svg') }}" alt=""
                             class="mx-auto w-64 lg:w-96">
 
@@ -437,7 +448,7 @@
                         <img src="{{ url('/images/Home/Blink Oranye Kanan.svg') }}" alt=""
                             class="absolute -top-8 right-0 -z-50 w-16 md:top-0 md:w-24 lg:w-48">
 
-                        <div class="mx-4 md:mx-16 lg:mx-40">
+                        <div class="mx-4 md:mx-16 lg:mx-56">
                             <img src="{{ url('/images/Guidance/Silabus - Praktikum.svg') }}" alt=""
                                 class="mx-auto w-48 md:w-60 lg:w-80">
                             <h5 class="font-wonder_magic text-xl md:text-center lg:text-2xl">Praktikum Sintesis dan Uji
