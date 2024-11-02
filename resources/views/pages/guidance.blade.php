@@ -949,10 +949,10 @@
                                 </li>
                                 <li class="text-lg lg:text-2xl">Total poin maksimum yang dapat diperoleh dalam tahap
                                     ini adalah 140 poin.</li>
-                                <li class="text-lg lg:text-2xl">Akan terdapat beberapa poin gratis, yang diletakkan di
-                                    sepuluh <span class="font-inter">(</span>10<span class="font-inter">)</span>
-                                    lokasi
-                                    sekitar kampus Kalijudan Universitas Katolik Widya Mandala Surabaya.</li>
+                                <li class="text-lg lg:text-2xl">Akan terdapat beberapa poin gratis dalam bentuk kartu
+                                    kecil, yang disebar di sepuluh <span class="font-inter">(</span>10<span
+                                        class="font-inter">)</span>
+                                    lokasi sekitar kampus Kalijudan Universitas Katolik Widya Mandala Surabaya.</li>
                                 <li class="text-lg lg:text-2xl">Setiap tim akan diberikan satu buah peta yang
                                     menunjukkan denah Kampus Kalijudan Universitas Katolik Widya Mandala Surabaya,
                                     beserta petunjuk<span class="font-inter">-</span>petunjuk mengenai lokasi ruangan
@@ -961,14 +961,15 @@
                                 <li class="text-lg lg:text-2xl">Setiap tim diberi kebebasan untuk mengunjungi ruangan
                                     manapun dan kapanpun, selama pada ruangan tersebut masih tersedia tempat kosong.
                                 </li>
-                                <li class="text-lg lg:text-2xl">Setiap ruangan hanya dapat menampung paling banyak tiga
-                                    <span class="font-inter">(</span>3<span class="font-inter">)</span> tim. Apabila
+                                <li class="text-lg lg:text-2xl">Setiap ruangan hanya dapat menampung paling banyak
+                                    empat
+                                    <span class="font-inter">(</span>4<span class="font-inter">)</span> tim. Apabila
                                     ruangan penuh, maka tim berikutnya dipersilahkan menunggu, atau mencari ruangan
                                     lain.
                                 </li>
                                 <li class="text-lg lg:text-2xl">Suatu tim hanya diperbolehkan untuk mengunjungi setiap
                                     ruangan dalam peta sebanyak satu kali saja. Ruangan yang sudah dikunjungi akan
-                                    diberi stamp oleh panitia pada denah.</li>
+                                    diberi sticker oleh panitia pada denah.</li>
                                 <li class="text-lg lg:text-2xl">Waktu pengerjaan soal pada masing<span
                                         class="font-inter">-</span>masing ruangan adalah
                                     10 menit. Jika waktu telah berakhir, maka peserta harus langsung menyerahkan
@@ -1006,7 +1007,7 @@
                                                     <img src="{{ url('/images/Guidance/Cairan.svg') }}"
                                                         alt="" class="h-8">
                                                 </td>
-                                                <td>1</td>
+                                                <td>Level 1</td>
                                                 <td>
                                                     <span class="px-1 font-inter">:</span>
                                                 </td>
@@ -1017,7 +1018,7 @@
                                                     <img src="{{ url('/images/Guidance/Cairan.svg') }}"
                                                         alt="" class="h-8">
                                                 </td>
-                                                <td>3</td>
+                                                <td>Level 2</td>
                                                 <td>
                                                     <span class="px-1 font-inter">:</span>
                                                 </td>
@@ -1028,22 +1029,11 @@
                                                     <img src="{{ url('/images/Guidance/Cairan.svg') }}"
                                                         alt="" class="h-8">
                                                 </td>
-                                                <td>5</td>
+                                                <td>Level 3</td>
                                                 <td>
                                                     <span class="px-1 font-inter">:</span>
                                                 </td>
-                                                <td>7 poin</td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <img src="{{ url('/images/Guidance/Cairan.svg') }}"
-                                                        alt="" class="h-8">
-                                                </td>
-                                                <td>8</td>
-                                                <td>
-                                                    <span class="px-1 font-inter">:</span>
-                                                </td>
-                                                <td>10 poin</td>
+                                                <td>8 poin</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -1057,7 +1047,7 @@
                                                     <img src="{{ url('/images/Guidance/Cairan.svg') }}"
                                                         alt="" class="h-8">
                                                 </td>
-                                                <td>1</td>
+                                                <td>Level 1</td>
                                                 <td>
                                                     <span class="px-1 font-inter">:</span>
                                                 </td>
@@ -1068,7 +1058,7 @@
                                                     <img src="{{ url('/images/Guidance/Cairan.svg') }}"
                                                         alt="" class="h-8">
                                                 </td>
-                                                <td>3</td>
+                                                <td>Level 2</td>
                                                 <td>
                                                     <span class="px-1 font-inter">:</span>
                                                 </td>
@@ -1079,22 +1069,11 @@
                                                     <img src="{{ url('/images/Guidance/Cairan.svg') }}"
                                                         alt="" class="h-8">
                                                 </td>
-                                                <td>5</td>
+                                                <td>Level 3</td>
                                                 <td>
                                                     <span class="px-1 font-inter">:</span>
                                                 </td>
-                                                <td>14 poin</td>
-                                            </tr>
-                                            <tr>
-                                                <td>
-                                                    <img src="{{ url('/images/Guidance/Cairan.svg') }}"
-                                                        alt="" class="h-8">
-                                                </td>
-                                                <td>8</td>
-                                                <td>
-                                                    <span class="px-1 font-inter">:</span>
-                                                </td>
-                                                <td>20 poin</td>
+                                                <td>16 poin</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -1232,7 +1211,7 @@
                                 <li class="text-lg lg:text-2xl">Setelah melakukan praktikum, finalis akan menjawab
                                     soal<span class="font-inter">-</span>soal berdasarkan praktikum yang dilakukan.
                                 </li>
-                                <li class="text-lg lg:text-2xl">Waktu praktikum total yang disediakan adalah 45 menit.
+                                <li class="text-lg lg:text-2xl">Waktu praktikum total yang disediakan adalah 60 menit.
                                 </li>
                                 <li class="text-lg lg:text-2xl">Sistem penilaian pada tahapan praktikum <span
                                         class="font-inter">(</span>untuk setiap soal<span class="font-inter">)</span>
@@ -1253,13 +1232,13 @@
                                         class="font-inter">)</span>
                                     topik yang dibagikan berkaitan dengan bidang Teknik Kimia, masing<span
                                         class="font-inter">-</span>masing pada ruangan D104, D105 dan D106.</li>
-                                <li class="text-lg lg:text-2xl">Tahapan Studi Kasus akan berlangsung selama 14 menit
-                                    per ruangan yang terdiri dari 3 menit membaca materi, 4 menit presentasi, dan 7
+                                <li class="text-lg lg:text-2xl">Tahapan Studi Kasus akan berlangsung selama 19 menit
+                                    per ruangan yang terdiri dari 4 menit membaca materi, 5 menit presentasi, dan 10
                                     menit tanya jawab.</li>
                                 <li class="text-lg lg:text-2xl">Finalis wajib mengikuti seluruh topik studi kasus
                                     secara bergantian dengan waktu yang diberikan untuk transisi antar ruangan selama 1
                                     menit.</li>
-                                <li class="text-lg lg:text-2xl">Waktu total untuk keseluruhan studi kasus adalah 45
+                                <li class="text-lg lg:text-2xl">Waktu total untuk keseluruhan studi kasus adalah 60
                                     menit.</li>
                                 <li class="text-lg lg:text-2xl">Sistem penilaian pada tahap studi kasus akan
                                     berdasarkan penilaian juri pada masing<span class="font-inter">-</span>masing
